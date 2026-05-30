@@ -1,5 +1,6 @@
 {
-  "buildCommand": "",
+  "installCommand": "echo 'Static site - no install needed'",
+  "buildCommand": "echo 'Static site - no build needed'",
   "outputDirectory": "site",
   "framework": null,
   "cleanUrls": true,

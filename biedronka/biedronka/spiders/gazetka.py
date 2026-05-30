@@ -9,14 +9,37 @@ class LeafletSpider(scrapy.Spider):
     allowed_domains = ["biedronka.pl", "leaflet-api.prod.biedronka.cloud", "images.biedronka.cloud"]
     start_urls = ["https://biedronka.pl/pl/gazetki"]
 
+    AGE_GATE_URL = "https://www.biedronka.pl/front/user/adultconfirmationpress"
+
+    def start_requests(self):
+        """First hit the age-gate confirmation page to establish a session."""
+        yield scrapy.Request(
+            url=self.AGE_GATE_URL,
+            callback=self._submit_age_form,
+            dont_filter=True,
+        )
+
+    def _submit_age_form(self, response):
+        """Submit 'Tak' on the age confirmation form to unlock 18+ leaflets."""
+        yield scrapy.FormRequest(
+            url=self.AGE_GATE_URL,
+            formdata={"yes": "Tak"},
+            callback=self._age_confirmed,
+            dont_filter=True,
+        )
+
+    def _age_confirmed(self, response):
+        """Age confirmed — session cookie is set, proceed to scrape all leaflets."""
+        self.logger.info("Age gate confirmed, proceeding to scrape leaflets.")
+        for url in self.start_urls:
+            yield scrapy.Request(url=url, callback=self.parse, dont_filter=True)
+
     def parse(self, response):
         for a in response.css("a.page-slot-columns::attr(href)").getall():
             yield scrapy.Request(
                     url = response.urljoin(a),
                     callback = self.parse_leaflet
             )
-
-# problem z gazetkami 18+
 
     def parse_leaflet(self, response):
         url = response.request.url
@@ -29,7 +52,11 @@ class LeafletSpider(scrapy.Spider):
                     date = f"{re.search(r'[0-9]{2}\-[0-9]{2}', url).group()}"
             leaflet_id = url.split(",id,")[1].split(",")[0]
             if not Path(f"gazetki/{date} {leaflet_id}").exists():
-                uuid = re.search(r'galleryLeaflet\.init\("([^"]+)"\)', response.text).group(1)
+                match = re.search(r'galleryLeaflet\.init\("([^"]+)"\)', response.text)
+                if not match:
+                    self.logger.warning(f"Nie znaleziono UUID gazetki na stronie: {url}")
+                    return
+                uuid = match.group(1)
                 api_url = 'https://leaflet-api.prod.biedronka.cloud/api/leaflets/'+uuid+'?ctx=web'
                 yield scrapy.Request(
                     url = api_url,

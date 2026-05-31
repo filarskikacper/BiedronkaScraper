@@ -117,7 +117,7 @@ def is_folder_expired(date_label: str) -> bool:
     return False
 
 
-def process_image(session, leaflet, img_path):
+def process_image(session, leaflet, img_path, image_url=None):
     print(f"    [Obraz] {img_path.name} ... ", end="", flush=True)
 
     uploaded = None
@@ -188,6 +188,7 @@ def process_image(session, leaflet, img_path):
             promotion_condition=prod.get("warunek_promocji"),
             lowest_price_30d=parse_price(prod.get("najnizsza_cena_z_30_dni")),
             source_image=img_path.name,
+            image_url=image_url,
         ))
         if main_price is not None:
             observed = leaflet.valid_from or parse_date_from_label(leaflet.date_label) or date.today()
@@ -269,9 +270,15 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
         total = len(images)
         failed_pages = []
 
+        urls_map = {}
+        urls_file = folder / "_urls.json"
+        if urls_file.exists():
+            with open(urls_file, encoding="utf-8") as f:
+                urls_map = json.load(f)
+
         for i, img in enumerate(images):
             print(f"  [{i+1}/{total}] ", end="")
-            success = process_image(session, leaflet, img)
+            success = process_image(session, leaflet, img, image_url=urls_map.get(img.name))
             if not success:
                 failed_pages.append(img.name)
             time.sleep(1)

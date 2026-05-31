@@ -19,7 +19,7 @@ def export_promotions(session):
         SELECT
             p.id AS product_id, p.name, p.category, p.weight_or_volume,
             pr.main_price, pr.offer_type, pr.promotion_condition,
-            pr.lowest_price_30d, pr.source_image,
+            pr.lowest_price_30d, pr.source_image, pr.image_url,
             l.date_label, l.leaflet_id AS ext_leaflet_id,
             l.valid_from, l.valid_to,
             MIN(ph.price) AS min_price_30d
@@ -55,6 +55,7 @@ def export_promotions(session):
             "lowest_price_30d": r.lowest_price_30d,
             "min_price_30d_calculated": r.min_price_30d,
             "source_image": r.source_image,
+            "image_url": r.image_url,
             "date_label": r.date_label,
             "leaflet_id": r.ext_leaflet_id,
             "valid_from": str(r.valid_from) if r.valid_from else None,

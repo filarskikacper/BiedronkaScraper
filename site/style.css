@@ -557,6 +557,31 @@ select:focus {
     text-align: right;
 }
 
+.modal-image-section {
+    margin-top: 1.35rem;
+    padding-top: 1.1rem;
+    border-top: 1px solid var(--border);
+}
+
+.modal-image-link {
+    display: block;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: opacity var(--transition);
+}
+
+.modal-image-link:hover {
+    opacity: 0.85;
+}
+
+.modal-leaflet-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+}
+
 
 .modal-chart-section {
     margin-top: 1.35rem;

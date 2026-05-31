@@ -263,7 +263,13 @@
         <div class="modal-detail-row"><span class="modal-detail-label">Min. cena 30 dni (obliczona):</span><span class="modal-detail-value">${min30dCalc}</span></div>
         <div class="modal-detail-row"><span class="modal-detail-label">Gazetka:</span><span class="modal-detail-value">${p.date_label || '—'}</span></div>
         <div class="modal-detail-row"><span class="modal-detail-label">Ważność:</span><span class="modal-detail-value">${validityStr}</span></div>
-        ${p.source_image ? `<div class="modal-detail-row"><span class="modal-detail-label">Źródłowy obraz:</span><span class="modal-detail-value">${escapeHtml(p.source_image)}</span></div>` : ''}
+        ${p.image_url ? `
+        <div class="modal-image-section">
+            <h3 class="modal-chart-title">Strona gazetki</h3>
+            <a href="${p.image_url}" target="_blank" rel="noopener" class="modal-image-link">
+                <img src="${p.image_url}" alt="Strona gazetki" class="modal-leaflet-image" loading="lazy">
+            </a>
+        </div>` : ''}
 
         <div class="modal-chart-section">
             <h3 class="modal-chart-title">Historia cen</h3>

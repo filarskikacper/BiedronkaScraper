@@ -51,6 +51,7 @@ class Promotion(Base):
     promotion_condition = Column(String)
     lowest_price_30d = Column(Float)
     source_image = Column(String)
+    image_url = Column(String)
     created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
 
     leaflet = relationship("Leaflet", back_populates="promotions")

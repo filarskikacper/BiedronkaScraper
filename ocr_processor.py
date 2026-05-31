@@ -255,7 +255,31 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
 
         existing = session.query(Leaflet).filter_by(leaflet_id=ext_id).first()
         if existing and existing.processed:
-            print(f"Juz przetworzona: {folder.name}")
+            missing_urls = session.query(Promotion).filter(
+                Promotion.leaflet_id == existing.id,
+                Promotion.image_url.is_(None),
+                Promotion.source_image.isnot(None),
+            ).all()
+            if missing_urls:
+                urls_file = folder / "_urls.json"
+                if urls_file.exists():
+                    with open(urls_file, encoding="utf-8") as f:
+                        urls_map = json.load(f)
+                    updated = 0
+                    for promo in missing_urls:
+                        url = urls_map.get(promo.source_image)
+                        if url:
+                            promo.image_url = url
+                            updated += 1
+                    if updated:
+                        session.commit()
+                        print(f"Uzupelniono {updated} URL-i obrazow: {folder.name}")
+                    else:
+                        print(f"Juz przetworzona: {folder.name}")
+                else:
+                    print(f"Juz przetworzona: {folder.name}")
+            else:
+                print(f"Juz przetworzona: {folder.name}")
             continue
 
         print(f"Przetwarzam: {folder.name}")

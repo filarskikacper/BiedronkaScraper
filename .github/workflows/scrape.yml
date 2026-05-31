@@ -8,7 +8,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 240
 
     steps:
       - name: Checkout repository
@@ -36,13 +36,13 @@ jobs:
       - name: Scrape leaflets
         working-directory: biedronka
         run: scrapy crawl gazetka -s LOG_LEVEL=INFO
-        timeout-minutes: 30
+        timeout-minutes: 60
 
       - name: Process leaflets with Gemini OCR
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python ocr_processor.py --leaflet-dir biedronka/gazetki --db biedronka.db
-        timeout-minutes: 120
+        timeout-minutes: 150
 
       - name: Export static data
         run: python export_static.py --db biedronka.db --out site/data

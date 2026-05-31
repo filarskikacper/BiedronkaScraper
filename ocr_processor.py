@@ -1,4 +1,4 @@
-import argparse, json, os, re, time, random
+import argparse, json, os, re, shutil, time, random
 from datetime import date
 from pathlib import Path
 
@@ -23,6 +23,17 @@ ZASADY:
 1. Jeśli strona to okładka, przepis, reklama bez produktów i cen — zwróć pustą listę "produkty". Nie zmyślaj.
 2. Rozróżniaj typy ofert. Cena bez przekreśleń/warunków = "cena_regularna". Z promocją = "promocja".
 3. Zwróć TYLKO poprawny JSON, bez tekstu przed/po.
+4. Kategorię przypisuj starannie — "Inne" używaj TYLKO gdy produkt naprawdę nie pasuje do żadnej z poniższych:
+   - "Nabiał" — mleko, jogurty, sery, masło, śmietana, kefir, twaróg
+   - "Mięso" — mięso, wędliny, drób, kiełbasy, szynki, parówki, kabanosy, ryby
+   - "Pieczywo" — chleb, bułki, bagietki, ciasta, torty
+   - "Owoce i Warzywa" — owoce, warzywa, sałatki, ziemniaki, grzyby
+   - "Napoje" — woda, soki, napoje gazowane, kawa, herbata, energy drinki
+   - "Słodycze" — czekolady, cukierki, batony, wafle, ciastka, lody, chipsy
+   - "Chemia" — proszki, płyny do prania, środki czystości, kosmetyki, higiena, papier toaletowy
+   - "Alkohol" — piwo, wino, wódka, likier
+   - "Mrożonki" — mrożone warzywa, ryby mrożone, pizza mrożona, lody (jeśli mrożone)
+   - "Inne" — TYLKO jeśli produkt nie pasuje do żadnej powyższej kategorii
 
 JSON:
 {
@@ -32,7 +43,7 @@ JSON:
   "produkty": [
     {
       "nazwa_produktu": "Pełna nazwa z marką",
-      "kategoria": "Nabiał|Mięso|Pieczywo|Owoce i Warzywa|Napoje|Słodycze|Chemia|Alkohol|Mrożonki|Inne",
+      "kategoria": "jedna z: Nabiał, Mięso, Pieczywo, Owoce i Warzywa, Napoje, Słodycze, Chemia, Alkohol, Mrożonki, Inne",
       "waga_lub_pojemnosc": "np. 1 L, 500 g lub null",
       "typ_oferty": "promocja|cena_regularna",
       "cena_glowna_widoczna": "np. 5.99",
@@ -47,12 +58,10 @@ JSON:
 MAX_RETRIES = 5
 BASE_RETRY_DELAY = 4
 
-# Errors that are worth retrying (transient API issues)
 RETRIABLE_PATTERNS = ["429", "rate", "quota", "503", "overload", "unavailable", "internal", "capacity"]
 
 
 def _is_retriable(error_msg: str) -> bool:
-    """Check if an error message indicates a transient, retriable issue."""
     err_lower = error_msg.lower()
     return any(p in err_lower for p in RETRIABLE_PATTERNS)
 
@@ -109,10 +118,8 @@ def is_folder_expired(date_label: str) -> bool:
 
 
 def process_image(session, leaflet, img_path):
-    """Process a single leaflet page image. Returns True on success, False on failure."""
     print(f"    [Obraz] {img_path.name} ... ", end="", flush=True)
 
-    # Upload the file once, outside the retry loop
     uploaded = None
     try:
         uploaded = client.files.upload(file=str(img_path))
@@ -133,7 +140,6 @@ def process_image(session, leaflet, img_path):
         except Exception as e:
             err = str(e)
             if _is_retriable(err) and attempt < MAX_RETRIES:
-                # Exponential backoff with jitter (±30%)
                 base_delay = BASE_RETRY_DELAY * (2 ** (attempt - 1))
                 jitter = base_delay * random.uniform(-0.3, 0.3)
                 delay = max(2, base_delay + jitter)
@@ -145,7 +151,7 @@ def process_image(session, leaflet, img_path):
 
     if not data or not data.get("strona_zawiera_produkty"):
         print("Brak produktow")
-        return True  # Page processed successfully, just no products
+        return True
 
     vf = parse_validity_date(data.get("data_waznosci_od"))
     vt = parse_validity_date(data.get("data_waznosci_do"))
@@ -165,7 +171,6 @@ def process_image(session, leaflet, img_path):
         if not product:
             continue
 
-        # Guard against duplicate promotions (same leaflet + product + source image)
         existing_promo = session.query(Promotion).filter_by(
             leaflet_id=leaflet.id,
             product_id=product.id,
@@ -186,7 +191,6 @@ def process_image(session, leaflet, img_path):
         ))
         if main_price is not None:
             observed = leaflet.valid_from or parse_date_from_label(leaflet.date_label) or date.today()
-            # Avoid duplicate price history entries
             existing_ph = session.query(PriceHistory).filter_by(
                 product_id=product.id,
                 leaflet_id=leaflet.id,
@@ -223,6 +227,7 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
 
     processed_count = 0
     skipped = 0
+    deleted = 0
 
     for folder in folders:
         parts = folder.name.rsplit(" ", 1)
@@ -232,14 +237,22 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
 
         date_label, ext_id = parts
 
+        expired = False
         if is_folder_expired(date_label):
+            expired = True
+        else:
+            existing_check = session.query(Leaflet).filter_by(leaflet_id=ext_id).first()
+            if existing_check and existing_check.valid_to and existing_check.valid_to < date.today():
+                expired = True
+
+        if expired:
+            shutil.rmtree(folder, ignore_errors=True)
+            print(f"Usunieto nieaktualna gazetke: {folder.name}")
             skipped += 1
+            deleted += 1
             continue
 
         existing = session.query(Leaflet).filter_by(leaflet_id=ext_id).first()
-        if existing and existing.valid_to and existing.valid_to < date.today():
-            skipped += 1
-            continue
         if existing and existing.processed:
             print(f"Juz przetworzona: {folder.name}")
             continue
@@ -263,7 +276,6 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
                 failed_pages.append(img.name)
             time.sleep(1)
 
-        # Only mark as processed if ALL pages succeeded
         if not failed_pages:
             leaflet.processed = True
             print(f"  Gazetka kompletna ({total} stron)")
@@ -276,16 +288,18 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
         processed_count += 1
 
     print(f"\nGotowe! Przetworzono {processed_count} gazetek.")
+    if deleted:
+        print(f"Usunieto {deleted} nieaktualnych folderow z dysku.")
     if skipped:
         print(f"Pominieto {skipped} przeterminowanych.")
     session.close()
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="BiedronkaScraper — procesor OCR")
+    parser = argparse.ArgumentParser()
     parser.add_argument("--leaflet-dir", default="biedronka/gazetki")
     parser.add_argument("--db", default="biedronka.db")
-    parser.add_argument("--purge", action="store_true", help="Tylko wyczysc stare dane")
+    parser.add_argument("--purge", action="store_true")
     args = parser.parse_args()
 
     if args.purge:

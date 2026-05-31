@@ -1,15 +1,3 @@
-"""
-export_static.py — Eksportuje dane z bazy SQLite do statycznych plików JSON.
-
-Generuje:
-  site/data/promotions.json  — lista wszystkich aktywnych i nieaktywnych promocji
-  site/data/stats.json       — statystyki (liczba produktów, gazetek itd.)
-  site/data/history/<id>.json — historia cen per produkt
-
-Użycie:
-    python export_static.py [--db biedronka.db] [--out site/data]
-"""
-
 import argparse
 import json
 import os
@@ -21,14 +9,12 @@ from database import init_db, get_session
 
 
 def _json_serial(obj):
-    """Serializacja typów date/datetime do JSON."""
     if isinstance(obj, (date, datetime)):
         return obj.isoformat()
     raise TypeError(f"Typ {type(obj)} nie jest serializowalny")
 
 
 def export_promotions(session):
-    """Eksportuje wszystkie promocje (aktywne i nieaktywne)."""
     query = """
         SELECT
             p.id AS product_id, p.name, p.category, p.weight_or_volume,
@@ -79,7 +65,6 @@ def export_promotions(session):
 
 
 def export_stats(session):
-    """Eksportuje statystyki dashboardu."""
     total_products = session.execute(text("SELECT COUNT(*) FROM products")).scalar() or 0
     total_promos = session.execute(
         text("SELECT COUNT(*) FROM promotions WHERE offer_type = 'promocja'")
@@ -110,11 +95,9 @@ def export_stats(session):
 
 
 def export_histories(session, out_dir):
-    """Eksportuje historię cen per produkt do osobnych plików JSON."""
     history_dir = os.path.join(out_dir, "history")
     os.makedirs(history_dir, exist_ok=True)
 
-    # Pobierz unikalne ID produktów, które mają historię cen
     product_ids = [
         row[0] for row in session.execute(
             text("SELECT DISTINCT product_id FROM price_history")
@@ -153,14 +136,14 @@ def export_histories(session, out_dir):
         with open(os.path.join(history_dir, f"{pid}.json"), "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, default=_json_serial)
 
-    print(f"  Wyeksportowano historię cen dla {len(product_ids)} produktów")
+    print(f"  Wyeksportowano historie cen dla {len(product_ids)} produktow")
     return len(product_ids)
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Eksport danych do statycznych plików JSON")
-    parser.add_argument("--db", default="biedronka.db", help="Ścieżka do bazy SQLite")
-    parser.add_argument("--out", default="site/data", help="Katalog wyjściowy")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--db", default="biedronka.db")
+    parser.add_argument("--out", default="site/data")
     args = parser.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
@@ -169,22 +152,18 @@ def main():
     session = get_session(args.db)
 
     try:
-        # 1. Promocje
         promotions = export_promotions(session)
         with open(os.path.join(args.out, "promotions.json"), "w", encoding="utf-8") as f:
             json.dump(promotions, f, ensure_ascii=False, indent=2, default=_json_serial)
-        print(f"  promotions.json — {len(promotions)} rekordów")
+        print(f"  promotions.json — {len(promotions)} rekordow")
 
-        # 2. Statystyki
         stats = export_stats(session)
         with open(os.path.join(args.out, "stats.json"), "w", encoding="utf-8") as f:
             json.dump(stats, f, ensure_ascii=False, indent=2, default=_json_serial)
-        print(f"  stats.json — OK")
+        print("  stats.json — OK")
 
-        # 3. Historie cen
         export_histories(session, args.out)
-
-        print("Eksport zakończony pomyślnie!")
+        print("Eksport zakonczony!")
     finally:
         session.close()
 

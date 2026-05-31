@@ -1,9 +1,3 @@
-"""
-database.py — Modele SQLAlchemy i helpery dla BiedronkaScraper.
-
-Tabele: Leaflets, Products, Promotions, PriceHistory
-"""
-
 from datetime import datetime, date, timezone
 from difflib import SequenceMatcher
 
@@ -110,29 +104,22 @@ def find_or_create_product(
     session, name: str, category: str = None,
     weight_or_volume: str = None, threshold: float = 0.85,
 ) -> Product:
-    """
-    Szuka istniejącego produktu — najpierw exact match (case-insensitive),
-    potem fuzzy match (SequenceMatcher >= threshold) po WSZYSTKICH produktach
-    (bez filtrowania po kategorii, żeby uniknąć duplikatów).
-    Uzupełnia brakującą kategorię/wagę, ale nie nadpisuje istniejących.
-    """
     if not name:
         return None
 
     normalized = name.strip().lower()
+    needs_category = lambda p: not p.category or p.category == "Inne"
 
-    # 1) Exact match (case-insensitive) — fastest path
     exact = session.query(Product).filter(
         func.lower(Product.name) == normalized
     ).first()
     if exact:
-        if category and not exact.category:
+        if category and category != "Inne" and needs_category(exact):
             exact.category = category
         if weight_or_volume and not exact.weight_or_volume:
             exact.weight_or_volume = weight_or_volume
         return exact
 
-    # 2) Fuzzy match across ALL products (no category filter to avoid duplicates)
     candidates = session.query(Product).all()
 
     best_match = None
@@ -145,13 +132,12 @@ def find_or_create_product(
             best_match = product
 
     if best_match and best_ratio >= threshold:
-        if category and not best_match.category:
+        if category and category != "Inne" and needs_category(best_match):
             best_match.category = category
         if weight_or_volume and not best_match.weight_or_volume:
             best_match.weight_or_volume = weight_or_volume
         return best_match
 
-    # 3) No match — create new product
     product = Product(name=name, category=category, weight_or_volume=weight_or_volume)
     session.add(product)
     session.flush()
@@ -159,12 +145,6 @@ def find_or_create_product(
 
 
 def purge_expired(session, before_date: date = None) -> dict:
-    """
-    Usuwa z bazy przeterminowane gazetki razem z ich promocjami i historią cen.
-    Potem sprząta osierocone produkty (takie, do których nie ma już żadnych promocji).
-
-    Zwraca słownik z liczbą usuniętych rekordów.
-    """
     cutoff = before_date or date.today()
 
     expired_leaflets = (
@@ -184,7 +164,6 @@ def purge_expired(session, before_date: date = None) -> dict:
 
     session.flush()
 
-    # Osierocone produkty — nie mają już żadnej promocji
     orphans = (
         session.query(Product)
         .outerjoin(Promotion)

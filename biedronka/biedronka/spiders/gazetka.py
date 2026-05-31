@@ -12,7 +12,6 @@ class LeafletSpider(scrapy.Spider):
     AGE_GATE_URL = "https://www.biedronka.pl/front/user/adultconfirmationpress"
 
     def start_requests(self):
-        """First hit the age-gate confirmation page to establish a session."""
         yield scrapy.Request(
             url=self.AGE_GATE_URL,
             callback=self._submit_age_form,
@@ -20,7 +19,6 @@ class LeafletSpider(scrapy.Spider):
         )
 
     def _submit_age_form(self, response):
-        """Submit 'Tak' on the age confirmation form to unlock 18+ leaflets."""
         yield scrapy.FormRequest(
             url=self.AGE_GATE_URL,
             formdata={"yes": "Tak"},
@@ -29,7 +27,6 @@ class LeafletSpider(scrapy.Spider):
         )
 
     def _age_confirmed(self, response):
-        """Age confirmed — session cookie is set, proceed to scrape all leaflets."""
         self.logger.info("Age gate confirmed, proceeding to scrape leaflets.")
         for url in self.start_urls:
             yield scrapy.Request(url=url, callback=self.parse, dont_filter=True)
@@ -80,4 +77,3 @@ class LeafletSpider(scrapy.Spider):
                 leaflet_id = leaflet_id,
                 date = date
             )
-

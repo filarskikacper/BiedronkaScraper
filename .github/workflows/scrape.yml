@@ -2,10 +2,8 @@ name: Scrape & Deploy
 
 on:
   schedule:
-    # Codziennie o 20:00 CET (18:00 UTC)
     - cron: '0 18 * * *'
   workflow_dispatch:
-    # Możliwość ręcznego uruchomienia z poziomu GitHub
 
 jobs:
   scrape:
@@ -13,13 +11,11 @@ jobs:
     timeout-minutes: 60
 
     steps:
-      # ── 1. Checkout kodu ──
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── 2. Python ──
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -28,7 +24,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 3. Odtworzenie bazy SQLite z artifacts ──
       - name: Restore database from artifacts
         uses: dawidd6/action-download-artifact@v6
         with:
@@ -38,24 +33,20 @@ jobs:
           if_no_artifact_found: warn
         continue-on-error: true
 
-      # ── 4. Scraping gazetek ──
       - name: Scrape leaflets
         working-directory: biedronka
         run: scrapy crawl gazetka -s LOG_LEVEL=INFO
-        timeout-minutes: 15
+        timeout-minutes: 25
 
-      # ── 5. OCR processing ──
       - name: Process leaflets with Gemini OCR
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python ocr_processor.py --leaflet-dir biedronka/gazetki --db biedronka.db
         timeout-minutes: 30
 
-      # ── 6. Export do statycznych JSON-ów ──
       - name: Export static data
         run: python export_static.py --db biedronka.db --out site/data
 
-      # ── 7. Zapisanie bazy SQLite jako artifact ──
       - name: Save database artifact
         uses: actions/upload-artifact@v4
         with:
@@ -64,7 +55,6 @@ jobs:
           retention-days: 30
           overwrite: true
 
-      # ── 8. Commit i push zaktualizowanych danych ──
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

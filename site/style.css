@@ -1,7 +1,7 @@
 :root {
     --font: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 
-    /* Palette — warm, slightly off-white */
+
     --bg: #FAF9F6;
     --bg-card: #FFFFFF;
     --bg-card-hover: #FEFEFE;
@@ -31,7 +31,7 @@
     --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* ─── Reset ───────────────────────────────────────────────────────────────── */
+
 *,
 *::before,
 *::after {
@@ -49,7 +49,7 @@ body {
     min-height: 100vh;
 }
 
-/* ─── Header ──────────────────────────────────────────────────────────────── */
+
 .header {
     background: var(--bg-card);
     border-bottom: 1px solid var(--border);
@@ -95,7 +95,7 @@ body {
     letter-spacing: 0.01em;
 }
 
-/* ─── Stats Bar ───────────────────────────────────────────────────────────── */
+
 .stats-bar {
     background: var(--bg-card);
     border-bottom: 1px solid var(--border);
@@ -150,7 +150,7 @@ body {
     margin-top: 0.15rem;
 }
 
-/* ─── Controls ────────────────────────────────────────────────────────────── */
+
 .controls {
     padding: 1.35rem 0;
     position: sticky;
@@ -274,7 +274,7 @@ select:focus {
     border-color: var(--border-hover);
 }
 
-/* ─── Products Grid ───────────────────────────────────────────────────────── */
+
 .main {
     max-width: 1240px;
     margin: 0 auto;
@@ -287,7 +287,7 @@ select:focus {
     gap: 0.9rem;
 }
 
-/* ─── Product Card ────────────────────────────────────────────────────────── */
+
 .product-card {
     background: transparent;
     border: none;
@@ -313,7 +313,7 @@ select:focus {
     border-top-color: var(--accent);
 }
 
-/* Expired card */
+
 .product-card--expired {
     opacity: 0.55;
 }
@@ -396,7 +396,7 @@ select:focus {
     color: var(--accent);
 }
 
-/* ─── Modal ───────────────────────────────────────────────────────────────── */
+
 .modal-overlay {
     position: fixed;
     inset: 0;
@@ -557,7 +557,7 @@ select:focus {
     text-align: right;
 }
 
-/* ─── Chart ───────────────────────────────────────────────────────────────── */
+
 .modal-chart-section {
     margin-top: 1.35rem;
     padding-top: 1.1rem;
@@ -606,7 +606,7 @@ select:focus {
     animation: spin 0.9s linear infinite;
 }
 
-/* ─── States ──────────────────────────────────────────────────────────────── */
+
 .loading-state {
     grid-column: 1 / -1;
     display: flex;
@@ -655,7 +655,7 @@ select:focus {
     font-weight: 500;
 }
 
-/* ─── Footer ──────────────────────────────────────────────────────────────── */
+
 .footer {
     text-align: center;
     padding: 1.75rem 2rem;
@@ -666,7 +666,7 @@ select:focus {
     background: var(--bg-card);
 }
 
-/* ─── Responsive ──────────────────────────────────────────────────────────── */
+
 @media (max-width: 768px) {
     .header-inner {
         flex-direction: column;
@@ -716,7 +716,7 @@ select:focus {
     }
 }
 
-/* ─── Scrollbar (modal) ──────────────────────────────────────────────────── */
+
 .modal-content::-webkit-scrollbar {
     width: 5px;
 }

@@ -38,7 +38,7 @@ jobs:
         run: scrapy crawl gazetka -s LOG_LEVEL=INFO
         timeout-minutes: 60
 
-      - name: Process leaflets with Gemini OCR
+      - name: Process leaflets 
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python ocr_processor.py --leaflet-dir biedronka/gazetki --db biedronka.db
@@ -58,7 +58,7 @@ jobs:
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔄 Aktualizacja danych promocji [CI]"
+          commit_message: "Aktualizacja danych promocji"
           file_pattern: "site/data/**"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"

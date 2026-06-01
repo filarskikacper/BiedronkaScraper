@@ -1,8 +1,8 @@
 {
-  "products": 1116,
-  "promotions": 994,
-  "leaflets": 12,
-  "expired": 995,
+  "products": 1005,
+  "promotions": 893,
+  "leaflets": 8,
+  "expired": 357,
   "categories": [
     "Alkohol",
     "Chemia",
@@ -15,5 +15,5 @@
     "Pieczywo",
     "Słodycze"
   ],
-  "last_updated": "2026-05-31"
+  "last_updated": "2026-06-01"
 }

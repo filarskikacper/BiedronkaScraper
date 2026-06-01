@@ -47,6 +47,8 @@ class Promotion(Base):
     product_id = Column(Integer, ForeignKey("products.id"), nullable=False)
     offer_type = Column(String)
     main_price = Column(Float)
+    old_price = Column(Float)
+    discount_percentage = Column(String)
     regular_unit_price = Column(Float)
     promotion_condition = Column(String)
     lowest_price_30d = Column(Float)

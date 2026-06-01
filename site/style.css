@@ -390,10 +390,79 @@ select:focus {
     color: var(--promo);
 }
 
+.promo-badge {
+    font-size: 0.68rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--promo);
+    background: var(--promo-light);
+    padding: 2px 8px;
+    border-radius: 16px;
+}
+
+.regular-badge {
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    background: var(--bg);
+    padding: 2px 8px;
+    border-radius: 16px;
+}
+
 .product-condition {
     font-size: 0.78rem;
     font-weight: 500;
     color: var(--accent);
+}
+
+.product-price-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.product-old-price {
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-decoration: line-through;
+}
+
+.product-discount-badge {
+    font-size: 0.68rem;
+    font-weight: 700;
+    color: #D94C3C;
+    background: rgba(217, 76, 60, 0.1);
+    padding: 1px 6px;
+    border-radius: 3px;
+    letter-spacing: 0.02em;
+}
+
+.product-multi-leaflet {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    font-weight: 500;
+    margin-left: auto;
+}
+
+.modal-old-price {
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-decoration: line-through;
+}
+
+.modal-discount-badge {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #D94C3C;
+    background: rgba(217, 76, 60, 0.1);
+    padding: 2px 8px;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
 }
 
 

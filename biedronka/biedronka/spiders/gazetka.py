@@ -4,6 +4,13 @@ import json
 from pathlib import Path
 from biedronka.items import ImageItem
 
+UUID_PATTERNS = [
+    r'galleryLeaflet\.init\("([^"]+)"\)',
+    r'Leaflet\.init\("([^"]+)"\)',
+    r'"leafletId"\s*:\s*"([0-9a-f\-]{36})"',
+    r'"uuid"\s*:\s*"([0-9a-f\-]{36})"',
+]
+
 class LeafletSpider(scrapy.Spider):
     name = "gazetka"
     allowed_domains = ["biedronka.pl", "leaflet-api.prod.biedronka.cloud", "images.biedronka.cloud"]
@@ -33,47 +40,62 @@ class LeafletSpider(scrapy.Spider):
 
     def parse(self, response):
         for a in response.css("a.page-slot-columns::attr(href)").getall():
+            full_url = response.urljoin(a)
+            if "/press," not in full_url and "/pressadult," not in full_url:
+                continue
             yield scrapy.Request(
-                    url = response.urljoin(a),
-                    callback = self.parse_leaflet
+                    url=full_url,
+                    callback=self.parse_leaflet
             )
 
     def parse_leaflet(self, response):
         url = response.request.url
-        if  ",id," in url:
-            date = 'UNKNOWN'
-            if re.search(r'\-[0-9]{2}\-[0-9]{2}', url):
-                if "-od-" in url:
-                    date = f"OD {re.search(r'[0-9]{2}\-[0-9]{2}', url).group()}"
-                else:
-                    date = f"{re.search(r'[0-9]{2}\-[0-9]{2}', url).group()}"
-            leaflet_id = url.split(",id,")[1].split(",")[0]
-            if not Path(f"gazetki/{date} {leaflet_id}").exists():
-                match = re.search(r'galleryLeaflet\.init\("([^"]+)"\)', response.text)
-                if not match:
-                    self.logger.warning(f"Nie znaleziono UUID gazetki na stronie: {url}")
-                    return
-                uuid = match.group(1)
-                api_url = 'https://leaflet-api.prod.biedronka.cloud/api/leaflets/'+uuid+'?ctx=web'
-                yield scrapy.Request(
-                    url = api_url,
-                    headers = {
-                        "Origin": "https://www.biedronka.pl",
-                        "Referer": "https://www.biedronka.pl"
-                    },
-                    callback = self.parse_api,
-                    cb_kwargs = {
-                        'leaflet_id': leaflet_id,
-                        'date': date
-                    }
-            )
+        if  ",id," not in url:
+            return
 
+        date_label = 'UNKNOWN'
+        date_match = re.search(r'-(\d{2}-\d{2})', url)
+        if date_match:
+            raw_date = date_match.group(1)
+            if "-od-" in url:
+                date_label = f"OD {raw_date}"
+            else:
+                date_label = raw_date
+
+        leaflet_id = url.split(",id,")[1].split(",")[0]
+        if Path(f"gazetki/{date_label} {leaflet_id}").exists():
+            return
+
+        uuid = None
+        for pattern in UUID_PATTERNS:
+            match = re.search(pattern, response.text)
+            if match:
+                uuid = match.group(1)
+                break
+
+        if not uuid:
+            self.logger.warning(f"Nie znaleziono UUID gazetki na stronie: {url}")
+            return
+
+        api_url = f'https://leaflet-api.prod.biedronka.cloud/api/leaflets/{uuid}?ctx=web'
+        yield scrapy.Request(
+            url=api_url,
+            headers={
+                "Origin": "https://www.biedronka.pl",
+                "Referer": "https://www.biedronka.pl"
+            },
+            callback=self.parse_api,
+            cb_kwargs={
+                'leaflet_id': leaflet_id,
+                'date': date_label
+            }
+        )
 
     def parse_api(self, response, leaflet_id, date):
         data = json.loads(response.text)
         for page in data["images_mobile"]:
             yield ImageItem(
-                image_urls = [page["image"]],
-                leaflet_id = leaflet_id,
-                date = date
+                image_urls=[page["image"]],
+                leaflet_id=leaflet_id,
+                date=date
             )

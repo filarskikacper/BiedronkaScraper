@@ -23,17 +23,26 @@ ZASADY:
 1. Jeśli strona to okładka, przepis, reklama bez produktów i cen — zwróć pustą listę "produkty". Nie zmyślaj.
 2. Rozróżniaj typy ofert. Cena bez przekreśleń/warunków = "cena_regularna". Z promocją = "promocja".
 3. Zwróć TYLKO poprawny JSON, bez tekstu przed/po.
-4. Kategorię przypisuj starannie — "Inne" używaj TYLKO gdy produkt naprawdę nie pasuje do żadnej z poniższych:
-   - "Nabiał" — mleko, jogurty, sery, masło, śmietana, kefir, twaróg
-   - "Mięso" — mięso, wędliny, drób, kiełbasy, szynki, parówki, kabanosy, ryby
-   - "Pieczywo" — chleb, bułki, bagietki, ciasta, torty
-   - "Owoce i Warzywa" — owoce, warzywa, sałatki, ziemniaki, grzyby
-   - "Napoje" — woda, soki, napoje gazowane, kawa, herbata, energy drinki
-   - "Słodycze" — czekolady, cukierki, batony, wafle, ciastka, lody, chipsy
-   - "Chemia" — proszki, płyny do prania, środki czystości, kosmetyki, higiena, papier toaletowy
+4. Kategorię przypisuj BARDZO starannie na podstawie typu produktu:
+   - "Nabiał" — mleko, jogurty, sery, masło, śmietana, kefir, twaróg, serek
+   - "Mięso" — mięso, wędliny, drób, kiełbasy, szynki, parówki, kabanosy, ryby, filety rybne, śledzie, tuńczyk, łosoś, morszczuk
+   - "Pieczywo" — chleb, bułki, bagietki, rogale, drożdżówki, jagodzianka
+   - "Owoce i Warzywa" — owoce, warzywa, sałatki, ziemniaki, grzyby, borówki, truskawki, pomidory
+   - "Napoje" — woda, soki, napoje gazowane, kawa, herbata, energy drinki, kapsułki do kawy, ekspresy do kawy
+   - "Słodycze" — czekolady, cukierki, batony, wafle, ciastka, lody, chipsy, galaretka
+   - "Chemia" — proszki, płyny do prania, środki czystości, kosmetyki, higiena, papier toaletowy, chusteczki, dezodoranty, antyperspiranty, szampony
    - "Alkohol" — piwo, wino, wódka, likier
-   - "Mrożonki" — mrożone warzywa, ryby mrożone, pizza mrożona, lody (jeśli mrożone)
-   - "Inne" — TYLKO jeśli produkt nie pasuje do żadnej powyższej kategorii
+   - "Mrożonki" — mrożone warzywa, ryby mrożone, pizza mrożona, lody mrożone, pierogi mrożone
+   - "Żywność sucha" — makarony, kasze, ryż, mąka, konserwy, sosy, ketchup, musztarda, dżem, fasola, groszek, kukurydza, przyprawy, bulion, zupki instant, dania instant, płatki śniadaniowe, oliwa, olej, ocet, bakalie, suszone owoce, orzechy
+   - "Artykuły dla zwierząt" — karma dla psa, karma dla kota, żwirek, akcesoria dla zwierząt
+   - "Dla dzieci" — pieluchy, chusteczki dla dzieci, mleko modyfikowane, żywność dla niemowląt, słoiczki dla dzieci
+   - "Kwiaty i ogród" — kwiaty, bukiety, rośliny, nasiona, narzędzia ogrodowe, doniczki, ziemia
+   - "Artykuły domowe" — naczynia, sztućce, ręczniki, świece, dekoracje, tekstylia, grille, baseny, zabawki, elektronika
+   - "Inne" — TYLKO jeśli produkt absolutnie nie pasuje do żadnej powyższej kategorii
+
+5. Jeśli produkt jest w promocji i widać przekreśloną/starą cenę — zapisz ją jako "cena_przed_promocja".
+6. Jeśli widoczny jest procent rabatu (np. -30%, -25%) — zapisz go jako "procent_rabatu".
+7. Jeśli widoczna jest najniższa cena z ostatnich 30 dni — zapisz ją jako "najnizsza_cena_z_30_dni".
 
 JSON:
 {
@@ -43,10 +52,12 @@ JSON:
   "produkty": [
     {
       "nazwa_produktu": "Pełna nazwa z marką",
-      "kategoria": "jedna z: Nabiał, Mięso, Pieczywo, Owoce i Warzywa, Napoje, Słodycze, Chemia, Alkohol, Mrożonki, Inne",
+      "kategoria": "jedna z: Nabiał, Mięso, Pieczywo, Owoce i Warzywa, Napoje, Słodycze, Chemia, Alkohol, Mrożonki, Żywność sucha, Artykuły dla zwierząt, Dla dzieci, Kwiaty i ogród, Artykuły domowe, Inne",
       "waga_lub_pojemnosc": "np. 1 L, 500 g lub null",
       "typ_oferty": "promocja|cena_regularna",
       "cena_glowna_widoczna": "np. 5.99",
+      "cena_przed_promocja": "np. 8.99 lub null",
+      "procent_rabatu": "np. -25% lub null",
       "warunek_promocji": "np. PRZY ZAKUPIE 2 lub null",
       "najnizsza_cena_z_30_dni": "np. 5.92 lub null",
       "cena_za_1_sztuke_regularna": "lub null"
@@ -54,6 +65,81 @@ JSON:
   ]
 }
 """
+
+KEYWORD_CATEGORIES = {
+    "Nabiał": [
+        "mleko", "jogurt", "ser ", "serek", "masło", "śmietana", "kefir", "twaróg",
+        "mleczna dolina", "światowid", "danone", "actimel", "activia",
+    ],
+    "Mięso": [
+        "mięso", "wędlin", "kiełbas", "szynk", "parówk", "kabanos", "boczek",
+        "filet", "śledź", "śledziow", "tuńczyk", "łosoś", "morszczuk", "ryb",
+        "kurczak", "indyk", "drób", "salami", "mortadela", "pasztet",
+        "marinero", "kraina mięs", "kraina wędlin",
+    ],
+    "Pieczywo": [
+        "chleb", "bułk", "bagiet", "rogal", "drożdżów", "jagodziank",
+        "ciabatt", "tortill",
+    ],
+    "Owoce i Warzywa": [
+        "borówk", "truskawk", "maliny", "jabłk", "gruszk", "pomidor",
+        "ogórek", "sałat", "ziemniak", "marchew", "cebul", "czosnek",
+        "papryk", "arbuz", "banan", "winogrono", "grzyb", "pieczark",
+        "nektarynk", "brzoskwini", "pomarańcz", "cytryn", "awokado",
+    ],
+    "Napoje": [
+        "woda ", "woda,", "sok ", "napój", "cola", "pepsi", "fanta", "sprite",
+        "kawa ", "herbat", "energy", "tiger", "red bull",
+        "kapsułk", "delta", "espresso", "cafe d'or", "nescafe",
+        "ekspres do kawy",
+    ],
+    "Słodycze": [
+        "czekolad", "cukier", "baton", "wafel", "ciastk", "lody ",
+        "chip", "galaretk", "żelk", "draż", "merci", "milka",
+        "wedel", "prince polo", "hit", "oreo", "knoppers",
+    ],
+    "Chemia": [
+        "proszek do", "płyn do", "środek czyst", "szampon", "żel pod",
+        "dezodorant", "antyperspirant", "krem ", "balsam", "mydło",
+        "pasta do", "szczoteczk", "papier toalet", "chusteczk", "wata",
+        "ręcznik papier", "płyn do mycia", "domestos", "ajax",
+        "nivea", "pantene", "head", "dove", "rexona", "palmolive",
+        "signal", "colgate", "bambino dzieciaki",
+    ],
+    "Alkohol": [
+        "piwo ", "piwo,", "wino ", "wódka", "likier", "rum ", "gin ",
+        "whisky", "aperol", "prosecco",
+    ],
+    "Mrożonki": [
+        "mrożon", "pizza mrożona", "pierogi mrożone", "lody mrożone",
+    ],
+    "Żywność sucha": [
+        "makaron", "kasza", "ryż ", "mąka", "konserw", "sos ", "sosy ",
+        "ketchup", "musztard", "dżem", "fasol", "groszek", "kukurydz",
+        "przypraw", "bulion", "zupk", "płatki", "oliwa", "olej ",
+        "ocet", "bakali", "suszony", "suszone", "orzechy", "daktyl",
+        "mango suszone", "migdał",
+        "heinz", "winiary", "knorr", "hellmann", "pudliszki",
+        "plony natury", "danie ", "carbonara", "bami goreng",
+        "flauto", "pierogi", "krokiety", "nasze smaki",
+    ],
+    "Artykuły dla zwierząt": [
+        "karma dla", "żwirek", "pedigree", "whiskas", "felix",
+        "sheba", "purina", "activ pet", "maxi natural", "puffi",
+    ],
+    "Dla dzieci": [
+        "pieluchy", "pampers", "dada ", "bebilon", "bebiko",
+        "gerber", "hipp", "bobovita", "chrupki gerber",
+    ],
+    "Kwiaty i ogród": [
+        "bukiet", "róż ", "róże", "goździk", "tulipan", "chryzantem",
+        "doniczk", "kwiat", "ratan",
+    ],
+    "Artykuły domowe": [
+        "grill", "bestway", "basen", "zabawk", "plac zabaw",
+        "lampion", "świec", "ręcznik", "pościel",
+    ],
+}
 
 MAX_RETRIES = 5
 BASE_RETRY_DELAY = 4
@@ -66,16 +152,38 @@ def _is_retriable(error_msg: str) -> bool:
     return any(p in err_lower for p in RETRIABLE_PATTERNS)
 
 
+def recategorize_if_inne(name: str, category: str) -> str:
+    if category and category != "Inne":
+        return category
+    if not name:
+        return category or "Inne"
+    name_lower = name.lower()
+    for cat, keywords in KEYWORD_CATEGORIES.items():
+        for kw in keywords:
+            if kw in name_lower:
+                return cat
+    return category or "Inne"
+
+
 def parse_price(value) -> float | None:
     if value is None:
         return None
     if isinstance(value, (int, float)):
         return float(value)
-    cleaned = str(value).replace(",", ".").replace("zł", "").strip()
+    cleaned = str(value).replace(",", ".").replace("zł", "").replace("%", "").strip()
     try:
         return float(cleaned)
     except (ValueError, TypeError):
         return None
+
+
+def parse_percentage(value) -> str | None:
+    if value is None:
+        return None
+    s = str(value).strip()
+    if not s:
+        return None
+    return s
 
 
 def parse_date_from_label(label: str, year: int = None) -> date | None:
@@ -166,8 +274,10 @@ def process_image(session, leaflet, img_path, image_url=None):
         name = prod.get("nazwa_produktu")
         if not name:
             continue
+        raw_category = prod.get("kategoria")
+        final_category = recategorize_if_inne(name, raw_category)
         product = find_or_create_product(session, name=name,
-            category=prod.get("kategoria"), weight_or_volume=prod.get("waga_lub_pojemnosc"))
+            category=final_category, weight_or_volume=prod.get("waga_lub_pojemnosc"))
         if not product:
             continue
 
@@ -180,10 +290,14 @@ def process_image(session, leaflet, img_path, image_url=None):
             continue
 
         main_price = parse_price(prod.get("cena_glowna_widoczna"))
+        old_price = parse_price(prod.get("cena_przed_promocja"))
+        discount_pct = parse_percentage(prod.get("procent_rabatu"))
         session.add(Promotion(
             leaflet_id=leaflet.id, product_id=product.id,
             offer_type=prod.get("typ_oferty", "cena_regularna"),
             main_price=main_price,
+            old_price=old_price,
+            discount_percentage=discount_pct,
             regular_unit_price=parse_price(prod.get("cena_za_1_sztuke_regularna")),
             promotion_condition=prod.get("warunek_promocji"),
             lowest_price_30d=parse_price(prod.get("najnizsza_cena_z_30_dni")),

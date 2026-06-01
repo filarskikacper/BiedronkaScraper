@@ -18,23 +18,20 @@ def export_promotions(session):
     query = """
         SELECT
             p.id AS product_id, p.name, p.category, p.weight_or_volume,
-            pr.main_price, pr.offer_type, pr.promotion_condition,
+            pr.main_price, pr.old_price, pr.discount_percentage,
+            pr.offer_type, pr.promotion_condition,
             pr.lowest_price_30d, pr.source_image, pr.image_url,
             l.date_label, l.leaflet_id AS ext_leaflet_id,
-            l.valid_from, l.valid_to,
-            MIN(ph.price) AS min_price_30d
+            l.valid_from, l.valid_to
         FROM promotions pr
         JOIN products p ON pr.product_id = p.id
         JOIN leaflets l ON pr.leaflet_id = l.id
-        LEFT JOIN price_history ph ON ph.product_id = p.id
-            AND ph.observed_date >= date('now', '-30 days')
-        GROUP BY pr.id
         ORDER BY l.date_label DESC, p.name
     """
     rows = session.execute(text(query)).fetchall()
     today = date.today()
 
-    result = []
+    seen = {}
     for r in rows:
         valid_to_str = str(r.valid_to) if r.valid_to else None
         is_expired = False
@@ -44,25 +41,63 @@ def export_promotions(session):
             except (ValueError, TypeError):
                 pass
 
-        result.append({
+        dedup_key = (
+            r.product_id,
+            r.main_price,
+            r.promotion_condition or "",
+        )
+
+        if dedup_key in seen:
+            entry = seen[dedup_key]
+            if r.date_label and r.date_label not in entry["date_labels"]:
+                entry["date_labels"].append(r.date_label)
+            if r.ext_leaflet_id and r.ext_leaflet_id not in entry["leaflet_ids"]:
+                entry["leaflet_ids"].append(r.ext_leaflet_id)
+            if r.image_url and not entry.get("image_url"):
+                entry["image_url"] = r.image_url
+            if r.old_price and not entry.get("old_price"):
+                entry["old_price"] = r.old_price
+            if r.discount_percentage and not entry.get("discount_percentage"):
+                entry["discount_percentage"] = r.discount_percentage
+            if r.lowest_price_30d and not entry.get("lowest_price_30d"):
+                entry["lowest_price_30d"] = r.lowest_price_30d
+            if not entry["is_expired"] and not is_expired:
+                pass
+            elif not is_expired:
+                entry["is_expired"] = False
+            if r.valid_from:
+                vf = str(r.valid_from)
+                if not entry.get("valid_from") or vf < entry["valid_from"]:
+                    entry["valid_from"] = vf
+            if r.valid_to:
+                vt = str(r.valid_to)
+                if not entry.get("valid_to") or vt > entry["valid_to"]:
+                    entry["valid_to"] = vt
+            continue
+
+        seen[dedup_key] = {
             "product_id": r.product_id,
             "name": r.name,
             "category": r.category,
             "weight_or_volume": r.weight_or_volume,
             "main_price": r.main_price,
+            "old_price": r.old_price,
+            "discount_percentage": r.discount_percentage,
             "offer_type": r.offer_type,
             "promotion_condition": r.promotion_condition,
             "lowest_price_30d": r.lowest_price_30d,
-            "min_price_30d_calculated": r.min_price_30d,
             "source_image": r.source_image,
             "image_url": r.image_url,
             "date_label": r.date_label,
+            "date_labels": [r.date_label] if r.date_label else [],
             "leaflet_id": r.ext_leaflet_id,
+            "leaflet_ids": [r.ext_leaflet_id] if r.ext_leaflet_id else [],
             "valid_from": str(r.valid_from) if r.valid_from else None,
             "valid_to": valid_to_str,
             "is_expired": is_expired,
-        })
-    return result
+        }
+
+    return list(seen.values())
 
 
 def export_stats(session):

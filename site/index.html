@@ -191,6 +191,15 @@
                 const priceDisplay = p.main_price != null ? p.main_price.toFixed(2).replace('.', ',') + ' zł' : '—';
                 const isPromo = p.offer_type === 'promocja';
 
+                let oldPriceHtml = '';
+                if (isPromo && p.old_price != null) {
+                    oldPriceHtml = `<span class="product-old-price">${p.old_price.toFixed(2).replace('.', ',')} zł</span>`;
+                }
+
+                let discountHtml = '';
+                if (isPromo && p.discount_percentage) {
+                    discountHtml = `<span class="product-discount-badge">${escapeHtml(p.discount_percentage)}</span>`;
+                }
 
                 const vFrom = formatDatePL(p.valid_from);
                 const vTo = formatDatePL(p.valid_to);
@@ -198,6 +207,8 @@
                 if (vFrom && vTo) validityStr = `${vFrom} – ${vTo}`;
                 else if (vFrom) validityStr = `od ${vFrom}`;
                 else if (vTo) validityStr = `do ${vTo}`;
+
+                const leafletCount = (p.leaflet_ids && p.leaflet_ids.length > 1) ? `<span class="product-multi-leaflet" title="W ${p.leaflet_ids.length} gazetkach">📄 ${p.leaflet_ids.length}</span>` : '';
 
                 return `
         <article class="product-card ${isExpired ? 'product-card--expired' : ''}"
@@ -214,8 +225,13 @@
             </div>
             <div class="product-footer">
                 <div class="product-price-container">
-                    <span class="product-price ${isPromo ? 'product-price--promo' : ''}">${priceDisplay}</span>
+                    <div class="product-price-row">
+                        ${oldPriceHtml}
+                        <span class="product-price ${isPromo ? 'product-price--promo' : ''}">${priceDisplay}</span>
+                        ${discountHtml}
+                    </div>
                     ${isPromo ? `<span class="promo-tag">${isExpired ? 'Była w promocji' : 'Promocja'}</span>` : ''}
+                    ${leafletCount}
                 </div>
                 ${p.promotion_condition ? `<div class="product-condition">${escapeHtml(p.promotion_condition)}</div>` : ''}
             </div>
@@ -235,8 +251,17 @@
             const p = JSON.parse(el.dataset.product);
             const priceDisplay = p.main_price != null ? p.main_price.toFixed(2).replace('.', ',') + ' zł' : '—';
             const lowest30d = p.lowest_price_30d != null ? p.lowest_price_30d.toFixed(2).replace('.', ',') + ' zł' : '—';
-            const min30dCalc = p.min_price_30d_calculated != null ? p.min_price_30d_calculated.toFixed(2).replace('.', ',') + ' zł' : '—';
             const isPromo = p.offer_type === 'promocja';
+
+            let oldPriceHtml = '';
+            if (isPromo && p.old_price != null) {
+                oldPriceHtml = `<span class="modal-old-price">${p.old_price.toFixed(2).replace('.', ',')} zł</span>`;
+            }
+
+            let discountHtml = '';
+            if (isPromo && p.discount_percentage) {
+                discountHtml = `<span class="modal-discount-badge">${escapeHtml(p.discount_percentage)}</span>`;
+            }
 
             const vFrom = formatDatePL(p.valid_from);
             const vTo = formatDatePL(p.valid_to);
@@ -244,6 +269,11 @@
             if (vFrom && vTo) validityStr = `${vFrom} – ${vTo}`;
             else if (vFrom) validityStr = `od ${vFrom}`;
             else if (vTo) validityStr = `do ${vTo}`;
+
+            let leafletsHtml = p.date_label || '—';
+            if (p.date_labels && p.date_labels.length > 1) {
+                leafletsHtml = p.date_labels.join(', ');
+            }
 
             modalBody.innerHTML = `
         <div class="modal-header-section">
@@ -254,14 +284,15 @@
         ${p.weight_or_volume ? `<p class="modal-weight">${escapeHtml(p.weight_or_volume)}</p>` : ''}
 
         <div class="modal-price-section">
+            ${oldPriceHtml}
             <span class="modal-price ${isPromo ? 'modal-price--promo' : ''}">${priceDisplay}</span>
+            ${discountHtml}
             ${isPromo ? '<span class="promo-badge">PROMOCJA</span>' : '<span class="regular-badge">Cena regularna</span>'}
         </div>
 
         ${p.promotion_condition ? `<div class="modal-detail-row"><span class="modal-detail-label">Warunek:</span><span class="modal-detail-value">${escapeHtml(p.promotion_condition)}</span></div>` : ''}
-        <div class="modal-detail-row"><span class="modal-detail-label">Najniższa z 30 dni (etykieta):</span><span class="modal-detail-value">${lowest30d}</span></div>
-        <div class="modal-detail-row"><span class="modal-detail-label">Min. cena 30 dni (obliczona):</span><span class="modal-detail-value">${min30dCalc}</span></div>
-        <div class="modal-detail-row"><span class="modal-detail-label">Gazetka:</span><span class="modal-detail-value">${p.date_label || '—'}</span></div>
+        <div class="modal-detail-row"><span class="modal-detail-label">Najniższa cena z 30 dni:</span><span class="modal-detail-value">${lowest30d}</span></div>
+        <div class="modal-detail-row"><span class="modal-detail-label">Gazetka:</span><span class="modal-detail-value">${leafletsHtml}</span></div>
         <div class="modal-detail-row"><span class="modal-detail-label">Ważność:</span><span class="modal-detail-value">${validityStr}</span></div>
         ${p.image_url ? `
         <div class="modal-image-section">

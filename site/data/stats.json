@@ -1,19 +1,23 @@
 {
-  "products": 1005,
-  "promotions": 893,
+  "products": 1008,
+  "promotions": 878,
   "leaflets": 8,
-  "expired": 357,
+  "expired": 353,
   "categories": [
     "Alkohol",
+    "Artykuły dla zwierząt",
+    "Artykuły domowe",
     "Chemia",
-    "Inne",
+    "Dla dzieci",
+    "Kwiaty i ogród",
     "Mięso",
     "Mrożonki",
     "Nabiał",
     "Napoje",
     "Owoce i Warzywa",
     "Pieczywo",
-    "Słodycze"
+    "Słodycze",
+    "Żywność sucha"
   ],
   "last_updated": "2026-06-01"
 }

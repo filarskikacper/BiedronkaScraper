@@ -1,6 +1,6 @@
 {
-  "products": 1248,
-  "promotions": 1090,
+  "products": 1246,
+  "promotions": 1071,
   "leaflets": 10,
   "expired": 346,
   "categories": [
@@ -9,7 +9,6 @@
     "Artykuły domowe",
     "Chemia",
     "Dla dzieci",
-    "Inne",
     "Kwiaty i ogród",
     "Mięso",
     "Mrożonki",
@@ -20,5 +19,5 @@
     "Słodycze",
     "Żywność sucha"
   ],
-  "last_updated": "2026-06-02"
+  "last_updated": "2026-06-03"
 }

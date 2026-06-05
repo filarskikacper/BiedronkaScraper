@@ -1,7 +1,7 @@
 {
-  "products": 1028,
-  "promotions": 923,
-  "leaflets": 10,
+  "products": 1203,
+  "promotions": 954,
+  "leaflets": 12,
   "expired": 0,
   "categories": [
     "Alkohol",
@@ -9,6 +9,7 @@
     "Artykuły domowe",
     "Chemia",
     "Dla dzieci",
+    "Inne",
     "Kwiaty i ogród",
     "Mięso",
     "Mrożonki",
@@ -19,5 +20,5 @@
     "Słodycze",
     "Żywność sucha"
   ],
-  "last_updated": "2026-06-04"
+  "last_updated": "2026-06-05"
 }

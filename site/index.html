@@ -9,7 +9,7 @@
     <title>BiedronkaScraper — Dashboard Promocji</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 </head>
@@ -19,35 +19,10 @@
 
     <header class="header">
         <div class="header-inner">
-            <div class="logo">
-                <span class="logo-text">BiedronkaScraper</span>
-            </div>
+            <span class="logo-text">BiedronkaScraper</span>
             <span class="header-updated" id="lastUpdated"></span>
         </div>
     </header>
-
-
-    <section class="stats-bar">
-        <div class="stats-inner">
-            <div class="stat-card">
-                <span class="stat-value" id="statLeaflets">—</span>
-                <span class="stat-label">Gazetek</span>
-            </div>
-            <div class="stat-card">
-                <span class="stat-value" id="statProducts">—</span>
-                <span class="stat-label">Produktów</span>
-            </div>
-            <div class="stat-card">
-                <span class="stat-value" id="statPromotions">—</span>
-                <span class="stat-label">Promocji</span>
-            </div>
-            <div class="stat-card stat-card--expired">
-                <span class="stat-value" id="statExpired">—</span>
-                <span class="stat-label">Nieaktualnych</span>
-            </div>
-        </div>
-    </section>
-
 
     <section class="controls">
         <div class="controls-inner">
@@ -62,8 +37,7 @@
                 <select id="categoryFilter">
                     <option value="">Wszystkie kategorie</option>
                 </select>
-                <button id="expiredToggle" class="btn-toggle active" data-active="true">
-                    <span class="toggle-dot"></span>
+                <button id="expiredToggle" class="btn-toggle active">
                     Ukryj nieaktualne
                 </button>
             </div>
@@ -107,10 +81,7 @@
         let debounceTimer;
         let priceChart = null;
 
-
         let allPromotions = [];
-        let statsData = {};
-
 
         async function init() {
             try {
@@ -119,14 +90,7 @@
                     fetch('data/stats.json'),
                 ]);
                 allPromotions = await promoRes.json();
-                statsData = await statsRes.json();
-
-
-                document.getElementById('statLeaflets').textContent = statsData.leaflets;
-                document.getElementById('statProducts').textContent = statsData.products;
-                document.getElementById('statPromotions').textContent = statsData.promotions;
-                document.getElementById('statExpired').textContent = statsData.expired;
-
+                const statsData = await statsRes.json();
 
                 if (statsData.categories) {
                     statsData.categories.forEach(cat => {
@@ -136,7 +100,6 @@
                         categoryFilter.appendChild(opt);
                     });
                 }
-
 
                 if (statsData.last_updated) {
                     const parts = statsData.last_updated.split('-');
@@ -191,16 +154,6 @@
                 const priceDisplay = p.main_price != null ? p.main_price.toFixed(2).replace('.', ',') + ' zł' : '—';
                 const isPromo = p.offer_type === 'promocja';
 
-                let oldPriceHtml = '';
-                if (isPromo && p.old_price != null) {
-                    oldPriceHtml = `<span class="product-old-price">${p.old_price.toFixed(2).replace('.', ',')} zł</span>`;
-                }
-
-                let discountHtml = '';
-                if (isPromo && p.discount_percentage) {
-                    discountHtml = `<span class="product-discount-badge">${escapeHtml(p.discount_percentage)}</span>`;
-                }
-
                 const vFrom = formatDatePL(p.valid_from);
                 const vTo = formatDatePL(p.valid_to);
                 let validityStr = '';
@@ -208,33 +161,30 @@
                 else if (vFrom) validityStr = `od ${vFrom}`;
                 else if (vTo) validityStr = `do ${vTo}`;
 
-                const leafletCount = (p.leaflet_ids && p.leaflet_ids.length > 1) ? `<span class="product-multi-leaflet" title="W ${p.leaflet_ids.length} gazetkach">📄 ${p.leaflet_ids.length}</span>` : '';
+                let details = [p.category || 'Inne'];
+                if (p.weight_or_volume) details.push(escapeHtml(p.weight_or_volume));
+                if (validityStr) details.push(validityStr);
+
+                let priceInfo = `<span class="card-price${isPromo ? ' card-price--promo' : ''}">${priceDisplay}</span>`;
+                if (isPromo && p.old_price != null) {
+                    priceInfo = `<span class="card-old-price">${p.old_price.toFixed(2).replace('.', ',')} zł</span> ${priceInfo}`;
+                }
+                if (isPromo && p.discount_percentage) {
+                    priceInfo += ` <span class="card-discount">${escapeHtml(p.discount_percentage)}</span>`;
+                }
 
                 return `
-        <article class="product-card ${isExpired ? 'product-card--expired' : ''}"
+        <article class="product-card${isExpired ? ' product-card--expired' : ''}"
                  tabindex="0"
                  data-product='${JSON.stringify(p).replace(/'/g, "&#39;")}'
                  onclick="openModal(this)">
-            <div class="product-meta">
-                <span class="product-category">${p.category || 'Inne'}</span>
-                <span class="product-date-range">${validityStr || p.date_label || ''}</span>
+            <h3 class="card-name">${escapeHtml(p.name)}</h3>
+            <p class="card-details">${details.join(' · ')}</p>
+            <div class="card-bottom">
+                <span class="card-prices">${priceInfo}</span>
+                ${isPromo ? `<span class="card-label">${isExpired ? 'Była w promocji' : 'Promocja'}</span>` : ''}
             </div>
-            <div class="product-body">
-                <h3 class="product-name">${escapeHtml(p.name)}</h3>
-                ${p.weight_or_volume ? `<span class="product-weight">${escapeHtml(p.weight_or_volume)}</span>` : ''}
-            </div>
-            <div class="product-footer">
-                <div class="product-price-container">
-                    <div class="product-price-row">
-                        ${oldPriceHtml}
-                        <span class="product-price ${isPromo ? 'product-price--promo' : ''}">${priceDisplay}</span>
-                        ${discountHtml}
-                    </div>
-                    ${isPromo ? `<span class="promo-tag">${isExpired ? 'Była w promocji' : 'Promocja'}</span>` : ''}
-                    ${leafletCount}
-                </div>
-                ${p.promotion_condition ? `<div class="product-condition">${escapeHtml(p.promotion_condition)}</div>` : ''}
-            </div>
+            ${p.promotion_condition ? `<p class="card-condition">${escapeHtml(p.promotion_condition)}</p>` : ''}
         </article>`;
             }).join('');
         }
@@ -276,34 +226,32 @@
             }
 
             modalBody.innerHTML = `
-        <div class="modal-header-section">
-            <span class="modal-category">${p.category || 'Inne'}</span>
-            ${p.is_expired ? '<span class="modal-expired">Nieaktualna</span>' : '<span class="modal-active">Aktualna</span>'}
-        </div>
+        <p class="modal-sub">${p.category || 'Inne'}${p.is_expired ? ' · Nieaktualna' : ''}</p>
         <h2 class="modal-title">${escapeHtml(p.name)}</h2>
-        ${p.weight_or_volume ? `<p class="modal-weight">${escapeHtml(p.weight_or_volume)}</p>` : ''}
+        ${p.weight_or_volume ? `<p class="modal-sub">${escapeHtml(p.weight_or_volume)}</p>` : ''}
 
-        <div class="modal-price-section">
+        <div class="modal-price-line">
             ${oldPriceHtml}
-            <span class="modal-price ${isPromo ? 'modal-price--promo' : ''}">${priceDisplay}</span>
+            <span class="modal-price${isPromo ? ' modal-price--promo' : ''}">${priceDisplay}</span>
             ${discountHtml}
-            ${isPromo ? '<span class="promo-badge">PROMOCJA</span>' : '<span class="regular-badge">Cena regularna</span>'}
+            ${isPromo ? '<span class="modal-label">Promocja</span>' : ''}
         </div>
 
-        ${p.promotion_condition ? `<div class="modal-detail-row"><span class="modal-detail-label">Warunek:</span><span class="modal-detail-value">${escapeHtml(p.promotion_condition)}</span></div>` : ''}
-        <div class="modal-detail-row"><span class="modal-detail-label">Najniższa cena z 30 dni:</span><span class="modal-detail-value">${lowest30d}</span></div>
-        <div class="modal-detail-row"><span class="modal-detail-label">Gazetka:</span><span class="modal-detail-value">${leafletsHtml}</span></div>
-        <div class="modal-detail-row"><span class="modal-detail-label">Ważność:</span><span class="modal-detail-value">${validityStr}</span></div>
+        ${p.promotion_condition ? `<p class="modal-info">Warunek: ${escapeHtml(p.promotion_condition)}</p>` : ''}
+        <p class="modal-info">Najniższa cena z 30 dni: ${lowest30d}</p>
+        <p class="modal-info">Gazetka: ${leafletsHtml}</p>
+        <p class="modal-info">Ważność: ${validityStr}</p>
+
         ${p.image_url ? `
-        <div class="modal-image-section">
-            <h3 class="modal-chart-title">Strona gazetki</h3>
-            <a href="${p.image_url}" target="_blank" rel="noopener" class="modal-image-link">
+        <div class="modal-section">
+            <p class="modal-section-title">Strona gazetki</p>
+            <a href="${p.image_url}" target="_blank" rel="noopener">
                 <img src="${p.image_url}" alt="Strona gazetki" class="modal-leaflet-image" loading="lazy">
             </a>
         </div>` : ''}
 
-        <div class="modal-chart-section">
-            <h3 class="modal-chart-title">Historia cen</h3>
+        <div class="modal-section">
+            <p class="modal-section-title">Historia cen</p>
             <div class="chart-container">
                 <canvas id="priceChartCanvas"></canvas>
             </div>
@@ -392,8 +340,8 @@
                             legend: { display: false },
                             tooltip: {
                                 backgroundColor: 'rgba(26, 26, 46, 0.9)',
-                                titleFont: { family: "'DM Sans', sans-serif", weight: '600' },
-                                bodyFont: { family: "'DM Sans', sans-serif" },
+                                titleFont: { family: "'Inter', sans-serif", weight: '600' },
+                                bodyFont: { family: "'Inter', sans-serif" },
                                 padding: 12,
                                 cornerRadius: 8,
                                 callbacks: {
@@ -405,7 +353,7 @@
                             x: {
                                 grid: { display: false },
                                 ticks: {
-                                    font: { family: "'DM Sans', sans-serif", size: 11 },
+                                    font: { family: "'Inter', sans-serif", size: 11 },
                                     color: '#9494A8',
                                     maxRotation: 45,
                                 }
@@ -413,7 +361,7 @@
                             y: {
                                 grid: { color: 'rgba(232, 230, 225, 0.6)' },
                                 ticks: {
-                                    font: { family: "'DM Sans', sans-serif", size: 11, weight: '500' },
+                                    font: { family: "'Inter', sans-serif", size: 11, weight: '500' },
                                     color: '#5A5A72',
                                     callback: val => val.toFixed(2).replace('.', ',') + ' zł',
                                 },
@@ -445,7 +393,6 @@
 
         expiredToggle.addEventListener('click', () => {
             hideExpired = !hideExpired;
-            expiredToggle.dataset.active = hideExpired;
             expiredToggle.classList.toggle('active', hideExpired);
             applyFilters();
         });

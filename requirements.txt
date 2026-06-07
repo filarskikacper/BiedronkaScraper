@@ -6,22 +6,5 @@ python-dotenv>=1.0
 # Gemini API
 google-genai>=1.0
 
-# Scrapy dependencies (pulled automatically, but pinned for clarity)
-lxml>=6.0
-parsel>=1.11
-Twisted>=25.0
-itemadapter>=0.13
-itemloaders>=1.4
-Protego>=0.6
-w3lib>=2.4
-
-# HTTP
-requests>=2.32
-certifi>=2026.0
-urllib3>=2.6
-
-# Misc
+# Image processing (required by Scrapy ImagesPipeline)
 Pillow>=12.0
-MarkupSafe>=3.0
-click>=8.3
-colorama>=0.4

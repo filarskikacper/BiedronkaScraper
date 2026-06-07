@@ -86,7 +86,6 @@ def export_promotions(session):
             "offer_type": r.offer_type,
             "promotion_condition": r.promotion_condition,
             "lowest_price_30d": r.lowest_price_30d,
-            "source_image": r.source_image,
             "image_url": r.image_url,
             "date_label": r.date_label,
             "date_labels": [r.date_label] if r.date_label else [],
@@ -108,11 +107,6 @@ def export_stats(session):
     total_leaflets = session.execute(
         text("SELECT COUNT(*) FROM leaflets WHERE processed = 1")
     ).scalar() or 0
-    expired_count = session.execute(text(
-        "SELECT COUNT(*) FROM promotions pr "
-        "JOIN leaflets l ON pr.leaflet_id = l.id "
-        "WHERE l.valid_to IS NOT NULL AND l.valid_to < date('now')"
-    )).scalar() or 0
 
     categories = [
         row[0] for row in session.execute(
@@ -124,7 +118,6 @@ def export_stats(session):
         "products": total_products,
         "promotions": total_promos,
         "leaflets": total_leaflets,
-        "expired": expired_count,
         "categories": categories,
         "last_updated": date.today().isoformat(),
     }
@@ -150,10 +143,9 @@ def export_histories(session, out_dir):
             continue
 
         history_rows = session.execute(text(
-            "SELECT ph.price, ph.observed_date, l.date_label "
-            "FROM price_history ph "
-            "LEFT JOIN leaflets l ON ph.leaflet_id = l.id "
-            "WHERE ph.product_id = :pid ORDER BY ph.observed_date ASC"
+            "SELECT price, observed_date "
+            "FROM price_history "
+            "WHERE product_id = :pid ORDER BY observed_date ASC"
         ), {"pid": pid}).fetchall()
 
         data = {
@@ -164,7 +156,7 @@ def export_histories(session, out_dir):
                 "weight_or_volume": product_row.weight_or_volume,
             },
             "history": [
-                {"date": str(h.observed_date), "price": h.price, "leaflet_label": h.date_label}
+                {"date": str(h.observed_date), "price": h.price}
                 for h in history_rows
             ],
         }

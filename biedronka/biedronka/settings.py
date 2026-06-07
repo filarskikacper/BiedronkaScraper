@@ -3,8 +3,6 @@ BOT_NAME = "biedronka"
 SPIDER_MODULES = ["biedronka.spiders"]
 NEWSPIDER_MODULE = "biedronka.spiders"
 
-ADDONS = {}
-
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 
 ROBOTSTXT_OBEY = True

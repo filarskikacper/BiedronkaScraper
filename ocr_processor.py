@@ -186,11 +186,11 @@ def parse_percentage(value) -> str | None:
     return s
 
 
-def parse_date_from_label(label: str, year: int = None) -> date | None:
-    if not label:
+def parse_ddmm_date(value, year=None):
+    if not value:
         return None
     year = year or date.today().year
-    match = re.search(r"(\d{2})-(\d{2})", label)
+    match = re.search(r"(\d{2})-(\d{2})", str(value).strip())
     if match:
         day, month = int(match.group(1)), int(match.group(2))
         try:
@@ -200,29 +200,11 @@ def parse_date_from_label(label: str, year: int = None) -> date | None:
     return None
 
 
-def parse_validity_date(dd_mm: str, year: int = None) -> date | None:
-    if not dd_mm:
-        return None
-    year = year or date.today().year
-    match = re.match(r"(\d{2})-(\d{2})", str(dd_mm).strip())
-    if match:
-        day, month = int(match.group(1)), int(match.group(2))
-        try:
-            return date(year, month, day)
-        except ValueError:
-            return None
-    return None
-
-
-def is_folder_expired(date_label: str) -> bool:
-    if not date_label:
+def is_folder_expired(date_label):
+    if not date_label or date_label.upper().startswith("OD"):
         return False
-    if date_label.upper().startswith("OD"):
-        return False
-    parsed = parse_date_from_label(date_label)
-    if parsed and parsed < date.today():
-        return True
-    return False
+    parsed = parse_ddmm_date(date_label)
+    return parsed is not None and parsed < date.today()
 
 
 def process_image(session, leaflet, img_path, image_url=None):
@@ -261,8 +243,8 @@ def process_image(session, leaflet, img_path, image_url=None):
         print("Brak produktow")
         return True
 
-    vf = parse_validity_date(data.get("data_waznosci_od"))
-    vt = parse_validity_date(data.get("data_waznosci_do"))
+    vf = parse_ddmm_date(data.get("data_waznosci_od"))
+    vt = parse_ddmm_date(data.get("data_waznosci_do"))
     if vf and not leaflet.valid_from:
         leaflet.valid_from = vf
     if vt and not leaflet.valid_to:
@@ -305,15 +287,14 @@ def process_image(session, leaflet, img_path, image_url=None):
             image_url=image_url,
         ))
         if main_price is not None:
-            observed = leaflet.valid_from or parse_date_from_label(leaflet.date_label) or date.today()
+            observed = leaflet.valid_from or parse_ddmm_date(leaflet.date_label) or date.today()
             existing_ph = session.query(PriceHistory).filter_by(
                 product_id=product.id,
-                leaflet_id=leaflet.id,
                 observed_date=observed,
             ).first()
             if not existing_ph:
                 session.add(PriceHistory(product_id=product.id, price=main_price,
-                    observed_date=observed, leaflet_id=leaflet.id))
+                    observed_date=observed))
         added += 1
 
     session.flush()
@@ -333,7 +314,7 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
     stats = purge_expired(session)
     if any(stats.values()):
         print(f"   Usunieto: {stats['leaflets']} gazetek, {stats['promotions']} promocji, "
-              f"{stats['price_history']} historii, {stats['products']} produktow")
+              f"{stats['products']} produktow")
     else:
         print("   Baza czysta.")
 
@@ -342,7 +323,6 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
 
     processed_count = 0
     skipped = 0
-    deleted = 0
 
     for folder in folders:
         parts = folder.name.rsplit(" ", 1)
@@ -364,7 +344,6 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
             shutil.rmtree(folder, ignore_errors=True)
             print(f"Usunieto nieaktualna gazetke: {folder.name}")
             skipped += 1
-            deleted += 1
             continue
 
         existing = session.query(Leaflet).filter_by(leaflet_id=ext_id).first()
@@ -433,10 +412,8 @@ def process_leaflets(leaflet_dir="biedronka/gazetki", db_path="biedronka.db"):
         processed_count += 1
 
     print(f"\nGotowe! Przetworzono {processed_count} gazetek.")
-    if deleted:
-        print(f"Usunieto {deleted} nieaktualnych folderow z dysku.")
     if skipped:
-        print(f"Pominieto {skipped} przeterminowanych.")
+        print(f"Usunieto {skipped} nieaktualnych folderow z dysku.")
     session.close()
 
 
@@ -452,7 +429,7 @@ if __name__ == "__main__":
         print("Czyszczenie...")
         st = purge_expired(s)
         print(f"   Gazetki: {st['leaflets']}, Promocje: {st['promotions']}, "
-              f"Historia: {st['price_history']}, Produkty: {st['products']}")
+              f"Produkty: {st['products']}")
         s.close()
     else:
         process_leaflets(args.leaflet_dir, args.db)

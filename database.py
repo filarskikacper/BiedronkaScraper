@@ -1,5 +1,4 @@
 from datetime import datetime, date, timezone
-from difflib import SequenceMatcher
 
 from sqlalchemy import (
     create_engine, Column, Integer, String, Float, Boolean,
@@ -23,7 +22,6 @@ class Leaflet(Base):
     processed = Column(Boolean, default=False)
 
     promotions = relationship("Promotion", back_populates="leaflet", cascade="all, delete-orphan")
-    price_history = relationship("PriceHistory", back_populates="leaflet", cascade="all, delete-orphan")
 
 
 class Product(Base):
@@ -36,7 +34,6 @@ class Product(Base):
     created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
 
     promotions = relationship("Promotion", back_populates="product")
-    price_history = relationship("PriceHistory", back_populates="product")
 
 
 class Promotion(Base):
@@ -67,11 +64,7 @@ class PriceHistory(Base):
     product_id = Column(Integer, ForeignKey("products.id"), nullable=False)
     price = Column(Float, nullable=False)
     observed_date = Column(Date, nullable=False)
-    leaflet_id = Column(Integer, ForeignKey("leaflets.id"))
     created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
-
-    product = relationship("Product", back_populates="price_history")
-    leaflet = relationship("Leaflet", back_populates="price_history")
 
 
 Index("idx_price_history_product_date", PriceHistory.product_id, PriceHistory.observed_date)
@@ -103,43 +96,21 @@ def get_session(db_path: str = "biedronka.db"):
     return sessionmaker(bind=engine)()
 
 
-def find_or_create_product(
-    session, name: str, category: str = None,
-    weight_or_volume: str = None, threshold: float = 0.85,
-) -> Product:
+def find_or_create_product(session, name, category=None, weight_or_volume=None):
     if not name:
         return None
 
     normalized = name.strip().lower()
-    needs_category = lambda p: not p.category or p.category == "Inne"
 
-    exact = session.query(Product).filter(
+    existing = session.query(Product).filter(
         func.lower(Product.name) == normalized
     ).first()
-    if exact:
-        if category and category != "Inne" and needs_category(exact):
-            exact.category = category
-        if weight_or_volume and not exact.weight_or_volume:
-            exact.weight_or_volume = weight_or_volume
-        return exact
-
-    candidates = session.query(Product).all()
-
-    best_match = None
-    best_ratio = 0.0
-
-    for product in candidates:
-        ratio = SequenceMatcher(None, normalized, product.name.strip().lower()).ratio()
-        if ratio > best_ratio:
-            best_ratio = ratio
-            best_match = product
-
-    if best_match and best_ratio >= threshold:
-        if category and category != "Inne" and needs_category(best_match):
-            best_match.category = category
-        if weight_or_volume and not best_match.weight_or_volume:
-            best_match.weight_or_volume = weight_or_volume
-        return best_match
+    if existing:
+        if category and category != "Inne" and (not existing.category or existing.category == "Inne"):
+            existing.category = category
+        if weight_or_volume and not existing.weight_or_volume:
+            existing.weight_or_volume = weight_or_volume
+        return existing
 
     product = Product(name=name, category=category, weight_or_volume=weight_or_volume)
     session.add(product)
@@ -158,11 +129,9 @@ def purge_expired(session, before_date: date = None) -> dict:
 
     leaflet_count = len(expired_leaflets)
     promo_count = 0
-    history_count = 0
 
     for leaflet in expired_leaflets:
         promo_count += len(leaflet.promotions)
-        history_count += len(leaflet.price_history)
         session.delete(leaflet)
 
     session.flush()
@@ -183,6 +152,5 @@ def purge_expired(session, before_date: date = None) -> dict:
     return {
         "leaflets": leaflet_count,
         "promotions": promo_count,
-        "price_history": history_count,
         "products": product_count,
     }

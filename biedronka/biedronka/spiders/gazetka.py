@@ -39,7 +39,6 @@ class LeafletSpider(scrapy.Spider):
         )
 
     def _age_confirmed(self, response):
-        self.logger.info("Age gate confirmed, proceeding to scrape leaflets.")
         for url in self.start_urls:
             yield scrapy.Request(url=url, callback=self.parse, dont_filter=True)
 
@@ -99,7 +98,6 @@ class LeafletSpider(scrapy.Spider):
         if doc_match and sub_match:
             doc = doc_match.group(1)
             subfolder = sub_match.group(1)
-            self.logger.info(f"FlowPaper gazetka: {leaflet_id}, doc={doc}")
             for page in range(1, MAX_FLOWPAPER_PAGES + 1):
                 img_url = (
                     f"https://www.biedronka.pl/flexpaper/view"

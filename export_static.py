@@ -176,22 +176,18 @@ def main():
 
     os.makedirs(args.out, exist_ok=True)
 
-    print(f"Eksport danych z {args.db} -> {args.out}/")
     session = get_session(args.db)
 
     try:
         promotions = export_promotions(session)
         with open(os.path.join(args.out, "promotions.json"), "w", encoding="utf-8") as f:
             json.dump(promotions, f, ensure_ascii=False, indent=2, default=_json_serial)
-        print(f"  promotions.json — {len(promotions)} rekordow")
 
         stats = export_stats(session)
         with open(os.path.join(args.out, "stats.json"), "w", encoding="utf-8") as f:
             json.dump(stats, f, ensure_ascii=False, indent=2, default=_json_serial)
-        print("  stats.json — OK")
 
         export_histories(session, args.out)
-        print("Eksport zakonczony!")
     finally:
         session.close()
 

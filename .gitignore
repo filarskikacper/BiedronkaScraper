@@ -224,3 +224,6 @@ biedronka/.scrapy/
 
 # Statyczne dane generowane przez CI — site/data/ jest COMMITOWANE (Vercel z niego czyta)
 # Nie dodawaj site/data/ do .gitignore!
+# Lokalne pliki
+CODE_EXPLANATION.md
+migrate_db.py

@@ -1,7 +1,5 @@
 # BiedronkaScraper
 
-Automatyczny system scrapowania gazetek **Biedronki**, ekstrakcji danych produktów przez AI (Google Gemini Vision) oraz wizualizacji promocji i historii cen.
-
 [biedronkascraper.vercel.app](https://biedronkascraper.vercel.app)
 
 ```

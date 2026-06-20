@@ -2644,7 +2644,7 @@
     "is_expired": false
   },
   {
-    "product_id": 5775,
+    "product_id": 5785,
     "name": "Łopatka wieprzowa bez kości pakowana próżniowo Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -2668,7 +2668,7 @@
     "is_expired": true
   },
   {
-    "product_id": 5774,
+    "product_id": 5784,
     "name": "Świeże udo lub podudzie kurczaka Kraina Mięs Mega Paka",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -3511,22 +3511,24 @@
     "discount_percentage": "-48%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 229.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_23/BH_2026_Gazetka_Gazetka_online_urodziny_1_169x275mm.png",
     "date_label": "OD 30-05",
     "date_labels": [
       "OD 30-05",
+      "OD 20-06",
       "OD 06-06",
       "20-06"
     ],
     "leaflet_id": "ixtjcki1x",
     "leaflet_ids": [
       "ixtjcki1x",
+      "iya7d5lb3",
       "ixz5ojx90",
       "iycngn3kd"
     ],
     "valid_from": "2026-05-30",
-    "valid_to": "2026-06-30",
+    "valid_to": "2026-09-13",
     "is_expired": false
   },
   {
@@ -5203,6 +5205,766 @@
     ],
     "valid_from": "2026-05-23",
     "valid_to": "2026-06-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 5778,
+    "name": "BLACK FOREST Deska SUP 320 cm z akcesoriami, jasnoniebieska",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "320 cm",
+    "main_price": 549.0,
+    "old_price": 999.0,
+    "discount_percentage": "-45%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_54_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5672,
+    "name": "Black Forest Deska SUP 320 cm z akcesoriami",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "320 cm",
+    "main_price": 549.0,
+    "old_price": 999.0,
+    "discount_percentage": "-45%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 999.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/BH_makieta_2026_Gazetka_T26_ok%C5%82adka_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5692,
+    "name": "Blaupunkt Głośnik imprezowy funkcja karaoke, 2 mikrofony, czarny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "1000 W",
+    "main_price": 899.0,
+    "old_price": 1299.0,
+    "discount_percentage": "-30%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5695,
+    "name": "Blow Konsola do gier retro z pistoletem, biała",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 39.99,
+    "old_price": 69.0,
+    "discount_percentage": "-42%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5693,
+    "name": "Blow Ramka cyfrowa na zdjęcia Frameo Wi-Fi 10,1\", 16 GB, czarna",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 249.0,
+    "old_price": 339.0,
+    "discount_percentage": "-25%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5783,
+    "name": "Blow Tablet BlackTAB10 4/128GB, 4G, LTE, etui i rysik, czarny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 399.0,
+    "old_price": 749.0,
+    "discount_percentage": "-45%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5680,
+    "name": "Gardenic Osłona na ogrodzenie 150 x 100 cm, HDPE",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": "150 x 100 cm",
+    "main_price": 49.99,
+    "old_price": 99.0,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 99.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_55_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5681,
+    "name": "HOFFEN Blender kielichowy czarny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 89.0,
+    "old_price": 199.0,
+    "discount_percentage": "-55%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 199.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_56_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5682,
+    "name": "HOFFEN Grill elektryczny do panini",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 69.9,
+    "old_price": 139.0,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 139.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_56_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5683,
+    "name": "HOFFEN Robot wielofunkcyjny 6 w 1",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 199.0,
+    "old_price": 369.0,
+    "discount_percentage": "-45%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 369.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_56_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5685,
+    "name": "HOFFEN Zgrzewarka próżniowa czarna",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 69.9,
+    "old_price": 139.0,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 139.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_56_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5774,
+    "name": "Jumi Huśtawka ogrodowa",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": "170 x 110 x 153 cm",
+    "main_price": 259.0,
+    "old_price": 499.0,
+    "discount_percentage": "-48%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 499.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/BH_makieta_2026_Gazetka_T26_ok%C5%82adka_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5679,
+    "name": "Jumi Huśtawka ogrodowa 170 x 110 x 153 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "170 x 110 x 153 cm",
+    "main_price": 259.0,
+    "old_price": 499.0,
+    "discount_percentage": "-48%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 499.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_55_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5781,
+    "name": "Jumi Krzesło brazylijskie z frędzlami i poduszkami",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 79.9,
+    "old_price": 189.0,
+    "discount_percentage": "-57%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 189.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_55_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5775,
+    "name": "KINGHOFF Zestaw talerzy obiadowych",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "18 elementów",
+    "main_price": 149.0,
+    "old_price": 249.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 249.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_56_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5677,
+    "name": "Lafe Lodówka turystyczna ChillBox 26 l",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "26 l",
+    "main_price": 219.0,
+    "old_price": 299.0,
+    "discount_percentage": "-25%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 299.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_55_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5691,
+    "name": "Lenovo Laptop V15 G4 AMN 15,6\", 16 GB RAM, Windows 11, czarny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 1999.0,
+    "old_price": 2999.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 2999.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5782,
+    "name": "NAC Kosiarka akumulatorowa z akumulatorem i ładowarką 20 V",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": "20 V",
+    "main_price": 499.0,
+    "old_price": 999.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 999.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_55_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5777,
+    "name": "NAC Wózek transportowy do 200 kg",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "200 kg",
+    "main_price": 129.0,
+    "old_price": 199.0,
+    "discount_percentage": "-35%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_57_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5776,
+    "name": "Niteo Przedłużacz bębnowy 15 m",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "15 m",
+    "main_price": 99.0,
+    "old_price": 109.0,
+    "discount_percentage": "-10 zł",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_57_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5688,
+    "name": "Niteo Szlifierka kątowa sieciowa 1200 W",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "1200 W",
+    "main_price": 99.0,
+    "old_price": 169.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_57_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5684,
+    "name": "PHILIPS Multicooker All-in-One Seria 3000",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 299.0,
+    "old_price": 599.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 599.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_56_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5689,
+    "name": "Tilswall Pistolet natryskowy HVLP Shark 800",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "800 W",
+    "main_price": 179.0,
+    "old_price": 449.0,
+    "discount_percentage": "-60%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_57_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5696,
+    "name": "Tracer Smartwatch GP-Navi BK wodoodporny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 149.0,
+    "old_price": 299.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5780,
+    "name": "WINGS Kosmetyczka wisząca czarny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 39.99,
+    "old_price": 59.99,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_54_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5779,
+    "name": "WINGS Zestaw 3 walizek Hawfinch szampańskie, z polipropylenu",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "38 l, 63 l, 97 l",
+    "main_price": 349.0,
+    "old_price": 599.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_54_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5675,
+    "name": "Wings Atomizer do perfum czarny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 9.99,
+    "old_price": 19.99,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_T26_urodziny_54_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5699,
+    "name": "Xblitz Alkomat elektrochemiczny Alco LCD",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 199.0,
+    "old_price": 349.0,
+    "discount_percentage": "-42%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5697,
+    "name": "Xblitz Alkomat elektroniczny Spirit 2 półprzewodnikowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 69.9,
+    "old_price": 129.0,
+    "discount_percentage": "-45%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 129.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
+    "is_expired": false
+  },
+  {
+    "product_id": 5698,
+    "name": "Xblitz Alkomat elektroniczny Unlimited półprzewodnikowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 69.9,
+    "old_price": 119.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_26/Folder_BH_2026_Gazetka_t26_STR_ostatnia_169x275mm.png",
+    "date_label": "OD 20-06",
+    "date_labels": [
+      "OD 20-06",
+      "20-06"
+    ],
+    "leaflet_id": "iya7d5lb3",
+    "leaflet_ids": [
+      "iya7d5lb3",
+      "iycngn3kd"
+    ],
+    "valid_from": "2026-06-20",
+    "valid_to": "2026-09-13",
     "is_expired": false
   },
   {
@@ -34181,102 +34943,6 @@
     "is_expired": false
   },
   {
-    "product_id": 5672,
-    "name": "Black Forest Deska SUP 320 cm z akcesoriami",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "320 cm",
-    "main_price": 549.0,
-    "old_price": 999.0,
-    "discount_percentage": "-45%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_40.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5692,
-    "name": "Blaupunkt Głośnik imprezowy funkcja karaoke, 2 mikrofony, czarny",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "1000 W",
-    "main_price": 899.0,
-    "old_price": 1299.0,
-    "discount_percentage": "-30%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5695,
-    "name": "Blow Konsola do gier retro z pistoletem, biała",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 39.99,
-    "old_price": 69.0,
-    "discount_percentage": "-42%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5693,
-    "name": "Blow Ramka cyfrowa na zdjęcia Frameo Wi-Fi 10,1\", 16 GB, czarna",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 249.0,
-    "old_price": 339.0,
-    "discount_percentage": "-25%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
     "product_id": 5694,
     "name": "Blow Tablet BlackTAB10 4/128GB, 4G, LTE etui i rysik, czarny",
     "category": "Artykuły domowe",
@@ -34997,30 +35663,6 @@
     "is_expired": false
   },
   {
-    "product_id": 5680,
-    "name": "Gardenic Osłona na ogrodzenie 150 x 100 cm, HDPE",
-    "category": "Kwiaty i ogród",
-    "weight_or_volume": "150 x 100 cm",
-    "main_price": 49.99,
-    "old_price": 99.0,
-    "discount_percentage": "-49%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_41.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
     "product_id": 5599,
     "name": "Gardenic moskitiery",
     "category": "Artykuły domowe",
@@ -35032,102 +35674,6 @@
     "promotion_condition": "szt. lub zest.",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_20.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5681,
-    "name": "HOFFEN Blender kielichowy czarny",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 89.0,
-    "old_price": 199.0,
-    "discount_percentage": "-55%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_42.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5682,
-    "name": "HOFFEN Grill elektryczny do panini",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 69.9,
-    "old_price": 139.0,
-    "discount_percentage": "-49%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_42.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5683,
-    "name": "HOFFEN Robot wielofunkcyjny 6 w 1",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 199.0,
-    "old_price": 369.0,
-    "discount_percentage": "-45%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_42.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5685,
-    "name": "HOFFEN Zgrzewarka próżniowa czarna",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 69.9,
-    "old_price": 139.0,
-    "discount_percentage": "-49%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_42.png",
     "date_label": "20-06",
     "date_labels": [
       "20-06"
@@ -35344,30 +35890,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_23.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5679,
-    "name": "Jumi Huśtawka ogrodowa 170 x 110 x 153 cm",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "170 x 110 x 153 cm",
-    "main_price": 259.0,
-    "old_price": 499.0,
-    "discount_percentage": "-48%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_41.png",
     "date_label": "20-06",
     "date_labels": [
       "20-06"
@@ -36077,30 +36599,6 @@
     "is_expired": false
   },
   {
-    "product_id": 5677,
-    "name": "Lafe Lodówka turystyczna ChillBox 26 l",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "26 l",
-    "main_price": 219.0,
-    "old_price": 299.0,
-    "discount_percentage": "-25%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_41.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
     "product_id": 5670,
     "name": "Legowisko ACTIV PET",
     "category": "Artykuły dla zwierząt",
@@ -36112,30 +36610,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_39.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5691,
-    "name": "Lenovo Laptop V15 G4 AMN 15,6\", 16 GB RAM, Windows 11, czarny",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 1999.0,
-    "old_price": 2999.0,
-    "discount_percentage": "-33%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
     "date_label": "20-06",
     "date_labels": [
       "20-06"
@@ -36605,30 +37079,6 @@
     "is_expired": false
   },
   {
-    "product_id": 5688,
-    "name": "Niteo Szlifierka kątowa sieciowa 1200 W",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "1200 W",
-    "main_price": 99.0,
-    "old_price": 169.0,
-    "discount_percentage": "-40%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_43.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
     "product_id": 5565,
     "name": "Okularki pływackie Spokey",
     "category": "Artykuły domowe",
@@ -36640,30 +37090,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_06.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5684,
-    "name": "PHILIPS Multicooker All-in-One Seria 3000",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 299.0,
-    "old_price": 599.0,
-    "discount_percentage": "-50%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_42.png",
     "date_label": "20-06",
     "date_labels": [
       "20-06"
@@ -37613,30 +38039,6 @@
     "is_expired": false
   },
   {
-    "product_id": 5689,
-    "name": "Tilswall Pistolet natryskowy HVLP Shark 800",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "800 W",
-    "main_price": 179.0,
-    "old_price": 449.0,
-    "discount_percentage": "-60%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_43.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
     "product_id": 5639,
     "name": "Torba z 9 przypinkami, wym. 36 x 13 x 31 cm",
     "category": "Artykuły domowe",
@@ -37672,30 +38074,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_28.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5696,
-    "name": "Tracer Smartwatch GP-Navi BK wodoodporny",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 149.0,
-    "old_price": 299.0,
-    "discount_percentage": "-50%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
     "date_label": "20-06",
     "date_labels": [
       "20-06"
@@ -37805,30 +38183,6 @@
     "is_expired": false
   },
   {
-    "product_id": 5675,
-    "name": "Wings Atomizer do perfum czarny",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 9.99,
-    "old_price": 19.99,
-    "discount_percentage": "-50%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_40.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
     "product_id": 5674,
     "name": "Wings Kosmetyczka wisząca czarna",
     "category": "Artykuły domowe",
@@ -37864,78 +38218,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_40.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5699,
-    "name": "Xblitz Alkomat elektrochemiczny Alco LCD",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 199.0,
-    "old_price": 349.0,
-    "discount_percentage": "-42%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5697,
-    "name": "Xblitz Alkomat elektroniczny Spirit 2 półprzewodnikowy",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 69.9,
-    "old_price": 129.0,
-    "discount_percentage": "-45%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
-    "date_label": "20-06",
-    "date_labels": [
-      "20-06"
-    ],
-    "leaflet_id": "iycngn3kd",
-    "leaflet_ids": [
-      "iycngn3kd"
-    ],
-    "valid_from": "2026-06-20",
-    "valid_to": "2026-06-28",
-    "is_expired": false
-  },
-  {
-    "product_id": 5698,
-    "name": "Xblitz Alkomat elektroniczny Unlimited półprzewodnikowy",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 69.9,
-    "old_price": 119.0,
-    "discount_percentage": "-40%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T26/2026_NONFOOD_T26_44.png",
     "date_label": "20-06",
     "date_labels": [
       "20-06"

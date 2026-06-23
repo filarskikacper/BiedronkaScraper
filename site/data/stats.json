@@ -1,12 +1,13 @@
 {
-  "products": 1503,
-  "promotions": 1190,
-  "leaflets": 20,
+  "products": 1501,
+  "promotions": 1184,
+  "leaflets": 21,
   "categories": [
     "Alkohol",
     "Artykuły dla zwierząt",
     "Artykuły domowe",
     "Chemia",
+    "Dania instant",
     "Dla dzieci",
     "Inne",
     "Kwiaty i ogród",
@@ -19,5 +20,5 @@
     "Słodycze",
     "Żywność sucha"
   ],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-23"
 }

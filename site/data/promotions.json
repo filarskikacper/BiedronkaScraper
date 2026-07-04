@@ -17432,6 +17432,104 @@
     "is_expired": false
   },
   {
+    "product_id": 10327,
+    "name": "BIKFUN Rower elektryczny damski AMAK00052 koła 26''",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 2899.0,
+    "old_price": 5999.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_ok%C5%82adka_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10326,
+    "name": "BLACK FOREST Huśtawka ogrodowa 170 x 110 x 153 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 299.0,
+    "old_price": 499.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_ok%C5%82adka_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10224,
+    "name": "BLACK FOREST Huśtawka ogrodowa 170 x 110 x 153 cm, w paski",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "170 x 110 x 153 cm",
+    "main_price": 299.0,
+    "old_price": 499.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-53_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10347,
+    "name": "Bikfun Rower elektryczny damski AMAK00052, Koła 26\"",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 2899.0,
+    "old_price": 5999.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-56_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
     "product_id": 10258,
     "name": "Chipsy Crunchips",
     "category": "Słodycze",
@@ -17503,6 +17601,500 @@
     ],
     "valid_from": "2026-07-02",
     "valid_to": "2026-07-04",
+    "is_expired": false
+  },
+  {
+    "product_id": 10247,
+    "name": "DREAME Robot sprzątający L10s Pro Ultra PureHeat",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 1799.0,
+    "old_price": 3299.0,
+    "discount_percentage": "-45%",
+    "offer_type": "promocja",
+    "promotion_condition": "Kup robota sprzątającego DREAME i dobierz detergent AWH6 za 1 zł",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-56_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10348,
+    "name": "Dreame Odkurzacz pionowy mopujący H14 Pro 18 kPa",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 1099.0,
+    "old_price": 1799.0,
+    "discount_percentage": "-38%",
+    "offer_type": "promocja",
+    "promotion_condition": "Kup odkurzacz DREAME i dobierz płyn czyszczący AWH10 za 1 zł",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-56_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10214,
+    "name": "Dreame Robot koszący A2-2000",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": null,
+    "main_price": 5349.0,
+    "old_price": 6999.0,
+    "discount_percentage": "-23%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-52_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10344,
+    "name": "Extralink Dron F1 z akumulatorem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 199.0,
+    "old_price": 299.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-56_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10331,
+    "name": "Faro Pościel z mikrofibry Harmony 160 x 200 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm",
+    "main_price": 29.99,
+    "old_price": 49.99,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10332,
+    "name": "Faro Prześcieradło z gumką mikrofibra 160 x 200 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm",
+    "main_price": 19.99,
+    "old_price": 39.99,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10346,
+    "name": "Forever Projektor FP100 720p, biały",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 149.0,
+    "old_price": 449.0,
+    "discount_percentage": "-65%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-56_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10221,
+    "name": "GARDENIC Krzesło brazylijskie 100 x 130 cm, 2 poduszki",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "100 x 130 cm",
+    "main_price": 49.99,
+    "old_price": 129.0,
+    "discount_percentage": "-60%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-53_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10220,
+    "name": "GARDENIC Krzesło brazylijskie 100 x 130 cm, beżowe",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "100 x 130 cm",
+    "main_price": 44.99,
+    "old_price": 99.0,
+    "discount_percentage": "-54%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-53_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10235,
+    "name": "Gorenje Czajnik elektryczny Retro",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 189.0,
+    "old_price": 249.0,
+    "discount_percentage": "-24%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10236,
+    "name": "Gorenje Toster Retro",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 149.0,
+    "old_price": 229.0,
+    "discount_percentage": "-34%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10345,
+    "name": "Hammer Smartfon Builder 6/128 GB, 6\", czarny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 549.0,
+    "old_price": 899.0,
+    "discount_percentage": "-38%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-56_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10339,
+    "name": "Hoffen Gofrownica XXL",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 69.9,
+    "old_price": 149.0,
+    "discount_percentage": "-53%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10223,
+    "name": "JUMI Trampolina Motion 8FT, z siatką wewnętrzną, niebieska albo zielona",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "średnica 244 cm",
+    "main_price": 599.0,
+    "old_price": 899.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-53_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10335,
+    "name": "Jumi Leżak składany 140 x 60 x 96 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "140 x 60 x 96 cm",
+    "main_price": 89.9,
+    "old_price": 180.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10343,
+    "name": "Kinghoff Brytfanna żeliwna 28 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3,9 l",
+    "main_price": 109.0,
+    "old_price": 149.0,
+    "discount_percentage": "-25%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10241,
+    "name": "Kinghoff Fondue żeliwne zestaw dla 6 osób",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 79.0,
+    "old_price": 99.0,
+    "discount_percentage": "-20%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10341,
+    "name": "Kinghoff Garnek żeliwny 22 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "2,4 l",
+    "main_price": 69.0,
+    "old_price": 99.0,
+    "discount_percentage": "-30%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10342,
+    "name": "Kinghoff Garnek żeliwny 24 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "4 l",
+    "main_price": 89.9,
+    "old_price": 129.0,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10340,
+    "name": "Kinghoff Żeliwny garnek kempingowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 l",
+    "main_price": 119.0,
+    "old_price": 149.0,
+    "discount_percentage": "-20%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-55_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
     "is_expired": false
   },
   {
@@ -17626,6 +18218,132 @@
     "is_expired": false
   },
   {
+    "product_id": 10234,
+    "name": "MG Home Zestaw garnków Verso 6 elementów",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "6 elementów",
+    "main_price": 79.9,
+    "old_price": 179.0,
+    "discount_percentage": "-55%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_ok%C5%82adka_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10216,
+    "name": "Meven Fotel ogrodowy Zero Gravity z podnóżkiem i podstawką",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 129.0,
+    "old_price": 259.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-52_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10219,
+    "name": "Meven Leżak ogrodowy Vigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 99.0,
+    "old_price": 199.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-52_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10329,
+    "name": "Meven Zestaw mebli Lorca grafit, stół i 6 krzeseł",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 999.0,
+    "old_price": 1499.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-52_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10328,
+    "name": "Meven Zestaw mebli Valey z technorattanu, sofa, stolik, 2 fotele",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 1499.0,
+    "old_price": 2499.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-52_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
     "product_id": 10251,
     "name": "Mieszanka egzotyczna Bakad'Or",
     "category": "Żywność sucha",
@@ -17695,6 +18413,32 @@
     ],
     "valid_from": "2026-07-02",
     "valid_to": "2026-07-04",
+    "is_expired": false
+  },
+  {
+    "product_id": 10215,
+    "name": "Mookie Domek dla dzieci niebiesko-zielony",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 359.0,
+    "old_price": 599.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-52_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
     "is_expired": false
   },
   {
@@ -17915,6 +18659,176 @@
     ],
     "valid_from": "2026-07-02",
     "valid_to": "2026-07-04",
+    "is_expired": false
+  },
+  {
+    "product_id": 10333,
+    "name": "Restilo Zasłona zaciemniająca 140 x 175 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "140 x 175 cm",
+    "main_price": 49.99,
+    "old_price": 69.99,
+    "discount_percentage": "-28%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10336,
+    "name": "Sanico Lampa stołowa LED Goldlux Samba USB-C",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": 39.99,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10334,
+    "name": "Sanico Lampa stołowa LED Goldlux Tanzania USB-C",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 29.99,
+    "old_price": 59.99,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10330,
+    "name": "TIME FOR GRILE Grill ogrodowy węglowy 93 x 45 x 87 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "93 x 45 x 87 cm",
+    "main_price": 89.0,
+    "old_price": 199.0,
+    "discount_percentage": "-55%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-53_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10242,
+    "name": "WINGS Plecak Rosella",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 109.9,
+    "old_price": 159.0,
+    "discount_percentage": "-30%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-56_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07",
+      "04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx",
+      "iytbsrwl1"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10338,
+    "name": "Wendre Nakładka na materac 160 x 200 cm, Cotton Percale, biała",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm",
+    "main_price": 59.9,
+    "old_price": 89.9,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 10337,
+    "name": "Wendre Poduszka 70 x 80 cm, Cotton Percale, biała",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "70 x 80 cm",
+    "main_price": 49.99,
+    "old_price": 79.99,
+    "discount_percentage": "-37%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_28/BH_2026_Gazetka_T28_strona-54_169x275mm.png",
+    "date_label": "OD 04-07",
+    "date_labels": [
+      "OD 04-07"
+    ],
+    "leaflet_id": "iyxl8wkdx",
+    "leaflet_ids": [
+      "iyxl8wkdx"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-08-08",
     "is_expired": false
   },
   {
@@ -32648,30 +33562,6 @@
     "is_expired": false
   },
   {
-    "product_id": 10224,
-    "name": "BLACK FOREST Huśtawka ogrodowa 170 x 110 x 153 cm, w paski",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "170 x 110 x 153 cm",
-    "main_price": 299.0,
-    "old_price": 499.0,
-    "discount_percentage": "-40%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_45_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
     "product_id": 10190,
     "name": "Bańki mydlane z zabawką EleFun",
     "category": "Artykuły domowe",
@@ -33008,30 +33898,6 @@
     "is_expired": false
   },
   {
-    "product_id": 10214,
-    "name": "Dreame Robot koszący A2-2000",
-    "category": "Kwiaty i ogród",
-    "weight_or_volume": null,
-    "main_price": 5349.0,
-    "old_price": 6999.0,
-    "discount_percentage": "-23%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_44_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
     "product_id": 10243,
     "name": "EXTRALINK Dron F1",
     "category": "Artykuły domowe",
@@ -33115,54 +33981,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_46_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10221,
-    "name": "GARDENIC Krzesło brazylijskie 100 x 130 cm, 2 poduszki",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "100 x 130 cm",
-    "main_price": 49.99,
-    "old_price": 129.0,
-    "discount_percentage": "-60%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_45_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10220,
-    "name": "GARDENIC Krzesło brazylijskie 100 x 130 cm, beżowe",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "100 x 130 cm",
-    "main_price": 44.99,
-    "old_price": 99.0,
-    "discount_percentage": "-54%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_45_QprPI22a8Ej.png",
     "date_label": "04-07",
     "date_labels": [
       "04-07"
@@ -33283,54 +34101,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_16_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10235,
-    "name": "Gorenje Czajnik elektryczny Retro",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 189.0,
-    "old_price": 249.0,
-    "discount_percentage": "-24%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_47_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10236,
-    "name": "Gorenje Toster Retro",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 149.0,
-    "old_price": 229.0,
-    "discount_percentage": "-34%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_47_QprPI22a8Ej.png",
     "date_label": "04-07",
     "date_labels": [
       "04-07"
@@ -33499,30 +34269,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_47_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10223,
-    "name": "JUMI Trampolina Motion 8FT, z siatką wewnętrzną, niebieska albo zielona",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "średnica 244 cm",
-    "main_price": 599.0,
-    "old_price": 899.0,
-    "discount_percentage": "-33%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_45_QprPI22a8Ej.png",
     "date_label": "04-07",
     "date_labels": [
       "04-07"
@@ -33855,30 +34601,6 @@
     "main_price": 109.0,
     "old_price": 149.0,
     "discount_percentage": "-25%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_47_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10241,
-    "name": "Kinghoff Fondue żeliwne zestaw dla 6 osób",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 79.0,
-    "old_price": 99.0,
-    "discount_percentage": "-20%",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": null,
@@ -34448,78 +35170,6 @@
     "is_expired": false
   },
   {
-    "product_id": 10234,
-    "name": "MG Home Zestaw garnków Verso 6 elementów",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 79.9,
-    "old_price": 179.0,
-    "discount_percentage": "-55%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_47_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10216,
-    "name": "Meven Fotel ogrodowy Zero Gravity z podnóżkiem i podstawką",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 129.0,
-    "old_price": 259.0,
-    "discount_percentage": "-50%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_44_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10219,
-    "name": "Meven Leżak ogrodowy Vigo",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 99.0,
-    "old_price": 199.0,
-    "discount_percentage": "-50%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_44_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
     "product_id": 10218,
     "name": "Meven Zestaw mebli Lorca grafit",
     "category": "Artykuły domowe",
@@ -34603,30 +35253,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_15_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10215,
-    "name": "Mookie Domek dla dzieci niebiesko-zielony",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 359.0,
-    "old_price": 599.0,
-    "discount_percentage": "-40%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_44_QprPI22a8Ej.png",
     "date_label": "04-07",
     "date_labels": [
       "04-07"
@@ -35971,30 +36597,6 @@
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_35_QprPI22a8Ej.png",
-    "date_label": "04-07",
-    "date_labels": [
-      "04-07"
-    ],
-    "leaflet_id": "iytbsrwl1",
-    "leaflet_ids": [
-      "iytbsrwl1"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-10",
-    "is_expired": false
-  },
-  {
-    "product_id": 10242,
-    "name": "WINGS Plecak Rosella",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 109.9,
-    "old_price": 159.0,
-    "discount_percentage": "-30%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T28/2026_NONFOOD_T28_48_QprPI22a8Ej.png",
     "date_label": "04-07",
     "date_labels": [
       "04-07"

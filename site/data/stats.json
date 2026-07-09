@@ -1,7 +1,7 @@
 {
-  "products": 1497,
-  "promotions": 1013,
-  "leaflets": 20,
+  "products": 1500,
+  "promotions": 1020,
+  "leaflets": 21,
   "categories": [
     "Alkohol",
     "Artykuły dla zwierząt",
@@ -19,5 +19,5 @@
     "Słodycze",
     "Żywność sucha"
   ],
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-07-09"
 }

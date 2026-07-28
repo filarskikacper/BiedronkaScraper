@@ -216,6 +216,54 @@
     "is_expired": false
   },
   {
+    "product_id": 19536,
+    "name": "Arbuz luz",
+    "category": "Owoce i Warzywa",
+    "weight_or_volume": "1 kg",
+    "main_price": 0.99,
+    "old_price": 5.99,
+    "discount_percentage": "-83%",
+    "offer_type": "promocja",
+    "promotion_condition": "z kartą Moja Biedronka",
+    "lowest_price_30d": 5.99,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str1_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19551,
+    "name": "Art. szkolne i przemysłowe, tekstylia, zabawki i książki",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+2 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
     "product_id": 10320,
     "name": "Bebilon Advance Pronutra 2",
     "category": "Dla dzieci",
@@ -285,6 +333,78 @@
     ],
     "valid_from": null,
     "valid_to": null,
+    "is_expired": false
+  },
+  {
+    "product_id": 19549,
+    "name": "Chipsy, chrupki i prażynki",
+    "category": "Słodycze",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+1 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19544,
+    "name": "Ciastka i wafle paczkowane Bonitki",
+    "category": "Słodycze",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+2 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19550,
+    "name": "Danie instant Buldak",
+    "category": "Żywność sucha",
+    "weight_or_volume": "130 g",
+    "main_price": 4.7,
+    "old_price": 7.99,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+2 gratis",
+    "lowest_price_30d": 5.99,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
     "is_expired": false
   },
   {
@@ -405,6 +525,30 @@
     ],
     "valid_from": null,
     "valid_to": null,
+    "is_expired": false
+  },
+  {
+    "product_id": 19543,
+    "name": "Herbata Lipton",
+    "category": "Napoje",
+    "weight_or_volume": "92 torebki",
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "1+1 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
     "is_expired": false
   },
   {
@@ -792,6 +936,54 @@
     "is_expired": false
   },
   {
+    "product_id": 19545,
+    "name": "Kaszanka Grill House Sokołów",
+    "category": "Mięso",
+    "weight_or_volume": "500 g",
+    "main_price": 5.5,
+    "old_price": 10.99,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "1+1 gratis",
+    "lowest_price_30d": 10.99,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19542,
+    "name": "Kawa ziarnista Cafe d'Or",
+    "category": "Napoje",
+    "weight_or_volume": "1 kg",
+    "main_price": 49.99,
+    "old_price": 79.99,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "przy zakupie 2 sztuk",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
     "product_id": 10315,
     "name": "Ketchup Kotlin",
     "category": "Żywność sucha",
@@ -960,6 +1152,30 @@
     "is_expired": false
   },
   {
+    "product_id": 19539,
+    "name": "Lody (Carte d'Or, Kaktus, Marletto, Big Milk, Magnum)",
+    "category": "Słodycze",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "z kartą Moja Biedronka, mieszaj dowolnie",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str1_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
     "product_id": 10319,
     "name": "Majonez delikatesowy Madero",
     "category": "Żywność sucha",
@@ -1080,6 +1296,30 @@
     "is_expired": false
   },
   {
+    "product_id": 19537,
+    "name": "Mięsa surowe marynowane Czas na Grill",
+    "category": "Mięso",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "mieszaj dowolnie",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str1_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
     "product_id": 994,
     "name": "Mus z kurczakiem i indykiem dla kotów Kitty Excellence",
     "category": "Artykuły dla zwierząt",
@@ -1175,6 +1415,30 @@
     ],
     "valid_from": "2026-07-01",
     "valid_to": "2026-07-31",
+    "is_expired": false
+  },
+  {
+    "product_id": 19548,
+    "name": "Napój energetyczny Red Bull",
+    "category": "Napoje",
+    "weight_or_volume": "250 ml",
+    "main_price": 4.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "przy zakupie 3 sztuk",
+    "lowest_price_30d": 6.49,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
     "is_expired": false
   },
   {
@@ -1324,6 +1588,80 @@
     "is_expired": false
   },
   {
+    "product_id": 19546,
+    "name": "Ogórki konserwowe Krakus",
+    "category": "Żywność sucha",
+    "weight_or_volume": "920 g",
+    "main_price": 4.7,
+    "old_price": 9.39,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "1+1 gratis",
+    "lowest_price_30d": 4.7,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19235,
+    "name": "Papiery toaletowe Queen",
+    "category": "Chemia",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+1 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN",
+      "OD 23-07"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f",
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 18604,
+    "name": "Pasty i szczoteczki do zębów",
+    "category": "Chemia",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "drugi produkt za 1 zł",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
     "product_id": 996,
     "name": "Pasztet dla kotów Kitty",
     "category": "Artykuły dla zwierząt",
@@ -1393,6 +1731,78 @@
     ],
     "valid_from": "2026-07-01",
     "valid_to": "2026-07-31",
+    "is_expired": false
+  },
+  {
+    "product_id": 19538,
+    "name": "Piwo Tyskie Gronie, Żywiec Premium, Żatecký Světlý Ležák/0,0%",
+    "category": "Alkohol",
+    "weight_or_volume": "500 ml",
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "z kartą Moja Biedronka, przy zakupie 8 szt.",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str1_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19547,
+    "name": "Pizze i pinsy Gusto Bello",
+    "category": "Mrożonki",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "1+1 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19236,
+    "name": "Produkty Domestos i Cif",
+    "category": "Chemia",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "1+1 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
     "is_expired": false
   },
   {
@@ -1585,6 +1995,30 @@
     ],
     "valid_from": null,
     "valid_to": null,
+    "is_expired": false
+  },
+  {
+    "product_id": 19541,
+    "name": "Płatki śniadaniowe, granola i owsianki",
+    "category": "Żywność sucha",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": "-70%",
+    "offer_type": "promocja",
+    "promotion_condition": "drugi produkt 70% taniej",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
     "is_expired": false
   },
   {
@@ -1880,6 +2314,78 @@
     "is_expired": false
   },
   {
+    "product_id": 19540,
+    "name": "Wody butelkowane (Żywiec Zdrój, Polaris, Cisowianka, Nałęczowianka)",
+    "category": "Napoje",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "mieszaj dowolnie",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str1_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 19203,
+    "name": "Wszystkie Kefiry",
+    "category": "Nabiał",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+2 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
+    "product_id": 18584,
+    "name": "Wędliny w plastrach Kraina Wędlin",
+    "category": "Mięso",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+1 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str2_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
+    "is_expired": false
+  },
+  {
     "product_id": 10322,
     "name": "Zupka barszcz ukraiński BoboVita",
     "category": "Dla dzieci",
@@ -1925,6 +2431,30 @@
     ],
     "valid_from": "2026-07-01",
     "valid_to": "2026-07-31",
+    "is_expired": false
+  },
+  {
+    "product_id": 19535,
+    "name": "Świeży filet z piersi kurczaka Kraina Mięs",
+    "category": "Mięso",
+    "weight_or_volume": "1 kg",
+    "main_price": 14.99,
+    "old_price": 24.9,
+    "discount_percentage": "-39%",
+    "offer_type": "promocja",
+    "promotion_condition": "z kartą Moja Biedronka",
+    "lowest_price_30d": 24.9,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31B/T31_SPECJALNA_SRODA/T31C_ulotka_Sroda_275x410_str1_v02.png",
+    "date_label": "UNKNOWN",
+    "date_labels": [
+      "UNKNOWN"
+    ],
+    "leaflet_id": "izglrfv6f",
+    "leaflet_ids": [
+      "izglrfv6f"
+    ],
+    "valid_from": "2026-07-29",
+    "valid_to": "2026-07-29",
     "is_expired": false
   },
   {
@@ -4055,15 +4585,13 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31A/2026_FOOD_T31A_LADA/2026_FOOD_T31_A_LADA_P21_f3detbteds.png",
     "date_label": "OD 27-07",
     "date_labels": [
-      "OD 27-07",
-      "OD 23-07"
+      "OD 27-07"
     ],
     "leaflet_id": "izg453pd7",
     "leaflet_ids": [
-      "izg453pd7",
-      "iyzwggq69"
+      "izg453pd7"
     ],
-    "valid_from": "2026-07-23",
+    "valid_from": "2026-07-27",
     "valid_to": "2026-07-29",
     "is_expired": false
   },
@@ -15375,13 +15903,15 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/2026_FOOD_T31A/2026_FOOD_T31A_LADA/2026_FOOD_T31_A_LADA_P62_f3detbteds.png",
     "date_label": "OD 27-07",
     "date_labels": [
-      "OD 27-07"
+      "OD 27-07",
+      "OD 23-07"
     ],
     "leaflet_id": "izg453pd7",
     "leaflet_ids": [
-      "izg453pd7"
+      "izg453pd7",
+      "iyzwggq69"
     ],
-    "valid_from": "2026-07-27",
+    "valid_from": "2026-07-23",
     "valid_to": "2026-07-29",
     "is_expired": false
   },
@@ -17381,9 +17911,9 @@
   },
   {
     "product_id": 19244,
-    "name": "Aechmea Primera, średnica doniczki 15 cm",
+    "name": "Aechmea Primera",
     "category": "Kwiaty i ogród",
-    "weight_or_volume": "15 cm",
+    "weight_or_volume": "średnica doniczki 15 cm",
     "main_price": 31.99,
     "old_price": null,
     "discount_percentage": null,
@@ -17404,7 +17934,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19317,
+    "product_id": 19329,
     "name": "Antipasto dei tre salumi piacentini DOP Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -17428,7 +17958,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19339,
+    "product_id": 19351,
     "name": "Antipasto z tuńczykiem Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "210 g",
@@ -17452,7 +17982,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19364,
+    "product_id": 19378,
     "name": "Aragostine z kremem kokosowym Gusto Bello",
     "category": "Słodycze",
     "weight_or_volume": "150 g",
@@ -17476,7 +18006,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19256,
+    "product_id": 19258,
     "name": "Awokado Hass",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 szt.",
@@ -17484,7 +18014,7 @@
     "old_price": 6.99,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 GRATIS",
+    "promotion_condition": "1+1 GRATIS KAŻDE Z 2 SZTUK",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P25_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -17500,7 +18030,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19378,
+    "product_id": 19392,
     "name": "Ayran Müller",
     "category": "Nabiał",
     "weight_or_volume": "500 ml",
@@ -17524,7 +18054,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19286,
+    "product_id": 19298,
     "name": "Bagietka czosnkowa",
     "category": "Pieczywo",
     "weight_or_volume": "165 g",
@@ -17572,7 +18102,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19387,
+    "product_id": 19401,
     "name": "Biszkopty klasyczne Bonitki",
     "category": "Słodycze",
     "weight_or_volume": "180 g",
@@ -17596,7 +18126,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19208,
+    "product_id": 19210,
     "name": "Boczek grillowy w marynacie klasycznej w plastrach Czas na Grill",
     "category": "Mięso",
     "weight_or_volume": "300 g",
@@ -17620,7 +18150,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19208,
+    "product_id": 19210,
     "name": "Boczek grillowy w marynacie klasycznej w plastrach Czas na Grill",
     "category": "Mięso",
     "weight_or_volume": "300 g",
@@ -17652,7 +18182,7 @@
     "old_price": 16.99,
     "discount_percentage": "-41%",
     "offer_type": "promocja",
-    "promotion_condition": "z kartą Moja Biedronka",
+    "promotion_condition": "z kartą lub aplikacją Moja Biedronka",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P26_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -17668,7 +18198,7 @@
     "is_expired": true
   },
   {
-    "product_id": 18201,
+    "product_id": 19251,
     "name": "Borówka amerykańska",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "300 g",
@@ -17692,7 +18222,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19253,
+    "product_id": 19255,
     "name": "Brokuły Bimi",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "160 g",
@@ -17716,13 +18246,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19513,
-    "name": "Brzoskwinie paraguayo na wagę",
+    "product_id": 19526,
+    "name": "Brzoskwinie paraguayo",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 kg",
     "main_price": 5.99,
     "old_price": 12.99,
-    "discount_percentage": "53%",
+    "discount_percentage": "-53%",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": null,
@@ -17741,9 +18271,9 @@
   },
   {
     "product_id": 19239,
-    "name": "Bukiet premium, wysokość 50 cm",
+    "name": "Bukiet premium",
     "category": "Kwiaty i ogród",
-    "weight_or_volume": "50 cm",
+    "weight_or_volume": "wysokość 50 cm",
     "main_price": 36.99,
     "old_price": null,
     "discount_percentage": null,
@@ -17764,13 +18294,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19265,
+    "product_id": 19267,
     "name": "Burger wołowy Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "200 g",
     "main_price": 6.99,
     "old_price": 8.15,
-    "discount_percentage": "-28%",
+    "discount_percentage": "28%",
     "offer_type": "promocja",
     "promotion_condition": "PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
@@ -17788,15 +18318,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19488,
-    "name": "Bułka kajzerka, bułka grahamka, bułka wysokobiałkowa",
+    "product_id": 19499,
+    "name": "Bułka grahamka",
     "category": "Pieczywo",
-    "weight_or_volume": "55 g, 70 g, 110 g",
+    "weight_or_volume": "70 g",
     "main_price": 0.2,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "Kup jeden dowolny dodatek i odbierz do 5 bułek w cenie 20 groszy każda",
+    "promotion_condition": "przy zakupie dowolnego dodatku",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P71_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -17812,7 +18342,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19284,
+    "product_id": 19498,
+    "name": "Bułka kajzerka",
+    "category": "Pieczywo",
+    "weight_or_volume": "55 g",
+    "main_price": 0.2,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "przy zakupie dowolnego dodatku",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P71_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19296,
     "name": "Bułka pasterska",
     "category": "Pieczywo",
     "weight_or_volume": "90 g",
@@ -17836,7 +18390,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19295,
+    "product_id": 19307,
     "name": "Bułka poranna fitness",
     "category": "Pieczywo",
     "weight_or_volume": "80 g",
@@ -17860,7 +18414,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19294,
+    "product_id": 19500,
+    "name": "Bułka wysokobiałkowa",
+    "category": "Pieczywo",
+    "weight_or_volume": "110 g",
+    "main_price": 0.2,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "przy zakupie dowolnego dodatku",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P71_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19306,
     "name": "Bułka z dynią",
     "category": "Pieczywo",
     "weight_or_volume": "70 g",
@@ -17908,7 +18486,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19426,
+    "product_id": 19438,
     "name": "Błyszczyk do ust Lip Stylist Revers",
     "category": "Chemia",
     "weight_or_volume": "8 ml",
@@ -17932,7 +18510,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19362,
+    "product_id": 19376,
     "name": "Cannoli z kremem o smaku kokosowym Gusto Bello",
     "category": "Słodycze",
     "weight_or_volume": "150 g",
@@ -17956,7 +18534,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19281,
+    "product_id": 19283,
     "name": "Całe krewetki Marinero",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -17980,7 +18558,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19375,
+    "product_id": 19389,
     "name": "Chai Latte Cafe D'Or",
     "category": "Napoje",
     "weight_or_volume": "350 g",
@@ -18004,8 +18582,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19395,
-    "name": "Chipsy Lay's Oven Baked, jogurt z ziołami, sól",
+    "product_id": 19409,
+    "name": "Chipsy Lay's Oven Baked",
     "category": "Słodycze",
     "weight_or_volume": "180 g",
     "main_price": 9.49,
@@ -18028,8 +18606,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19396,
-    "name": "Chipsy Przysnacki, cebula dymka, masło z solą",
+    "product_id": 19410,
+    "name": "Chipsy Przysnacki",
     "category": "Słodycze",
     "weight_or_volume": "200 g",
     "main_price": 7.99,
@@ -18052,7 +18630,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19291,
+    "product_id": 19303,
     "name": "Chleb orkiszowy z ziarnami",
     "category": "Pieczywo",
     "weight_or_volume": "410 g",
@@ -18060,7 +18638,7 @@
     "old_price": 5.29,
     "discount_percentage": "-20%",
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI 20% TANIEJ",
+    "promotion_condition": "DRUGI",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P33_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -18076,7 +18654,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19282,
+    "product_id": 19294,
     "name": "Chleb rodzinny z pieca",
     "category": "Pieczywo",
     "weight_or_volume": "410 g",
@@ -18100,7 +18678,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19293,
+    "product_id": 19305,
     "name": "Chleb słonecznikowy",
     "category": "Pieczywo",
     "weight_or_volume": "480 g",
@@ -18108,7 +18686,7 @@
     "old_price": 3.85,
     "discount_percentage": "-20%",
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI 20% TANIEJ",
+    "promotion_condition": "DRUGI",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P33_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -18124,7 +18702,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19283,
+    "product_id": 19295,
     "name": "Chleb słowiański",
     "category": "Pieczywo",
     "weight_or_volume": "380 g",
@@ -18148,15 +18726,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19394,
+    "product_id": 19408,
     "name": "Chrupki Cheetos",
     "category": "Słodycze",
-    "weight_or_volume": null,
+    "weight_or_volume": "150 g",
     "main_price": null,
     "old_price": null,
     "discount_percentage": "-60%",
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI PRODUKT 60% TANIEJ",
+    "promotion_condition": "DRUGI 60% TANIEJ",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P49_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -18172,34 +18750,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19397,
-    "name": "Chrupki Cheetos, grzanka serowa, tost z ketchupem",
-    "category": "Słodycze",
-    "weight_or_volume": "150 g",
-    "main_price": 6.49,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "cena_regularna",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P49_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19448,
-    "name": "Chusteczki Water Wipes, 9x60 szt.",
+    "product_id": 19460,
+    "name": "Chusteczki WaterWipes",
     "category": "Dla dzieci",
-    "weight_or_volume": "540 szt.",
+    "weight_or_volume": "9x60 szt.",
     "main_price": 89.99,
     "old_price": null,
     "discount_percentage": null,
@@ -18220,7 +18774,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19445,
+    "product_id": 19457,
     "name": "Chusteczki higieniczne Kartika",
     "category": "Chemia",
     "weight_or_volume": "56 szt.",
@@ -18244,7 +18798,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19285,
+    "product_id": 19297,
     "name": "Ciabatta",
     "category": "Pieczywo",
     "weight_or_volume": "80 g",
@@ -18268,7 +18822,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19289,
+    "product_id": 19301,
     "name": "Ciacho z kruszonką",
     "category": "Pieczywo",
     "weight_or_volume": "250 g",
@@ -18292,7 +18846,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19363,
+    "product_id": 19377,
     "name": "Ciasteczka Cremolotto z nadzieniem pistacjowym Gusto Bello",
     "category": "Słodycze",
     "weight_or_volume": "222 g",
@@ -18316,7 +18870,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19361,
+    "product_id": 19375,
     "name": "Ciasteczka Merendina z nadzieniem pomarańczowym Gusto Bello",
     "category": "Słodycze",
     "weight_or_volume": "350 g",
@@ -18340,7 +18894,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19359,
+    "product_id": 19373,
     "name": "Ciasteczka Torta z nadzieniem kakaowym Gusto Bello",
     "category": "Słodycze",
     "weight_or_volume": "280 g",
@@ -18364,16 +18918,16 @@
     "is_expired": true
   },
   {
-    "product_id": 19391,
+    "product_id": 19405,
     "name": "Ciastka Mochi Asia Flavours",
     "category": "Słodycze",
     "weight_or_volume": "180 g",
     "main_price": 4.5,
-    "old_price": 8.99,
+    "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": "1+1 GRATIS",
-    "lowest_price_30d": 4.5,
+    "lowest_price_30d": 8.99,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P48_44vcofgubf.png",
     "date_label": "OD 23-07",
     "date_labels": [
@@ -18388,7 +18942,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19357,
+    "product_id": 19371,
     "name": "Ciastka Savoiardi Gusto Bello",
     "category": "Słodycze",
     "weight_or_volume": "400 g",
@@ -18412,7 +18966,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19360,
+    "product_id": 19374,
     "name": "Ciastka migdałowe Gusto Bello",
     "category": "Słodycze",
     "weight_or_volume": "90 g",
@@ -18436,7 +18990,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19400,
+    "product_id": 19413,
     "name": "Ciasto Owocowy Mix",
     "category": "Słodycze",
     "weight_or_volume": "600 g",
@@ -18460,7 +19014,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19358,
+    "product_id": 19372,
     "name": "Ciasto Tiramisu Balconi",
     "category": "Słodycze",
     "weight_or_volume": "400 g",
@@ -18484,7 +19038,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19401,
+    "product_id": 19414,
     "name": "Ciasto Wiśniowa Dama",
     "category": "Słodycze",
     "weight_or_volume": "500 g",
@@ -18508,7 +19062,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19403,
+    "product_id": 19416,
     "name": "Ciasto jagodowe E.Wedel",
     "category": "Słodycze",
     "weight_or_volume": "500 g",
@@ -18532,7 +19086,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19425,
+    "product_id": 19437,
     "name": "Cień do powiek Eveline Wonder Match",
     "category": "Chemia",
     "weight_or_volume": "3 g",
@@ -18556,10 +19110,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19430,
+    "product_id": 19442,
     "name": "Cień do powiek w płynie Eveline Choco Glamour",
     "category": "Chemia",
-    "weight_or_volume": "6.5 ml",
+    "weight_or_volume": "6,5 ml",
     "main_price": 16.99,
     "old_price": null,
     "discount_percentage": null,
@@ -18580,7 +19134,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19330,
+    "product_id": 19342,
     "name": "Crescia z truflą Gusto Bello",
     "category": "Mrożonki",
     "weight_or_volume": "300 g",
@@ -18604,12 +19158,12 @@
     "is_expired": true
   },
   {
-    "product_id": 19209,
+    "product_id": 19211,
     "name": "Cukier biały (Diamant, Polski Cukier, Królewski, Sweet Family)",
     "category": "Żywność sucha",
     "weight_or_volume": "1 kg",
     "main_price": 1.49,
-    "old_price": 1.99,
+    "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": "PRZY ZAKUPIE 5",
@@ -18628,7 +19182,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19303,
+    "product_id": 19525,
+    "name": "Czereśnie",
+    "category": "Owoce i Warzywa",
+    "weight_or_volume": "1 kg",
+    "main_price": 11.49,
+    "old_price": 24.99,
+    "discount_percentage": "-54%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_OW_NEW.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19315,
     "name": "Deser Gusto Bello",
     "category": "Nabiał",
     "weight_or_volume": "90 g",
@@ -18652,15 +19230,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19225,
-    "name": "Dezodorant w sprayu Nivea",
+    "product_id": 18230,
+    "name": "Dezodorant w spray'u Nivea",
     "category": "Chemia",
     "weight_or_volume": "250 ml",
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis",
+    "promotion_condition": "1+1 gratis, limit dzienny 4 szt.",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P14_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -18684,7 +19262,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis",
+    "promotion_condition": "1+1 gratis, limit dzienny 4 szt.",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P14_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -18700,7 +19278,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19514,
+    "product_id": 19528,
     "name": "Drożdżówka z kremem i czerwoną porzeczką",
     "category": "Pieczywo",
     "weight_or_volume": "110 g",
@@ -18724,7 +19302,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19515,
+    "product_id": 19529,
     "name": "Drożdżówka z rabarbarem",
     "category": "Pieczywo",
     "weight_or_volume": "120 g",
@@ -18748,15 +19326,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19405,
+    "product_id": 19418,
     "name": "Ekspresy Delta",
     "category": "Napoje",
     "weight_or_volume": null,
-    "main_price": 75.0,
+    "main_price": null,
     "old_price": null,
     "discount_percentage": "-75%",
     "offer_type": "promocja",
-    "promotion_condition": "z kartą lub aplikacją Moja Biedronka",
+    "promotion_condition": "Z KARTĄ LUB APKĄ",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P51_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -18772,7 +19350,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19278,
+    "product_id": 19280,
     "name": "Filet z dorsza atlantyckiego z Grenlandii Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -18796,7 +19374,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19279,
+    "product_id": 19281,
     "name": "Filet z halibuta bez skóry Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -18820,7 +19398,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19205,
+    "product_id": 19207,
     "name": "Filet z łososia atlantyckiego, porcja rodzinna, Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -18844,7 +19422,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19205,
+    "product_id": 19207,
     "name": "Filet z łososia atlantyckiego, porcja rodzinna, Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -18892,7 +19470,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19327,
+    "product_id": 19339,
     "name": "Gnocchi Airfry z chili Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "280 g",
@@ -18916,13 +19494,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19268,
+    "product_id": 19270,
     "name": "Goleń wołowa bez kości",
     "category": "Mięso",
     "weight_or_volume": "500 g",
     "main_price": 19.99,
     "old_price": 23.99,
-    "discount_percentage": "-16%",
+    "discount_percentage": "16%",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": null,
@@ -18940,12 +19518,12 @@
     "is_expired": true
   },
   {
-    "product_id": 19467,
+    "product_id": 19479,
     "name": "Grill jednorazowy",
     "category": "Artykuły domowe",
     "weight_or_volume": "1 szt.",
     "main_price": 7.5,
-    "old_price": null,
+    "old_price": 9.99,
     "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": "1+1 GRATIS",
@@ -18964,7 +19542,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19312,
+    "product_id": 19324,
     "name": "Guanciale w kostce Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "150 g",
@@ -18988,7 +19566,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19406,
+    "product_id": 19419,
     "name": "Ice Frappe Mokate",
     "category": "Napoje",
     "weight_or_volume": "12x12,5 g",
@@ -19012,7 +19590,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19254,
+    "product_id": 19527,
+    "name": "Jabłko polskie czerwone",
+    "category": "Owoce i Warzywa",
+    "weight_or_volume": "1 kg",
+    "main_price": 2.99,
+    "old_price": 4.49,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_OW_NEW.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19256,
     "name": "Jabłko polskie czerwone na wagę",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 kg",
@@ -19060,17 +19662,17 @@
     "is_expired": true
   },
   {
-    "product_id": 19486,
-    "name": "Jeżyna polska, opak. 125 g",
+    "product_id": 18265,
+    "name": "Jeżyna polska",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "125 g",
     "main_price": 5.99,
     "old_price": 11.99,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 GRATIS",
+    "promotion_condition": "1+1 GRATIS KAŻDE Z 2 OPAKOWAŃ",
     "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P66_44vcofgubf.png",
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P25_44vcofgubf.png",
     "date_label": "OD 23-07",
     "date_labels": [
       "OD 23-07"
@@ -19084,7 +19686,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19373,
+    "product_id": 19387,
     "name": "Jogurt Skyr Fruvita",
     "category": "Nabiał",
     "weight_or_volume": "400 g",
@@ -19108,7 +19710,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19377,
+    "product_id": 19391,
     "name": "Jogurt Skyr pitny Fruvita",
     "category": "Nabiał",
     "weight_or_volume": "330 g",
@@ -19132,7 +19734,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19372,
+    "product_id": 19386,
     "name": "Jogurt śmietankowy Fruvita",
     "category": "Nabiał",
     "weight_or_volume": "220 g",
@@ -19156,7 +19758,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19411,
+    "product_id": 19424,
     "name": "Kaboom Shake Mokate",
     "category": "Napoje",
     "weight_or_volume": "30 g",
@@ -19180,7 +19782,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19258,
+    "product_id": 19260,
     "name": "Kaczka świeża bez podrobów Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -19204,7 +19806,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19276,
+    "product_id": 19278,
     "name": "Kalmary w cieście Mirko",
     "category": "Mięso",
     "weight_or_volume": "350 g",
@@ -19228,7 +19830,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19404,
+    "product_id": 19417,
     "name": "Kapsułki Delta",
     "category": "Napoje",
     "weight_or_volume": null,
@@ -19252,7 +19854,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19461,
+    "product_id": 19473,
     "name": "Kapsułki do prania Ultra Blooming",
     "category": "Chemia",
     "weight_or_volume": "36 szt.",
@@ -19300,13 +19902,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19262,
+    "product_id": 19264,
     "name": "Karkówka wieprzowa bez kości, kotlety Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "560 g",
     "main_price": 12.99,
     "old_price": 16.79,
-    "discount_percentage": "-22%",
+    "discount_percentage": "22%",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": null,
@@ -19324,7 +19926,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19471,
+    "product_id": 19481,
     "name": "Karma dla kota Felix Zupa",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "6x48 g",
@@ -19373,14 +19975,14 @@
   },
   {
     "product_id": 19232,
-    "name": "Karma dla kota Kitty Excellence 12x85g",
+    "name": "Karma dla kota Kitty Excellence 12x85 g",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "12x85 g",
     "main_price": 1.0,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "Drugi produkt za 1 zł przy zakupie 2 opakowań",
+    "promotion_condition": "drugi za 1 zł",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P16_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -19397,14 +19999,14 @@
   },
   {
     "product_id": 19233,
-    "name": "Karma dla kota Kitty Excellence 4x85g",
+    "name": "Karma dla kotów w saszetkach Kitty Excellence 4x85 g",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "4x85 g",
     "main_price": 1.0,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "Drugi produkt za 1 zł przy zakupie 2 opakowań",
+    "promotion_condition": "drugi za 1 zł",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P16_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -19492,7 +20094,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19478,
+    "product_id": 19488,
     "name": "Karma dla psa z wołowiną Puffi",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "2 kg",
@@ -19516,7 +20118,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19214,
+    "product_id": 19459,
+    "name": "Kaszki i kleiki Nestlé",
+    "category": "Dla dzieci",
+    "weight_or_volume": "300 g / 400 g",
+    "main_price": 0.0,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+2 gratis (mieszaj dowolnie)",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P59_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19213,
     "name": "Kawa mielona Classic Intense Dallmayr",
     "category": "Napoje",
     "weight_or_volume": "500 g",
@@ -19540,7 +20166,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19366,
+    "product_id": 19380,
     "name": "Kawa mielona Moka Inspirazione Gusto Bello",
     "category": "Napoje",
     "weight_or_volume": "250 g",
@@ -19564,7 +20190,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19215,
+    "product_id": 19214,
     "name": "Kawa rozpuszczalna Nescafe Crema",
     "category": "Napoje",
     "weight_or_volume": "200 g",
@@ -19588,7 +20214,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19370,
+    "product_id": 19384,
     "name": "Kawa ziarnista Caffe Crema Infinito Lavazza",
     "category": "Napoje",
     "weight_or_volume": "1 kg",
@@ -19612,7 +20238,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19365,
+    "product_id": 19379,
     "name": "Kawa ziarnista Gusto Bello",
     "category": "Napoje",
     "weight_or_volume": "500 g",
@@ -19636,7 +20262,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19367,
+    "product_id": 19381,
     "name": "Kawa ziarnista Kimbo Pompei",
     "category": "Napoje",
     "weight_or_volume": "1 kg",
@@ -19660,7 +20286,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19368,
+    "product_id": 19382,
     "name": "Kawa ziarnista Vivace Pellini",
     "category": "Napoje",
     "weight_or_volume": "1 kg",
@@ -19684,13 +20310,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19267,
+    "product_id": 19269,
     "name": "Kiełbasa biała surowa premium Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "500 g",
     "main_price": 7.99,
     "old_price": 11.99,
-    "discount_percentage": "-66%",
+    "discount_percentage": "66%",
     "offer_type": "promocja",
     "promotion_condition": "PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
@@ -19708,13 +20334,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19207,
+    "product_id": 19209,
     "name": "Kiełbasa śląska z szynki Kraina Wędlin Select",
     "category": "Mięso",
     "weight_or_volume": "450 g",
     "main_price": 9.99,
     "old_price": 14.59,
-    "discount_percentage": "62% taniej (drugi produkt)",
+    "discount_percentage": "62% TANIEJ",
     "offer_type": "promocja",
     "promotion_condition": "DRUGI 62% TANIEJ PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
@@ -19756,7 +20382,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19255,
+    "product_id": 19257,
     "name": "Kiwi gold Zespri",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 szt.",
@@ -19780,8 +20406,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19507,
-    "name": "Klapki damskie",
+    "product_id": 19519,
+    "name": "Klapki damskie Cleve",
     "category": "Artykuły domowe",
     "weight_or_volume": "rozm. 37-40",
     "main_price": 29.99,
@@ -19804,7 +20430,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19376,
+    "product_id": 19390,
     "name": "Koktajl białkowy Piątnica",
     "category": "Nabiał",
     "weight_or_volume": "250 ml",
@@ -19878,7 +20504,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19505,
+    "product_id": 19517,
     "name": "Koncentrat do płukania Eden Authentic (różne rodzaje)",
     "category": "Chemia",
     "weight_or_volume": "1,8 l",
@@ -19902,7 +20528,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19462,
+    "product_id": 19474,
     "name": "Koncentrat do płukania Eden Blooming",
     "category": "Chemia",
     "weight_or_volume": "1,8 l",
@@ -19926,17 +20552,17 @@
     "is_expired": true
   },
   {
-    "product_id": 19481,
-    "name": "Konserwy mięsne i rybne (różne marki)",
-    "category": "Żywność sucha",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
+    "product_id": 19288,
+    "name": "Koreczki śledziowe Marinero",
+    "category": "Mięso",
+    "weight_or_volume": "250 g",
+    "main_price": 5.99,
+    "old_price": 7.49,
+    "discount_percentage": "-40%",
     "offer_type": "promocja",
-    "promotion_condition": "2+1 gratis",
+    "promotion_condition": "DRUGI 40% TANIEJ PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P64_44vcofgubf.png",
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
     "date_label": "OD 23-07",
     "date_labels": [
       "OD 23-07"
@@ -19950,7 +20576,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19433,
+    "product_id": 19445,
     "name": "Kosmetyki do pielęgnacji twarzy Eveline Glass Skin",
     "category": "Chemia",
     "weight_or_volume": "18 ml/50 ml/110 ml",
@@ -19974,13 +20600,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19263,
+    "product_id": 19265,
     "name": "Kostka z fileta z piersi kurczaka, Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "400 g",
     "main_price": 10.99,
     "old_price": 14.99,
-    "discount_percentage": "-26%",
+    "discount_percentage": "26%",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": null,
@@ -19998,13 +20624,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19432,
+    "product_id": 19444,
     "name": "Krem BB lub CC Niuqi",
     "category": "Chemia",
     "weight_or_volume": "30 ml",
     "main_price": 9.99,
     "old_price": 14.99,
-    "discount_percentage": "-33%",
+    "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": "DRUGI 66% TANIEJ",
     "lowest_price_30d": 14.99,
@@ -20095,7 +20721,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19354,
+    "product_id": 19368,
     "name": "Krem pistacjowy Crunchy Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "180 g",
@@ -20119,7 +20745,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19355,
+    "product_id": 19369,
     "name": "Krem pistacjowy bez dodatku cukrów Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "200 g",
@@ -20168,7 +20794,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19503,
+    "product_id": 19515,
     "name": "Kremowe mydło w płynie Linda",
     "category": "Chemia",
     "weight_or_volume": "500 ml",
@@ -20192,7 +20818,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19274,
+    "product_id": 19289,
+    "name": "Krewetki białe blanszowane Marinero",
+    "category": "Mrożonki",
+    "weight_or_volume": "225 g",
+    "main_price": 17.49,
+    "old_price": 19.99,
+    "discount_percentage": "-24%",
+    "offer_type": "promocja",
+    "promotion_condition": "DRUGI 24% TANIEJ PRZY ZAKUPIE 2 SZTUK",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19276,
     "name": "Krewetki gotowane Marinero",
     "category": "Mięso",
     "weight_or_volume": "250 g",
@@ -20200,7 +20850,7 @@
     "old_price": 21.99,
     "discount_percentage": "-54%",
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI 54% TANIEJ PRZY ZAKUPIE 2",
+    "promotion_condition": "DRUGI 54% TANIEJ",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P30_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -20216,7 +20866,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19280,
+    "product_id": 19282,
     "name": "Krewetki obrane Marinero",
     "category": "Mięso",
     "weight_or_volume": "200 g",
@@ -20240,7 +20890,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19251,
+    "product_id": 19253,
     "name": "Kukurydza kolba",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 szt.",
@@ -20248,9 +20898,57 @@
     "old_price": 5.99,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 GRATIS KAŻDA Z 2 SZTUK",
+    "promotion_condition": "1+1 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P24_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19293,
+    "name": "Kurczak z warzywami Makłowicz i Synowie",
+    "category": "Żywność sucha",
+    "weight_or_volume": "400 g",
+    "main_price": 10.99,
+    "old_price": 12.99,
+    "discount_percentage": "-30%",
+    "offer_type": "promocja",
+    "promotion_condition": "DRUGI 30% TANIEJ PRZY ZAKUPIE 2 SZTUK",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19292,
+    "name": "Lasagne chicken mushroom Come a Casa",
+    "category": "Mrożonki",
+    "weight_or_volume": "400 g",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
     "date_label": "OD 23-07",
     "date_labels": [
       "OD 23-07"
@@ -20289,7 +20987,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19369,
+    "product_id": 19383,
     "name": "Lemoniada Le Mondo Legato",
     "category": "Napoje",
     "weight_or_volume": "330 ml",
@@ -20313,7 +21011,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19410,
+    "product_id": 19423,
     "name": "Lemoniada Mokate Party",
     "category": "Napoje",
     "weight_or_volume": "40 g",
@@ -20337,7 +21035,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19501,
+    "product_id": 19496,
+    "name": "Liczi na wagę",
+    "category": "Owoce i Warzywa",
+    "weight_or_volume": "1 kg",
+    "main_price": 29.99,
+    "old_price": 59.99,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P67_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19513,
     "name": "Lody Edwardzik Nordis",
     "category": "Słodycze",
     "weight_or_volume": "55 ml",
@@ -20361,7 +21083,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19381,
+    "product_id": 19395,
     "name": "Lody Edwardzik Warchocki Nordis",
     "category": "Mrożonki",
     "weight_or_volume": "55 ml",
@@ -20385,31 +21107,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19516,
-    "name": "Lody Marletto (na patyku, w rożku, tubce, rurka, kanapka)",
-    "category": "Słodycze",
-    "weight_or_volume": "do 250 ml",
-    "main_price": 1.0,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "DRUGI ZA 1 ZŁ PRZY ZAKUPIE 2 Z KARTĄ MOJA BIEDRONKA",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_PIWO_COVER.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19382,
+    "product_id": 19396,
     "name": "Lody Marletto Sandwich",
     "category": "Mrożonki",
     "weight_or_volume": "110 ml",
@@ -20434,7 +21132,7 @@
   },
   {
     "product_id": 19245,
-    "name": "Lody Marletto na patyku, 6x120 ml",
+    "name": "Lody Marletto na patyku",
     "category": "Słodycze",
     "weight_or_volume": "6x120 ml",
     "main_price": 9.99,
@@ -20465,7 +21163,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "drugi za 1 zł, przy zakupie 2 sztuk",
+    "promotion_condition": "Drugi za 1 zł przy zakupie 2",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P21_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -20481,7 +21179,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19379,
+    "product_id": 19247,
+    "name": "Lody Marletto na patyku, w rożku, tubce, rurka, kanapka",
+    "category": "Słodycze",
+    "weight_or_volume": "do 250 ml",
+    "main_price": 1.0,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "drugi tańszy produkt za 1 zł",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_PIWO_COVER.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19393,
     "name": "Lody bez dodatku cukru Marletto",
     "category": "Mrożonki",
     "weight_or_volume": "500 ml",
@@ -20505,7 +21227,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19383,
+    "product_id": 19397,
     "name": "Lody familijne Grycan",
     "category": "Mrożonki",
     "weight_or_volume": "900 ml - 1100 ml",
@@ -20529,15 +21251,15 @@
     "is_expired": true
   },
   {
-    "product_id": 18618,
-    "name": "Lody familijne Marletto",
+    "product_id": 19248,
+    "name": "Lody familjne Marletto",
     "category": "Słodycze",
-    "weight_or_volume": "900 ml",
+    "weight_or_volume": "500 ml - 1000 ml",
     "main_price": 9.0,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "drugi za 9 zł, przy zakupie 2 sztuk",
+    "promotion_condition": "Drugi za 9 zł przy zakupie 2",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P21_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -20553,7 +21275,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19319,
+    "product_id": 19331,
     "name": "Makaron cannelloni Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "250 g",
@@ -20577,7 +21299,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19322,
+    "product_id": 19334,
     "name": "Makaron conchiglioni Pasta di Gragnano P.G.I. Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "500 g",
@@ -20601,7 +21323,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19324,
+    "product_id": 19336,
     "name": "Makaron dla dzieci Dalla Costa",
     "category": "Żywność sucha",
     "weight_or_volume": "250 g",
@@ -20625,7 +21347,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19326,
+    "product_id": 19338,
     "name": "Makaron fettuccine al nero di seppia Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "250 g",
@@ -20649,7 +21371,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19325,
+    "product_id": 19337,
     "name": "Makaron fusilli corti Pasta di Gragnano P.G.I. Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "500 g",
@@ -20673,7 +21395,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19329,
+    "product_id": 19341,
     "name": "Makaron fusilloni Pasta di Gragnano P.G.I Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "500 g",
@@ -20697,7 +21419,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19318,
+    "product_id": 19330,
     "name": "Makaron jajeczny pappardelle Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "250 g",
@@ -20721,7 +21443,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19323,
+    "product_id": 19335,
     "name": "Makaron pełnoziarnisty mezzi rigatoni Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "500 g",
@@ -20745,7 +21467,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19321,
+    "product_id": 19333,
     "name": "Makaron rigatoni Pasta di Gragnano P.G.I. Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "500 g",
@@ -20769,7 +21491,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19320,
+    "product_id": 19332,
     "name": "Makaron spaghetti alla chitarra Pasta di Gragnano IGP Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "500 g",
@@ -20793,7 +21515,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19328,
+    "product_id": 19340,
     "name": "Makaron tagliatelle ze szpinakiem Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "500 g",
@@ -20817,7 +21539,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19257,
+    "product_id": 19259,
     "name": "Malina polska",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "200 g",
@@ -20825,7 +21547,7 @@
     "old_price": 14.99,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 GRATIS",
+    "promotion_condition": "1+1 GRATIS KAŻDE Z 2 OPAKOWAŃ",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P25_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -20841,7 +21563,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19428,
+    "product_id": 19440,
     "name": "Maseczka do ust intensywna regeneracja na noc Eveline Choco Glamour",
     "category": "Chemia",
     "weight_or_volume": "12 ml",
@@ -20865,7 +21587,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19434,
+    "product_id": 19446,
     "name": "Maska do włosów Niuqi",
     "category": "Chemia",
     "weight_or_volume": "400 ml",
@@ -20938,7 +21660,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19441,
+    "product_id": 19453,
     "name": "Maska w płachcie do twarzy Dearboo",
     "category": "Chemia",
     "weight_or_volume": "27 ml",
@@ -20963,14 +21685,14 @@
   },
   {
     "product_id": 19228,
-    "name": "Maszynki do golenia Wilkinson Xtreme 3",
+    "name": "Maszynki do golenia Wilkinson",
     "category": "Chemia",
     "weight_or_volume": "6+2 szt.",
     "main_price": 11.5,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis (każde z 2 opakowań)",
+    "promotion_condition": "1+1 gratis, limit dzienny 4 opak.",
     "lowest_price_30d": 16.07,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P14_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -20986,7 +21708,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19408,
+    "product_id": 19421,
     "name": "Matcha latte Mokate",
     "category": "Napoje",
     "weight_or_volume": "40 g",
@@ -21010,7 +21732,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19409,
+    "product_id": 19422,
     "name": "Matcha latte zero Mokate",
     "category": "Napoje",
     "weight_or_volume": "20 g",
@@ -21034,7 +21756,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19423,
+    "product_id": 19435,
     "name": "Mgiełka do ciała Niuqi",
     "category": "Chemia",
     "weight_or_volume": "200 ml",
@@ -21058,7 +21780,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19335,
+    "product_id": 19347,
     "name": "Mini piadina wraps 33 Fine Foods",
     "category": "Żywność sucha",
     "weight_or_volume": "280 g",
@@ -21082,7 +21804,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19333,
+    "product_id": 19345,
     "name": "Mini pinsa Gusto Bello",
     "category": "Mrożonki",
     "weight_or_volume": "2x130 g",
@@ -21106,14 +21828,14 @@
     "is_expired": true
   },
   {
-    "product_id": 19493,
-    "name": "Miruna nowozelandzka filet bez skóry Marinero",
+    "product_id": 19505,
+    "name": "Miruna nowozelandzka, filet bez skóry Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
     "main_price": 5.49,
     "old_price": null,
     "discount_percentage": null,
-    "offer_type": "promocja",
+    "offer_type": "cena_regularna",
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P73_44vcofgubf.png",
@@ -21130,13 +21852,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19266,
+    "product_id": 19268,
     "name": "Mięso mielone z nogi z kurczaka Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "400 g",
     "main_price": 6.99,
     "old_price": 9.49,
-    "discount_percentage": "-52%",
+    "discount_percentage": "52%",
     "offer_type": "promocja",
     "promotion_condition": "PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
@@ -21154,7 +21876,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19261,
+    "product_id": 19263,
     "name": "Mięso mielone z łopatki wieprzowej Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "500 g",
@@ -21162,7 +21884,7 @@
     "old_price": 10.99,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis przy zakupie 2 sztuk",
+    "promotion_condition": "1+1 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P27_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -21178,14 +21900,14 @@
     "is_expired": true
   },
   {
-    "product_id": 19453,
+    "product_id": 19465,
     "name": "Mleczko Cif Lemon",
     "category": "Chemia",
     "weight_or_volume": "2x780 g",
     "main_price": 19.99,
     "old_price": null,
     "discount_percentage": null,
-    "offer_type": "promocja",
+    "offer_type": "cena_regularna",
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P60_44vcofgubf.png",
@@ -21202,10 +21924,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19200,
+    "product_id": 19202,
     "name": "Mleko UHT 3,2% Mleczna Dolina",
     "category": "Nabiał",
-    "weight_or_volume": "1 L",
+    "weight_or_volume": "1 l",
     "main_price": 1.35,
     "old_price": null,
     "discount_percentage": null,
@@ -21226,10 +21948,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19199,
-    "name": "Mleko UHT 3,2% Mlekovita Łącka",
+    "product_id": 19201,
+    "name": "Mleko UHT 3,2% Mlekovita Łączka",
     "category": "Nabiał",
-    "weight_or_volume": "1 L",
+    "weight_or_volume": "1 l",
     "main_price": 1.59,
     "old_price": null,
     "discount_percentage": null,
@@ -21250,7 +21972,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19407,
+    "product_id": 19420,
     "name": "Mokate Matcha",
     "category": "Napoje",
     "weight_or_volume": "40 g",
@@ -21274,7 +21996,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19309,
+    "product_id": 19321,
     "name": "Mortadella Bologna IGP Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -21298,7 +22020,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19311,
+    "product_id": 19323,
     "name": "Mortadella Bologna z pistacjami Biedronka",
     "category": "Mięso",
     "weight_or_volume": "140 g",
@@ -21322,8 +22044,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19449,
-    "name": "Mus owocowy Dada Baby Food Bio, 10x100 g",
+    "product_id": 19461,
+    "name": "Mus owocowy Dada Baby Food Bio",
     "category": "Dla dzieci",
     "weight_or_volume": "10x100 g",
     "main_price": 24.99,
@@ -21346,8 +22068,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19450,
-    "name": "Musy w koszyczku HiPP, 5x100 g",
+    "product_id": 19462,
+    "name": "Musy w koszyczku HiPP",
     "category": "Dla dzieci",
     "weight_or_volume": "5x100 g",
     "main_price": 23.49,
@@ -21370,8 +22092,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19465,
-    "name": "Mydelko w platkach HiSkin",
+    "product_id": 19477,
+    "name": "Mydelko w płatkach HiSkin",
     "category": "Chemia",
     "weight_or_volume": "50 szt.",
     "main_price": 7.99,
@@ -21394,7 +22116,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19502,
+    "product_id": 19514,
     "name": "Mydło w płynie Linda",
     "category": "Chemia",
     "weight_or_volume": "1 l",
@@ -21418,7 +22140,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19417,
+    "product_id": 19429,
     "name": "Napoje 4MOVE",
     "category": "Napoje",
     "weight_or_volume": null,
@@ -21442,7 +22164,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19415,
+    "product_id": 19212,
+    "name": "Napoje roślinne Alpro i Go Vege",
+    "category": "Napoje",
+    "weight_or_volume": "1 L",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+2 GRATIS",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P08_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19427,
     "name": "Napój Oshee Vitamin Water Zero",
     "category": "Napoje",
     "weight_or_volume": "1,1 l",
@@ -21466,8 +22212,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19413,
-    "name": "Napój Owoce Świata Tymbark",
+    "product_id": 19426,
+    "name": "Napój Owocowy Tymbark",
     "category": "Napoje",
     "weight_or_volume": "1,5 l",
     "main_price": 3.49,
@@ -21490,7 +22236,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19416,
+    "product_id": 19428,
     "name": "Napój energetyczny Monster Energy",
     "category": "Napoje",
     "weight_or_volume": "500 ml",
@@ -21514,7 +22260,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19218,
+    "product_id": 19217,
     "name": "Napój gazowany Coca-Cola",
     "category": "Napoje",
     "weight_or_volume": "4x500 ml",
@@ -21539,11 +22285,11 @@
   },
   {
     "product_id": 19219,
-    "name": "Napój gazowany Kinley, Fanta, Sprite",
+    "name": "Napój gazowany Fanta",
     "category": "Napoje",
     "weight_or_volume": "1,75 l",
     "main_price": 6.99,
-    "old_price": null,
+    "old_price": 9.59,
     "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": "PRZY ZAKUPIE 2",
@@ -21562,10 +22308,58 @@
     "is_expired": true
   },
   {
-    "product_id": 19414,
+    "product_id": 19218,
+    "name": "Napój gazowany Kinley",
+    "category": "Napoje",
+    "weight_or_volume": "1,75 l",
+    "main_price": 6.99,
+    "old_price": 9.59,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "PRZY ZAKUPIE 2",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P11_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19220,
     "name": "Napój gazowany Sprite",
     "category": "Napoje",
-    "weight_or_volume": "330 ml",
+    "weight_or_volume": "1,75 l",
+    "main_price": 6.99,
+    "old_price": 9.59,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "PRZY ZAKUPIE 2",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P11_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19220,
+    "name": "Napój gazowany Sprite",
+    "category": "Napoje",
+    "weight_or_volume": "1,75 l",
     "main_price": 3.99,
     "old_price": null,
     "discount_percentage": null,
@@ -21586,12 +22380,12 @@
     "is_expired": true
   },
   {
-    "product_id": 19392,
+    "product_id": 19406,
     "name": "Napój kakaowy Quick Cao Magnetic",
     "category": "Napoje",
     "weight_or_volume": "500 g",
     "main_price": 10.99,
-    "old_price": null,
+    "old_price": 13.99,
     "discount_percentage": "-21%",
     "offer_type": "promocja",
     "promotion_condition": "Z KARTĄ LUB APKĄ",
@@ -21610,10 +22404,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19217,
+    "product_id": 19216,
     "name": "Napój niegazowany Tymbark Po Prostu",
     "category": "Napoje",
-    "weight_or_volume": "1.25 l",
+    "weight_or_volume": "1.25 L",
     "main_price": 3.49,
     "old_price": null,
     "discount_percentage": null,
@@ -21634,17 +22428,17 @@
     "is_expired": true
   },
   {
-    "product_id": 19211,
-    "name": "Napój roślinny Alpro Barista Migdał",
-    "category": "Napoje",
-    "weight_or_volume": "1 L",
-    "main_price": 9.99,
+    "product_id": 19458,
+    "name": "Nawilżane chusteczki Dada Extra Care / Aqua",
+    "category": "Dla dzieci",
+    "weight_or_volume": null,
+    "main_price": 0.0,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "2+2 GRATIS",
+    "promotion_condition": "2+2 gratis (mieszaj dowolnie)",
     "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P08_44vcofgubf.png",
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P59_44vcofgubf.png",
     "date_label": "OD 23-07",
     "date_labels": [
       "OD 23-07"
@@ -21658,79 +22452,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19210,
-    "name": "Napój roślinny Alpro Barista Owsiany",
-    "category": "Napoje",
-    "weight_or_volume": "1 L",
-    "main_price": 9.99,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "2+2 GRATIS",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P08_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19213,
-    "name": "Napój roślinny Alpro Migdał Delikatnie Kremowy",
-    "category": "Napoje",
-    "weight_or_volume": "1 L",
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "2+2 GRATIS",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P08_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19212,
-    "name": "Napój roślinny Go Vege Bio Owsiany",
-    "category": "Napoje",
-    "weight_or_volume": "1 L",
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "2+2 GRATIS",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P08_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19429,
+    "product_id": 19441,
     "name": "Odżywczo nawilżający balsam-serum do ust na dzień Eveline Choco Glamour",
     "category": "Chemia",
     "weight_or_volume": "12 ml",
@@ -21754,8 +22476,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19480,
-    "name": "Ogórki konserwowe, kiszone i małosolne różne rodzaje (Swojska Chata, Nasza Spiżarnia)",
+    "product_id": 19490,
+    "name": "Ogórki konserwowe, kiszone i małosolne Swojska Chata / Nasza Spiżarnia",
     "category": "Owoce i Warzywa",
     "weight_or_volume": null,
     "main_price": null,
@@ -21802,7 +22524,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19438,
+    "product_id": 19450,
     "name": "Olejek do mycia twarzy lub toner SKIN1004 Centella Madagascar",
     "category": "Chemia",
     "weight_or_volume": "30 ml",
@@ -21826,7 +22548,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19338,
+    "product_id": 19350,
     "name": "Oliwa w spray'u Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "200 ml",
@@ -21850,7 +22572,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19498,
+    "product_id": 19510,
     "name": "Oliwa z oliwek Bio Monini",
     "category": "Żywność sucha",
     "weight_or_volume": "500 ml",
@@ -21874,7 +22596,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19497,
+    "product_id": 19509,
     "name": "Oliwa z oliwek Gran Fruttato Monini",
     "category": "Żywność sucha",
     "weight_or_volume": "500 ml",
@@ -21898,7 +22620,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19499,
+    "product_id": 19511,
     "name": "Oliwa z oliwek extra vergine Monini (Delicato, Classico)",
     "category": "Żywność sucha",
     "weight_or_volume": "750 ml",
@@ -21922,7 +22644,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19500,
+    "product_id": 19512,
     "name": "Oliwa z oliwek extra vergine Non Filtrato Monini",
     "category": "Żywność sucha",
     "weight_or_volume": "500 ml",
@@ -21946,7 +22668,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19340,
+    "product_id": 19352,
     "name": "Oliwa z oliwek niefiltrowana Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "750 ml",
@@ -21970,7 +22692,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19496,
+    "product_id": 19508,
     "name": "Oliwa z oliwek w spray'u Monini",
     "category": "Żywność sucha",
     "weight_or_volume": "200 ml",
@@ -22002,7 +22724,7 @@
     "old_price": 7.99,
     "discount_percentage": "-50%",
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI TANIEJ",
+    "promotion_condition": "DRUGI 50% TANIEJ PRZY ZAKUPIE 2",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P36_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -22018,7 +22740,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19332,
+    "product_id": 19344,
     "name": "Panini Rustici Gusto Bello",
     "category": "Pieczywo",
     "weight_or_volume": "170 g",
@@ -22042,8 +22764,8 @@
     "is_expired": true
   },
   {
-    "product_id": 18550,
-    "name": "Papier toaletowy Queen Komfort, 10 rolek",
+    "product_id": 19522,
+    "name": "Papier toaletowy Queen Komfort",
     "category": "Chemia",
     "weight_or_volume": "10 rolek",
     "main_price": 13.49,
@@ -22066,8 +22788,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19511,
-    "name": "Papier toaletowy Queen Supreme, 9 rolek",
+    "product_id": 19523,
+    "name": "Papier toaletowy Queen Supreme",
     "category": "Chemia",
     "weight_or_volume": "9 rolek",
     "main_price": 14.99,
@@ -22090,7 +22812,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19444,
+    "product_id": 19456,
     "name": "Papier toaletowy z ekstraktem z aloesu Velvet",
     "category": "Chemia",
     "weight_or_volume": "16 rolek",
@@ -22114,32 +22836,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19235,
-    "name": "Papiery toaletowe Queen",
-    "category": "Chemia",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "2+1 gratis",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P16_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19249,
-    "name": "Papryka czerwona",
+    "product_id": 19250,
+    "name": "Papryka czerwona na wagę",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 kg",
     "main_price": 5.99,
@@ -22162,7 +22860,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19490,
+    "product_id": 19502,
     "name": "Parówki Krakus",
     "category": "Mięso",
     "weight_or_volume": "200 g",
@@ -22186,8 +22884,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19356,
-    "name": "Passata Gusto Bello",
+    "product_id": 19370,
+    "name": "Passata Gusto Bello Classica",
     "category": "Żywność sucha",
     "weight_or_volume": "690 g",
     "main_price": 4.99,
@@ -22210,7 +22908,55 @@
     "is_expired": true
   },
   {
-    "product_id": 19463,
+    "product_id": 19291,
+    "name": "Pasta Pastella Lisner",
+    "category": "Mięso",
+    "weight_or_volume": "80 g",
+    "main_price": 2.39,
+    "old_price": 2.95,
+    "discount_percentage": "-36%",
+    "offer_type": "promocja",
+    "promotion_condition": "DRUGI 36% TANIEJ PRZY ZAKUPIE 2 SZTUK",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19290,
+    "name": "Pasztet z tuńczyka Rio Mare",
+    "category": "Mięso",
+    "weight_or_volume": "115 g",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19475,
     "name": "Perfumy do tkanin Eden Blooming Mega Paka",
     "category": "Chemia",
     "weight_or_volume": "1,5 l",
@@ -22234,8 +22980,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19350,
-    "name": "Pesto Gusto Bello (alla calabrese, con rucola)",
+    "product_id": 19361,
+    "name": "Pesto Gusto Bello alla Calabrese",
     "category": "Żywność sucha",
     "weight_or_volume": "190 g",
     "main_price": 5.99,
@@ -22258,8 +23004,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19352,
-    "name": "Pesto Gusto Bello (arrabbiata, ricotta e noci)",
+    "product_id": 19364,
+    "name": "Pesto Gusto Bello arrabbiata",
     "category": "Żywność sucha",
     "weight_or_volume": "190 g",
     "main_price": 7.99,
@@ -22282,8 +23028,80 @@
     "is_expired": true
   },
   {
-    "product_id": 19351,
-    "name": "Pesto Gusto Bello (rosso, alla genovese)",
+    "product_id": 19362,
+    "name": "Pesto Gusto Bello con Rucola",
+    "category": "Żywność sucha",
+    "weight_or_volume": "190 g",
+    "main_price": 5.99,
+    "old_price": 7.55,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "PRZY ZAKUPIE 2",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P43_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19367,
+    "name": "Pesto Gusto Bello di pistacchio",
+    "category": "Żywność sucha",
+    "weight_or_volume": "190 g",
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P43_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19365,
+    "name": "Pesto Gusto Bello ricotta e noci",
+    "category": "Żywność sucha",
+    "weight_or_volume": "190 g",
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P43_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19363,
+    "name": "Pesto Gusto Bello rosso, alla genovese",
     "category": "Żywność sucha",
     "weight_or_volume": "190 g",
     "main_price": 4.0,
@@ -22306,8 +23124,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19353,
-    "name": "Pesto Gusto Bello (z pomidorków koktajlowych, z orzechów pistacjowych)",
+    "product_id": 19366,
+    "name": "Pesto Gusto Bello z pomidorków koktajlowych, z orzechów pistacjowych",
     "category": "Żywność sucha",
     "weight_or_volume": "190 g",
     "main_price": 7.99,
@@ -22330,7 +23148,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19390,
+    "product_id": 19404,
     "name": "Pianko-galaretka Meltié",
     "category": "Słodycze",
     "weight_or_volume": "400 g",
@@ -22403,7 +23221,7 @@
   },
   {
     "product_id": 19231,
-    "name": "Pieluszki Pampers Premium Care",
+    "name": "Pieluszki Pampers Premium",
     "category": "Dla dzieci",
     "weight_or_volume": null,
     "main_price": 5.0,
@@ -22426,7 +23244,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19288,
+    "product_id": 19300,
     "name": "Pinsa Capriciosa",
     "category": "Mrożonki",
     "weight_or_volume": "150 g",
@@ -22450,7 +23268,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19334,
+    "product_id": 19346,
     "name": "Pinsa classica Gusto Bello",
     "category": "Mrożonki",
     "weight_or_volume": "2x230 g",
@@ -22474,7 +23292,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19222,
+    "product_id": 19223,
     "name": "Piwa Garage",
     "category": "Alkohol",
     "weight_or_volume": null,
@@ -22482,7 +23300,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "3+3 GRATIS",
+    "promotion_condition": "3+3 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P12_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -22498,7 +23316,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19223,
+    "product_id": 19224,
     "name": "Piwa Somersby",
     "category": "Alkohol",
     "weight_or_volume": null,
@@ -22506,7 +23324,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "3+3 GRATIS",
+    "promotion_condition": "3+3 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P12_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -22522,7 +23340,55 @@
     "is_expired": true
   },
   {
-    "product_id": 19418,
+    "product_id": 19532,
+    "name": "Piwa w puszce (Warka, Zubr, Harnas)",
+    "category": "Alkohol",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "6+6 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_PIWO_COVER.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19534,
+    "name": "Piwa w puszce (Warka, Zubr, Tyskie, Harnas)",
+    "category": "Alkohol",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "6+6 gratis",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_piwo_puszki.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19430,
     "name": "Piwo 0,0% Żywiec (arbużada, melonżada, lemonż, lipa-pigwa)",
     "category": "Alkohol",
     "weight_or_volume": "500 ml",
@@ -22546,7 +23412,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19521,
+    "product_id": 19533,
     "name": "Piwo Lech Premium",
     "category": "Alkohol",
     "weight_or_volume": "500 ml",
@@ -22554,7 +23420,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "6+6 GRATIS (przy zakupie 12 szt.)",
+    "promotion_condition": "6+6 gratis",
     "lowest_price_30d": 2.45,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_piwo_puszki.png",
     "date_label": "OD 23-07",
@@ -22570,7 +23436,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19419,
+    "product_id": 19431,
     "name": "Piwo Okocim 3xZero (truskawka, grejpfrut)",
     "category": "Alkohol",
     "weight_or_volume": "500 ml",
@@ -22594,7 +23460,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19421,
+    "product_id": 19433,
     "name": "Piwo Tyskie",
     "category": "Alkohol",
     "weight_or_volume": "6x500 ml",
@@ -22618,31 +23484,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19520,
-    "name": "Piwo w puszce (Warka, Zubr, Harnaś)",
-    "category": "Alkohol",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "6+6 GRATIS PRZY ZAKUPIE 12 Z KARTĄ MOJA BIEDRONKA",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_PIWO_COVER.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19420,
+    "product_id": 19432,
     "name": "Piwo Łomża Radler 0,0%",
     "category": "Alkohol",
     "weight_or_volume": "500 ml",
@@ -22666,15 +23508,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19221,
-    "name": "Piwo Žatecký 0,0% Nealko",
+    "product_id": 19222,
+    "name": "Piwo Žatecký 0,0%",
     "category": "Alkohol",
     "weight_or_volume": "500 ml",
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "6+6 GRATIS",
+    "promotion_condition": "6+6 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P12_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -22690,7 +23532,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19220,
+    "product_id": 19221,
     "name": "Piwo Žatecký Světlý Ležák",
     "category": "Alkohol",
     "weight_or_volume": "500 ml",
@@ -22698,7 +23540,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "6+6 GRATIS",
+    "promotion_condition": "6+6 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P12_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -22714,7 +23556,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19380,
+    "product_id": 19394,
     "name": "Pizza Guseppe (różne rodzaje)",
     "category": "Mrożonki",
     "weight_or_volume": null,
@@ -22738,7 +23580,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19331,
+    "product_id": 19343,
     "name": "Pizza al metro salamino piccante Gusto Bello",
     "category": "Mrożonki",
     "weight_or_volume": "430 g",
@@ -22762,7 +23604,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19337,
+    "product_id": 19349,
     "name": "Pizza bianca Trattoria Donatello",
     "category": "Mrożonki",
     "weight_or_volume": "400 g",
@@ -22812,7 +23654,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19435,
+    "product_id": 19447,
     "name": "Plasterki na wypryski Skin Snap",
     "category": "Chemia",
     "weight_or_volume": "12 szt.-40 szt.",
@@ -22836,7 +23678,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19506,
+    "product_id": 19518,
     "name": "Poduszka dekoracyjna",
     "category": "Artykuły domowe",
     "weight_or_volume": "40 x 40 cm",
@@ -22860,7 +23702,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19273,
+    "product_id": 19275,
     "name": "Polędwiczki z kurczaka w marynacie mango lassi Czas na Grill",
     "category": "Mięso",
     "weight_or_volume": "400 g",
@@ -22884,32 +23726,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19248,
+    "product_id": 19530,
     "name": "Pomidor malinowy polski",
-    "category": "Owoce i Warzywa",
-    "weight_or_volume": "1 kg",
-    "main_price": 2.99,
-    "old_price": 12.99,
-    "discount_percentage": "-76%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P22_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19517,
-    "name": "Pomidor malinowy polski układany",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 kg",
     "main_price": 2.99,
@@ -22932,7 +23750,31 @@
     "is_expired": true
   },
   {
-    "product_id": 19343,
+    "product_id": 19249,
+    "name": "Pomidor malinowy polski układany na wagę",
+    "category": "Owoce i Warzywa",
+    "weight_or_volume": "1 kg",
+    "main_price": 2.99,
+    "old_price": 12.99,
+    "discount_percentage": "-76%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P22_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19355,
     "name": "Pomidory krojone Gusto Bello z bazylią, z cebulą i czosnkiem",
     "category": "Żywność sucha",
     "weight_or_volume": "400 g",
@@ -22956,7 +23798,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19345,
+    "product_id": 19357,
     "name": "Pomidory suszone Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "100 g",
@@ -22980,32 +23822,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19349,
-    "name": "Pomidory suszone Gusto Bello Pomodori Secchi Sottolio",
-    "category": "Żywność sucha",
-    "weight_or_volume": "280 g / 170 g",
-    "main_price": 5.99,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "PRZY ZAKUPIE 2",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P42_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19485,
-    "name": "Porzeczka, opak. 250 g",
+    "product_id": 19495,
+    "name": "Porzeczka",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "250 g",
     "main_price": 5.99,
@@ -23028,12 +23846,12 @@
     "is_expired": true
   },
   {
-    "product_id": 19398,
+    "product_id": 19411,
     "name": "Precle solone w polewie karmelowej Baitz",
     "category": "Słodycze",
     "weight_or_volume": "130 g",
-    "main_price": 4.99,
-    "old_price": null,
+    "main_price": null,
+    "old_price": 4.99,
     "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": "DRUGI ZA 1 ZŁ",
@@ -23052,15 +23870,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19234,
-    "name": "Produkty Bryza (proszek, płyny)",
+    "product_id": 19236,
+    "name": "Produkty Domestos i Cif",
     "category": "Chemia",
     "weight_or_volume": null,
     "main_price": null,
     "old_price": null,
     "discount_percentage": "-70%",
     "offer_type": "promocja",
-    "promotion_condition": "Drugi produkt 70% taniej",
+    "promotion_condition": "drugi 70% taniej",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P16_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23076,55 +23894,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19236,
-    "name": "Produkty Domestos i Cif",
-    "category": "Chemia",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": "-70%",
-    "offer_type": "promocja",
-    "promotion_condition": "Drugi produkt 70% taniej",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P16_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19236,
-    "name": "Produkty Domestos i Cif",
-    "category": "Chemia",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "DRUGI 70% TANIEJ PRZY ZAKUPIE 2",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_PIWO_COVER.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19442,
+    "product_id": 19454,
     "name": "Produkty Femina Pure Cotton",
     "category": "Chemia",
     "weight_or_volume": null,
@@ -23148,15 +23918,39 @@
     "is_expired": true
   },
   {
+    "product_id": 19237,
+    "name": "Produkty Lovela (mleczka do prania)",
+    "category": "Chemia",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "1+1 GRATIS",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P17_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
     "product_id": 19226,
     "name": "Produkty Sensodyne",
     "category": "Chemia",
     "weight_or_volume": null,
-    "main_price": 5.0,
+    "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "drugi produkt za 5 zł",
+    "promotion_condition": "drugi za 5 zł",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P14_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23172,15 +23966,39 @@
     "is_expired": true
   },
   {
-    "product_id": 19464,
-    "name": "Produkty przeciw owadom OFF! i RAID",
+    "product_id": 19234,
+    "name": "Produkty do prania Bryza",
+    "category": "Chemia",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": "-70%",
+    "offer_type": "promocja",
+    "promotion_condition": "drugi 70% taniej",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P16_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19476,
+    "name": "Produkty przeciw owadom marki Raid oraz Off!",
     "category": "Chemia",
     "weight_or_volume": null,
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "drugi 50% taniej",
+    "promotion_condition": "Drugi 50% taniej",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P61_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23196,7 +24014,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19308,
+    "product_id": 19320,
     "name": "Prosciutto Arrosto Emiliano Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "120 g",
@@ -23226,9 +24044,9 @@
     "weight_or_volume": "100 g",
     "main_price": 7.89,
     "old_price": 10.49,
-    "discount_percentage": "-48%",
+    "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI 48% TANIEJ PRZY ZAKUPIE 2",
+    "promotion_condition": "DRUGI 48% TANIEJ PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P37_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23252,7 +24070,7 @@
     "old_price": 7.29,
     "discount_percentage": "-48%",
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI TANIEJ",
+    "promotion_condition": "DRUGI 48% TANIEJ PRZY ZAKUPIE 2",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P36_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23268,7 +24086,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19476,
+    "product_id": 19486,
     "name": "Przekąski dla psa Activ Pet",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "100 g",
@@ -23292,7 +24110,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19341,
+    "product_id": 19353,
     "name": "Przyprawa na bazie oliwy Gusto Bello (Aglio Peperoncino / Basilico)",
     "category": "Żywność sucha",
     "weight_or_volume": "250 ml",
@@ -23316,7 +24134,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19342,
+    "product_id": 19354,
     "name": "Przyprawa na bazie oliwy Gusto Bello (Limone / Tartufo Nero)",
     "category": "Żywność sucha",
     "weight_or_volume": "250 ml",
@@ -23340,8 +24158,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19495,
-    "name": "Przyprawa na bazie oliwy z oliwek Monini (pomarańcza, cztery pieprze, cytryna, biała trufla, bazylia, czosnek & chili)",
+    "product_id": 19507,
+    "name": "Przyprawa na bazie oliwy z oliwek Monini (pomarańcza, cztery pieprze, czosnek & chili, cytryna, biała trufla, bazylia)",
     "category": "Żywność sucha",
     "weight_or_volume": "250 ml",
     "main_price": 18.99,
@@ -23364,7 +24182,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19472,
+    "product_id": 19482,
     "name": "Przysmaki dla kota Dreamies",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "180 g",
@@ -23388,7 +24206,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19477,
+    "product_id": 19487,
     "name": "Przysmaki dla psa Pedigree Ranchos",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "70 g",
@@ -23412,7 +24230,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19386,
+    "product_id": 19400,
     "name": "Ptasie Mleczko E.Wedel",
     "category": "Słodycze",
     "weight_or_volume": "340 g",
@@ -23436,10 +24254,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19297,
-    "name": "Pączek Słodka Kraina",
+    "product_id": 19309,
+    "name": "Pączek Słodka Kraina z pudrem dekoracyjnym, z lukrem",
     "category": "Pieczywo",
-    "weight_or_volume": "80 g / 85 g",
+    "weight_or_volume": "80 g/85 g",
     "main_price": 1.19,
     "old_price": 1.35,
     "discount_percentage": "-11%",
@@ -23460,7 +24278,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19298,
+    "product_id": 19310,
     "name": "Pączek z nadzieniem o smaku czekoladowo-orzechowym, o smaku waniliowym",
     "category": "Pieczywo",
     "weight_or_volume": "95 g",
@@ -23484,7 +24302,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19296,
+    "product_id": 19308,
     "name": "Pączek z nadzieniem truskawkowym i mascarpone",
     "category": "Pieczywo",
     "weight_or_volume": "100 g",
@@ -23492,7 +24310,7 @@
     "old_price": 3.99,
     "discount_percentage": "-20%",
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI 20% TANIEJ",
+    "promotion_condition": "DRUGI",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P33_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23508,7 +24326,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19427,
+    "product_id": 19439,
     "name": "Płatki kosmetyczne Be Beauty",
     "category": "Chemia",
     "weight_or_volume": "3x120 szt.",
@@ -23532,14 +24350,14 @@
     "is_expired": true
   },
   {
-    "product_id": 19455,
+    "product_id": 19467,
     "name": "Płyn Domestos Bleach",
     "category": "Chemia",
     "weight_or_volume": "2x1,25 l",
     "main_price": 20.99,
     "old_price": null,
     "discount_percentage": null,
-    "offer_type": "promocja",
+    "offer_type": "cena_regularna",
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P60_44vcofgubf.png",
@@ -23560,11 +24378,11 @@
     "name": "Płyn do mycia naczyń Fairy, 750 ml",
     "category": "Chemia",
     "weight_or_volume": "750 ml",
-    "main_price": null,
-    "old_price": 16.65,
+    "main_price": 12.49,
+    "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "drugi za 1 zł (limit 4 szt.)",
+    "promotion_condition": "DRUGI ZA 1 ZŁ",
     "lowest_price_30d": 5.75,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P17_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23580,7 +24398,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19460,
+    "product_id": 19472,
     "name": "Płyn do prania Kłębuszek Blooming",
     "category": "Chemia",
     "weight_or_volume": "1,82 l",
@@ -23604,7 +24422,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19456,
+    "product_id": 19468,
     "name": "Płyn do płukania Coccolino",
     "category": "Chemia",
     "weight_or_volume": "1,275 l",
@@ -23628,7 +24446,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19457,
+    "product_id": 19469,
     "name": "Płyn do płukania Coccolino fresh & soft",
     "category": "Chemia",
     "weight_or_volume": "1,45 l",
@@ -23660,7 +24478,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis (każda z 2 sztuk)",
+    "promotion_condition": "1+1 gratis, limit dzienny 4 szt.",
     "lowest_price_30d": 10.99,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P14_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23676,7 +24494,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19399,
+    "product_id": 19412,
     "name": "Rolada truskawkowa z bezą",
     "category": "Słodycze",
     "weight_or_volume": "450 g",
@@ -23700,7 +24518,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19290,
+    "product_id": 19302,
     "name": "Rożek z jabłkiem",
     "category": "Pieczywo",
     "weight_or_volume": "95 g",
@@ -23724,15 +24542,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19252,
-    "name": "Rzodkiewka pęczek",
+    "product_id": 19254,
+    "name": "Rzodkiewka, pęczek",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 szt.",
     "main_price": 1.35,
     "old_price": 2.69,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 GRATIS KAŻDA Z 2 SZTUK",
+    "promotion_condition": "1+1 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P24_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23749,9 +24567,9 @@
   },
   {
     "product_id": 19243,
-    "name": "Róża w doniczce, średnica doniczki 17 cm",
+    "name": "Róża w doniczce",
     "category": "Kwiaty i ogród",
-    "weight_or_volume": "17 cm",
+    "weight_or_volume": "średnica doniczki 17 cm",
     "main_price": 19.99,
     "old_price": null,
     "discount_percentage": null,
@@ -23773,9 +24591,9 @@
   },
   {
     "product_id": 19242,
-    "name": "Róża, 15 szt., wysokość 40 cm",
+    "name": "Róża, 15 szt.",
     "category": "Kwiaty i ogród",
-    "weight_or_volume": "15 szt.",
+    "weight_or_volume": "wysokość 40 cm",
     "main_price": 13.99,
     "old_price": null,
     "discount_percentage": null,
@@ -23796,8 +24614,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19510,
-    "name": "Ręcznik papierowy Queen Mega Sweep",
+    "product_id": 19521,
+    "name": "Ręcznik papierowy Queen Mega Sweep, 120 m",
     "category": "Chemia",
     "weight_or_volume": "120 m",
     "main_price": 9.49,
@@ -23820,8 +24638,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19509,
-    "name": "Ręcznik papierowy Queen Total absorption 3-warstwowy",
+    "product_id": 18616,
+    "name": "Ręcznik papierowy Queen Total absorption 3-warstwowy, 70 m",
     "category": "Chemia",
     "weight_or_volume": "70 m",
     "main_price": 9.49,
@@ -23844,7 +24662,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19314,
+    "product_id": 19326,
     "name": "Salame di Cantina Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "175 g",
@@ -23868,7 +24686,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19313,
+    "product_id": 19325,
     "name": "Salami z truflą i parmigiano reggiano w kubeczku Biedronka",
     "category": "Mięso",
     "weight_or_volume": "80 g",
@@ -23892,7 +24710,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19259,
+    "product_id": 19261,
     "name": "Schab wieprzowy bez kości pakowany próżniowy Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -23900,7 +24718,7 @@
     "old_price": 15.95,
     "discount_percentage": "-49%",
     "offer_type": "promocja",
-    "promotion_condition": "z kartą lub aplikacją",
+    "promotion_condition": "z kartą lub aplikacją Moja Biedronka",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P27_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -23916,7 +24734,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19310,
+    "product_id": 19322,
     "name": "Selekcja specjałów z dodatkiem trufli Biedronka",
     "category": "Mięso",
     "weight_or_volume": "140 g",
@@ -23940,7 +24758,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19302,
+    "product_id": 19314,
     "name": "Ser Caciotta Gusto Bello z oliwkami, z chili i rukolą",
     "category": "Nabiał",
     "weight_or_volume": "100 g",
@@ -23964,7 +24782,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19489,
+    "product_id": 19501,
     "name": "Ser Gouda Światowid plastry",
     "category": "Nabiał",
     "weight_or_volume": "150 g",
@@ -23988,7 +24806,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19371,
+    "product_id": 19385,
     "name": "Ser Mascarpone Galbani",
     "category": "Nabiał",
     "weight_or_volume": "500 g",
@@ -24012,7 +24830,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19204,
+    "product_id": 19206,
     "name": "Ser Mozzarella Delikate",
     "category": "Nabiał",
     "weight_or_volume": "125 g",
@@ -24020,7 +24838,7 @@
     "old_price": 2.99,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "2+1 GRATIS",
+    "promotion_condition": "2+1 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P05_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -24036,7 +24854,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19301,
+    "product_id": 19313,
     "name": "Ser Parmigiano Reggiano płatki Gusto Bello",
     "category": "Nabiał",
     "weight_or_volume": "100 g",
@@ -24060,7 +24878,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19304,
+    "product_id": 19316,
     "name": "Ser Pecorino Romano Gusto Bello",
     "category": "Nabiał",
     "weight_or_volume": "150 g",
@@ -24084,7 +24902,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19202,
+    "product_id": 19204,
     "name": "Ser żółty Salami w plastrach Światowid",
     "category": "Nabiał",
     "weight_or_volume": "300 g",
@@ -24092,7 +24910,7 @@
     "old_price": 9.99,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "drugi 70% taniej, każda z 2 sztuk",
+    "promotion_condition": "DRUGI 70% TANIEJ PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P04_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -24108,7 +24926,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19374,
+    "product_id": 19388,
     "name": "Serek homogenizowany Danio Pouch",
     "category": "Nabiał",
     "weight_or_volume": "120 g",
@@ -24132,8 +24950,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19494,
-    "name": "Sernik Gusto Bello (Cheesecake al Cioccolato e Caramello Salato / al Pistacchio)",
+    "product_id": 19506,
+    "name": "Sernik Gusto Bello (Cheesecake al Cioccolato e Caramello Salato / Cheesecake al Pistacchio)",
     "category": "Słodycze",
     "weight_or_volume": "90 g",
     "main_price": 7.99,
@@ -24156,8 +24974,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19300,
-    "name": "Sernik Gusto Bello, Cheesecake al pistacchio",
+    "product_id": 19311,
+    "name": "Sernik Gusto Bello, cheesecake al cioccolato e caramello salato",
     "category": "Słodycze",
     "weight_or_volume": "90 g",
     "main_price": 7.99,
@@ -24180,8 +24998,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19299,
-    "name": "Sernik Gusto Bello, Cheesecakes al cioccolato e caramello salato",
+    "product_id": 19312,
+    "name": "Sernik Gusto Bello, cheesecake al pistacchio",
     "category": "Słodycze",
     "weight_or_volume": "90 g",
     "main_price": 7.99,
@@ -24204,7 +25022,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19402,
+    "product_id": 19415,
     "name": "Sernik na zimno z malinami",
     "category": "Słodycze",
     "weight_or_volume": "600 g",
@@ -24300,7 +25118,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19440,
+    "product_id": 19452,
     "name": "Serum do twarzy Dearboo",
     "category": "Chemia",
     "weight_or_volume": "60 ml",
@@ -24348,7 +25166,7 @@
     "is_expired": false
   },
   {
-    "product_id": 19439,
+    "product_id": 19451,
     "name": "Serum lub krem do twarzy SKIN1004 Centella Madagascar",
     "category": "Chemia",
     "weight_or_volume": "30 ml",
@@ -24372,7 +25190,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19412,
+    "product_id": 19425,
     "name": "Shake It Mort Mokate",
     "category": "Napoje",
     "weight_or_volume": "27 g",
@@ -24396,13 +25214,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19264,
+    "product_id": 19266,
     "name": "Skrzydełka z kurczaka Kraina Mięs Mega Paka",
     "category": "Mięso",
-    "weight_or_volume": null,
+    "weight_or_volume": "1 kg",
     "main_price": 8.99,
     "old_price": 12.99,
-    "discount_percentage": "-30%",
+    "discount_percentage": "30%",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": null,
@@ -24420,7 +25238,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19270,
+    "product_id": 19272,
     "name": "Skrzydełka z kurczaka Sweet Paprica Czas na Grill",
     "category": "Mięso",
     "weight_or_volume": "500 g",
@@ -24444,7 +25262,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19271,
+    "product_id": 19273,
     "name": "Skrzydełka z kurczaka po gruzińsku Czas na Grill",
     "category": "Mięso",
     "weight_or_volume": "500 g",
@@ -24468,15 +25286,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19470,
-    "name": "Snacki dla kota Kitty / Przekaski dla kota poduszki Kitty",
+    "product_id": 19480,
+    "name": "Snacki dla kota Kitty / Przekąski dla kota poduszki Kitty",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "8x5 g / 180 g",
-    "main_price": null,
+    "main_price": 1.0,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI ZA 1 ZL",
+    "promotion_condition": "DRUGI ZA 1 ZŁ",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P62_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -24492,15 +25310,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19216,
+    "product_id": 19215,
     "name": "Sok 100% jabłko Hortex",
     "category": "Napoje",
-    "weight_or_volume": "1 l",
+    "weight_or_volume": "1 L",
     "main_price": 1.9,
-    "old_price": 3.79,
+    "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "3+3 GRATIS przy zakupie 6 sztuk z kartą Moja Biedronka",
+    "promotion_condition": "3+3 GRATIS",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P10_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -24516,8 +25334,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19347,
-    "name": "Sos Gusto Bello Sugo Siciliana / Sugo Olive & Capperi",
+    "product_id": 19359,
+    "name": "Sos Gusto Bello oliwki i kapary, siciliana",
     "category": "Żywność sucha",
     "weight_or_volume": "600 g",
     "main_price": 8.99,
@@ -24540,8 +25358,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19344,
-    "name": "Sos do pizzy Gusto Bello Salsa Per Pizza Classica",
+    "product_id": 19356,
+    "name": "Sos do pizzy Gusto Bello Salsa per Pizza Classica",
     "category": "Żywność sucha",
     "weight_or_volume": "230 g",
     "main_price": 4.99,
@@ -24564,8 +25382,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19346,
-    "name": "Sos pomidorowy Gusto Bello Sugo Alla Napoletana / Sugo Basilico",
+    "product_id": 19358,
+    "name": "Sos pomidorowy Gusto Bello z bazylią, w stylu neapolitańskim",
     "category": "Żywność sucha",
     "weight_or_volume": "350 g",
     "main_price": 4.99,
@@ -24588,7 +25406,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19316,
+    "product_id": 19328,
     "name": "Speck Alto Adige IGP Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -24618,9 +25436,9 @@
     "weight_or_volume": "90 g",
     "main_price": 7.49,
     "old_price": 9.99,
-    "discount_percentage": "-50%",
+    "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI 50% TANIEJ PRZY ZAKUPIE 2",
+    "promotion_condition": "DRUGI 50% TANIEJ PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P37_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -24636,7 +25454,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19336,
+    "product_id": 19348,
     "name": "Spody do pizzy alla napoletana Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "300 g",
@@ -24660,14 +25478,14 @@
     "is_expired": true
   },
   {
-    "product_id": 19452,
-    "name": "Spray Cif Infinite",
+    "product_id": 19464,
+    "name": "Spray Cif Infinite + zapas",
     "category": "Chemia",
     "weight_or_volume": "280 ml + 280 ml",
     "main_price": 28.99,
     "old_price": null,
     "discount_percentage": null,
-    "offer_type": "promocja",
+    "offer_type": "cena_regularna",
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P60_44vcofgubf.png",
@@ -24684,14 +25502,14 @@
     "is_expired": true
   },
   {
-    "product_id": 19454,
+    "product_id": 19466,
     "name": "Spray Domestos Power Foam",
     "category": "Chemia",
     "weight_or_volume": "650 ml",
     "main_price": 17.99,
     "old_price": null,
     "discount_percentage": null,
-    "offer_type": "promocja",
+    "offer_type": "cena_regularna",
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P60_44vcofgubf.png",
@@ -24708,7 +25526,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19269,
+    "product_id": 19271,
     "name": "Stek wołowy minutowy irlandzki",
     "category": "Mięso",
     "weight_or_volume": "360 g",
@@ -24732,7 +25550,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19277,
+    "product_id": 19279,
     "name": "Stek z tuńczyka Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -24756,7 +25574,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19474,
+    "product_id": 19484,
     "name": "Sucha karma dla kota Perfect Fit",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "1 kg",
@@ -24780,10 +25598,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19473,
+    "product_id": 19483,
     "name": "Sucha karma dla kota Sterile Kitty",
     "category": "Artykuły dla zwierząt",
-    "weight_or_volume": "1.8 kg",
+    "weight_or_volume": "1,8 kg",
     "main_price": 9.99,
     "old_price": 14.99,
     "discount_percentage": null,
@@ -24804,7 +25622,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19479,
+    "product_id": 19489,
     "name": "Sucha karma dla psa Activ Pet bez dodatku zbóż",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "2 kg",
@@ -24828,8 +25646,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19466,
-    "name": "Suplementy diety (różne)",
+    "product_id": 19478,
+    "name": "Suplementy diety (wybrane)",
     "category": "Żywność sucha",
     "weight_or_volume": null,
     "main_price": null,
@@ -24852,7 +25670,103 @@
     "is_expired": true
   },
   {
-    "product_id": 19348,
+    "product_id": 19287,
+    "name": "Sushi Shiro Premium",
+    "category": "Mięso",
+    "weight_or_volume": "430 g",
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19286,
+    "name": "Sushi Sushiko",
+    "category": "Mięso",
+    "weight_or_volume": "230 g",
+    "main_price": 8.49,
+    "old_price": 11.99,
+    "discount_percentage": "-58%",
+    "offer_type": "promocja",
+    "promotion_condition": "DRUGI 58% TANIEJ PRZY ZAKUPIE 2 SZTUK",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19285,
+    "name": "Sushi Tamaki",
+    "category": "Mięso",
+    "weight_or_volume": "350 g",
+    "main_price": 12.99,
+    "old_price": 16.99,
+    "discount_percentage": "-46%",
+    "offer_type": "promocja",
+    "promotion_condition": "DRUGI 46% TANIEJ PRZY ZAKUPIE 2 SZTUK",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19284,
+    "name": "Sushi Toshii",
+    "category": "Mięso",
+    "weight_or_volume": "400 g",
+    "main_price": 11.99,
+    "old_price": 15.99,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": "DRUGI 50% TANIEJ PRZY ZAKUPIE 2 SZTUK",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P31_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19360,
     "name": "Suszone pomidory paski Gusto Bello",
     "category": "Żywność sucha",
     "weight_or_volume": "280 g / 170 g",
@@ -24877,9 +25791,9 @@
   },
   {
     "product_id": 19241,
-    "name": "Syngonium, średnica doniczki 12 cm",
+    "name": "Syngonium",
     "category": "Kwiaty i ogród",
-    "weight_or_volume": "12 cm",
+    "weight_or_volume": "średnica doniczki 12 cm",
     "main_price": 12.99,
     "old_price": null,
     "discount_percentage": null,
@@ -24900,15 +25814,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19224,
-    "name": "Szampon do włosów Elseve L'Oreal",
+    "product_id": 19225,
+    "name": "Szampon do włosów Elseve",
     "category": "Chemia",
     "weight_or_volume": "400 ml",
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis",
+    "promotion_condition": "1+1 gratis, limit dzienny 4 szt.",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P14_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -24924,7 +25838,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19437,
+    "product_id": 19449,
     "name": "Szampon do włosów Head & Shoulders Menthol Fresh",
     "category": "Chemia",
     "weight_or_volume": "800 ml",
@@ -24951,7 +25865,7 @@
     "product_id": 19240,
     "name": "Słoneczniki, 3 szt.",
     "category": "Kwiaty i ogród",
-    "weight_or_volume": "3 szt.",
+    "weight_or_volume": null,
     "main_price": 14.99,
     "old_price": null,
     "discount_percentage": null,
@@ -25021,8 +25935,8 @@
     "is_expired": false
   },
   {
-    "product_id": 19508,
-    "name": "Torebka damska CLEVÉ",
+    "product_id": 19520,
+    "name": "Torebka damska Cleve",
     "category": "Artykuły domowe",
     "weight_or_volume": "44 x 14 x 31 cm",
     "main_price": 44.99,
@@ -25045,10 +25959,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19393,
+    "product_id": 19407,
     "name": "Tortille Pano",
     "category": "Żywność sucha",
-    "weight_or_volume": "306 g",
+    "weight_or_volume": null,
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
@@ -25069,7 +25983,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19287,
+    "product_id": 19299,
     "name": "Tost z szynką i serem",
     "category": "Pieczywo",
     "weight_or_volume": "120 g",
@@ -25093,8 +26007,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19483,
-    "name": "Truskawka polska, opak. 500 g",
+    "product_id": 19493,
+    "name": "Truskawka polska",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "500 g",
     "main_price": 8.99,
@@ -25117,7 +26031,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19292,
+    "product_id": 19304,
     "name": "Twist musli",
     "category": "Pieczywo",
     "weight_or_volume": "95 g",
@@ -25141,7 +26055,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19424,
+    "product_id": 19436,
     "name": "Waciki bezpyłowe do paznokci Niuqi",
     "category": "Chemia",
     "weight_or_volume": "250 szt.",
@@ -25165,7 +26079,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19385,
+    "product_id": 19399,
     "name": "Wafel w czekoladzie Dare",
     "category": "Słodycze",
     "weight_or_volume": "50 g",
@@ -25189,10 +26103,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19384,
+    "product_id": 19398,
     "name": "Wafelek Prince Polo XXL",
     "category": "Słodycze",
-    "weight_or_volume": "38 g",
+    "weight_or_volume": "38 g - 45 g",
     "main_price": 1.89,
     "old_price": 2.69,
     "discount_percentage": null,
@@ -25213,7 +26127,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19389,
+    "product_id": 19403,
     "name": "Wafelki z nadzieniem Bonitki",
     "category": "Słodycze",
     "weight_or_volume": "500 g",
@@ -25237,7 +26151,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19388,
+    "product_id": 19402,
     "name": "Wafle maślane Bonitki",
     "category": "Słodycze",
     "weight_or_volume": "250 g",
@@ -25261,37 +26175,13 @@
     "is_expired": true
   },
   {
-    "product_id": 19518,
+    "product_id": 19524,
     "name": "Winogrono jasne",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 kg",
     "main_price": 7.99,
-    "old_price": null,
-    "discount_percentage": "-52%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_PIWO_COVER.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19512,
-    "name": "Winogrono jasne na wagę",
-    "category": "Owoce i Warzywa",
-    "weight_or_volume": "1 kg",
-    "main_price": 7.99,
     "old_price": 16.99,
-    "discount_percentage": "52%",
+    "discount_percentage": "-52%",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": null,
@@ -25309,8 +26199,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19484,
-    "name": "Wiśnie, opak. 500 g",
+    "product_id": 19494,
+    "name": "Wiśnie",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "500 g",
     "main_price": 16.99,
@@ -25333,12 +26223,12 @@
     "is_expired": true
   },
   {
-    "product_id": 19468,
-    "name": "Wklad olejowy do zniczy Lumia",
+    "product_id": 18500,
+    "name": "Wkład olejowy do zniczy Lumia",
     "category": "Artykuły domowe",
     "weight_or_volume": "400 g",
     "main_price": 4.25,
-    "old_price": null,
+    "old_price": 5.99,
     "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": "3+3 GRATIS",
@@ -25357,31 +26247,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19469,
-    "name": "Wklady zalewane do zniczy Lumia",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "3x260 g / 4x200 g",
-    "main_price": 9.49,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "1+1 GRATIS",
-    "lowest_price_30d": 9.49,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P62_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19443,
+    "product_id": 19455,
     "name": "Wkładki higieniczne Femina Daily Comfort",
     "category": "Chemia",
     "weight_or_volume": "50 szt.",
@@ -25405,7 +26271,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19422,
+    "product_id": 19434,
     "name": "Woda perfumowana Palermo by Skolim",
     "category": "Chemia",
     "weight_or_volume": "50 ml",
@@ -25429,63 +26295,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19198,
-    "name": "Wszystkie jaja",
-    "category": "Nabiał",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": "-50%",
-    "offer_type": "promocja",
-    "promotion_condition": "DRUGI 50% TANIEJ",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P02_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19447,
-    "name": "Wszystkie kaszki i kleiki Nestlé",
-    "category": "Dla dzieci",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "2+2 GRATIS, przy zakupie 4 sztuk",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P59_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19201,
-    "name": "Wszystkie kefiry",
+    "product_id": 19203,
+    "name": "Wszystkie Kefiry",
     "category": "Nabiał",
     "weight_or_volume": null,
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "2+1 gratis",
+    "promotion_condition": "2+1 GRATIS",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P04_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -25501,8 +26319,56 @@
     "is_expired": true
   },
   {
+    "product_id": 19200,
+    "name": "Wszystkie jaja (różne rodzaje)",
+    "category": "Nabiał",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": "drugi 50% taniej",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P02_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
+    "product_id": 19491,
+    "name": "Wszystkie konserwy mięsne i rybne",
+    "category": "Żywność sucha",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+1 gratis (limit dzienny 6 szt.)",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P64_44vcofgubf.png",
+    "date_label": "OD 23-07",
+    "date_labels": [
+      "OD 23-07"
+    ],
+    "leaflet_id": "iyzwggq69",
+    "leaflet_ids": [
+      "iyzwggq69"
+    ],
+    "valid_from": "2026-07-23",
+    "valid_to": "2026-07-25",
+    "is_expired": true
+  },
+  {
     "product_id": 19246,
-    "name": "Wszystkie lody na patyku, w rożku, tubce, rurce oraz kubeczku do 270 ml",
+    "name": "Wszystkie lody na patyku, w rożku, tubce, rurce oraz kubeczku",
     "category": "Słodycze",
     "weight_or_volume": "do 270 ml",
     "main_price": null,
@@ -25525,15 +26391,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19197,
-    "name": "Wszystkie masła",
+    "product_id": 19199,
+    "name": "Wszystkie masła (różne rodzaje)",
     "category": "Nabiał",
     "weight_or_volume": null,
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "2+2 GRATIS",
+    "promotion_condition": "2+2 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P02_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -25549,31 +26415,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19446,
-    "name": "Wszystkie nawilżane chusteczki Dada Extra Care oraz Aqua",
-    "category": "Dla dzieci",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "2+2 GRATIS, przy zakupie 4 opakowań",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P59_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19487,
+    "product_id": 19497,
     "name": "Wszystkie paczkowane pistacje BakaD'or",
     "category": "Żywność sucha",
     "weight_or_volume": null,
@@ -25581,7 +26423,7 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "1+1 GRATIS",
+    "promotion_condition": "1+1 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P70_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -25597,63 +26439,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19522,
-    "name": "Wszystkie piwa w puszce",
-    "category": "Alkohol",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "6+6 GRATIS (limit 12 szt.)",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_piwo_puszki.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19237,
-    "name": "Wszystkie produkty Lovela",
-    "category": "Chemia",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis (limit 4 szt.)",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P17_44vcofgubf.png",
-    "date_label": "OD 23-07",
-    "date_labels": [
-      "OD 23-07"
-    ],
-    "leaflet_id": "iyzwggq69",
-    "leaflet_ids": [
-      "iyzwggq69"
-    ],
-    "valid_from": "2026-07-23",
-    "valid_to": "2026-07-25",
-    "is_expired": true
-  },
-  {
-    "product_id": 19203,
-    "name": "Wędliny w plastrach Krakus",
+    "product_id": 19205,
+    "name": "Wszystkie wędliny w plastrach Krakus",
     "category": "Mięso",
     "weight_or_volume": null,
     "main_price": null,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "2+1 GRATIS",
+    "promotion_condition": "2+1 gratis",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P05_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -25669,14 +26463,14 @@
     "is_expired": true
   },
   {
-    "product_id": 19451,
+    "product_id": 19463,
     "name": "Zawieszka do WC Domestos Blue Water lub Kostki do WC Domestos Rainbow",
     "category": "Chemia",
     "weight_or_volume": "3x53 g / 3x50 g",
     "main_price": 16.99,
     "old_price": null,
     "discount_percentage": null,
-    "offer_type": "promocja",
+    "offer_type": "cena_regularna",
     "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P60_44vcofgubf.png",
@@ -25693,10 +26487,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19272,
+    "product_id": 19274,
     "name": "Zestaw grillowy z kurczaka Czas na Grill",
     "category": "Mięso",
-    "weight_or_volume": null,
+    "weight_or_volume": "1 kg",
     "main_price": 17.99,
     "old_price": null,
     "discount_percentage": null,
@@ -25717,15 +26511,15 @@
     "is_expired": true
   },
   {
-    "product_id": 19315,
+    "product_id": 19327,
     "name": "Zestaw salami Gusto Bello",
     "category": "Mięso",
     "weight_or_volume": "100 g",
     "main_price": 6.99,
     "old_price": 9.39,
-    "discount_percentage": "-50%",
+    "discount_percentage": null,
     "offer_type": "promocja",
-    "promotion_condition": "DRUGI 50% TANIEJ PRZY ZAKUPIE 2",
+    "promotion_condition": "DRUGI 50% TANIEJ PRZY ZAKUPIE 2 SZTUK",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P37_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -25741,7 +26535,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19492,
+    "product_id": 19504,
     "name": "Łopatka wieprzowa bez kości pakowana próżniowo Kraina Mięs",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -25765,7 +26559,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19491,
+    "product_id": 19503,
     "name": "Łosoś marynowany z sosem Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -25789,7 +26583,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19250,
+    "product_id": 19252,
     "name": "Śliwka domowa",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 kg",
@@ -25813,8 +26607,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19482,
-    "name": "Śliwka domowa na wagę",
+    "product_id": 19492,
+    "name": "Śliwka domowa",
     "category": "Owoce i Warzywa",
     "weight_or_volume": "1 kg",
     "main_price": 5.99,
@@ -25837,7 +26631,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19275,
+    "product_id": 19277,
     "name": "Świeża dorada patroszona Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -25861,7 +26655,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19306,
+    "product_id": 19318,
     "name": "Świeże pesto z bazylią Rana",
     "category": "Żywność sucha",
     "weight_or_volume": "120 g",
@@ -25885,7 +26679,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19305,
+    "product_id": 19317,
     "name": "Świeże tortellini Rana",
     "category": "Żywność sucha",
     "weight_or_volume": "250 g",
@@ -25909,7 +26703,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19260,
+    "product_id": 19262,
     "name": "Świeży filet z piersi kurczaka Kraina Mięs, Mega Paka",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -25917,7 +26711,7 @@
     "old_price": 24.9,
     "discount_percentage": "-39%",
     "offer_type": "promocja",
-    "promotion_condition": "z kartą lub aplikacją",
+    "promotion_condition": "z kartą lub aplikacją Moja Biedronka",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/2026_FOOD_T30B_podstawa/2026_FOOD_T30_B_PODSTAWA_P27_44vcofgubf.png",
     "date_label": "OD 23-07",
@@ -25933,7 +26727,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19519,
+    "product_id": 19531,
     "name": "Świeży filet z piersi kurczaka Kraina Mięs, Mega Paka",
     "category": "Mięso",
     "weight_or_volume": "1 kg",
@@ -25941,7 +26735,7 @@
     "old_price": null,
     "discount_percentage": "-39%",
     "offer_type": "promocja",
-    "promotion_condition": "LIMIT 3 KG Z KARTĄ MOJA BIEDRONKA",
+    "promotion_condition": null,
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T30/2026_FOOD_T30B/T30B_Folder_INS_169x275_ONLINE_PIWO_COVER.png",
     "date_label": "OD 23-07",
@@ -25957,7 +26751,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19307,
+    "product_id": 19319,
     "name": "Świeży makaron Rana",
     "category": "Żywność sucha",
     "weight_or_volume": "250 g",
@@ -25981,7 +26775,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19206,
+    "product_id": 19208,
     "name": "Świeży pstrąg tęczowy patroszony Marinero",
     "category": "Mięso",
     "weight_or_volume": "100 g",
@@ -26005,7 +26799,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19436,
+    "product_id": 19448,
     "name": "Żel do golenia Gillette",
     "category": "Chemia",
     "weight_or_volume": "240 ml",
@@ -26029,7 +26823,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19458,
+    "product_id": 19470,
     "name": "Żel do prania Coccolino",
     "category": "Chemia",
     "weight_or_volume": "1,48 l",
@@ -26053,7 +26847,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19459,
+    "product_id": 19471,
     "name": "Żel do prania Ultra Universal Blooming",
     "category": "Chemia",
     "weight_or_volume": "2,2 l",
@@ -26077,10 +26871,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19431,
+    "product_id": 19443,
     "name": "Żel kamuflujący lub Poli Builder Niuqi",
     "category": "Chemia",
-    "weight_or_volume": "5 ml/12 ml",
+    "weight_or_volume": "12 ml",
     "main_price": 12.99,
     "old_price": null,
     "discount_percentage": null,
@@ -26101,7 +26895,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19504,
+    "product_id": 19516,
     "name": "Żel pod prysznic Linda",
     "category": "Chemia",
     "weight_or_volume": "400 ml",
@@ -26125,7 +26919,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19475,
+    "product_id": 19485,
     "name": "Żwirek dla kota kukurydziany Kitty",
     "category": "Artykuły dla zwierząt",
     "weight_or_volume": "5 l",
@@ -41907,7 +42701,55 @@
     "is_expired": false
   },
   {
-    "product_id": 19166,
+    "product_id": 19196,
+    "name": "Akumulator litowo-jonowy Niteo 20 V Max",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "20 V",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "Kup wybrane produkty Niteo za min. 199 zł",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
+    "date_label": "OD 11-07",
+    "date_labels": [
+      "OD 11-07"
+    ],
+    "leaflet_id": "izq8xf0z5",
+    "leaflet_ids": [
+      "izq8xf0z5"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-07-26",
+    "is_expired": true
+  },
+  {
+    "product_id": 19195,
+    "name": "Akumulatorowe nożyce do żywopłotu NAC 3,6 V, 1,5 Ah",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": "3,6 V, 1,5 Ah",
+    "main_price": 75.9,
+    "old_price": 127.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 127.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
+    "date_label": "OD 11-07",
+    "date_labels": [
+      "OD 11-07"
+    ],
+    "leaflet_id": "izq8xf0z5",
+    "leaflet_ids": [
+      "izq8xf0z5"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-07-26",
+    "is_expired": true
+  },
+  {
+    "product_id": 19167,
     "name": "Ambition Patelnia głęboka 20 cm",
     "category": "Artykuły domowe",
     "weight_or_volume": "20 cm",
@@ -41931,7 +42773,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19167,
+    "product_id": 19168,
     "name": "Ambition Patelnia wok 28 cm",
     "category": "Artykuły domowe",
     "weight_or_volume": "28 cm",
@@ -41956,15 +42798,15 @@
   },
   {
     "product_id": 19191,
-    "name": "BIKFUN Rower elektryczny MTB AMAK00051 27,5\"",
+    "name": "BIKFUN Rower elektryczny MTB AMAK0051",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "koła 27,5\"",
     "main_price": 2899.0,
     "old_price": 5999.0,
     "discount_percentage": "-50%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 5999.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -42123,8 +42965,8 @@
     "is_expired": true
   },
   {
-    "product_id": 19168,
-    "name": "Dreame Ryżowar FK30 Pro",
+    "product_id": 19166,
+    "name": "Dreame Ryżowar FK30 Pro biały",
     "category": "Artykuły domowe",
     "weight_or_volume": "2 l",
     "main_price": 159.0,
@@ -42148,7 +42990,7 @@
   },
   {
     "product_id": 19175,
-    "name": "Goldlux Lampa wisząca LED Florentyna",
+    "name": "Goldlux Lampa wisząca LED Florentyna czarna",
     "category": "Artykuły domowe",
     "weight_or_volume": "48 W, 4000 K",
     "main_price": 249.0,
@@ -42172,7 +43014,7 @@
   },
   {
     "product_id": 19174,
-    "name": "Goldlux Lampa ścienna LED Florentyna",
+    "name": "Goldlux Lampa ścienna LED Florentyna czarna",
     "category": "Artykuły domowe",
     "weight_or_volume": "24 W, 4000 K",
     "main_price": 149.0,
@@ -42244,9 +43086,9 @@
   },
   {
     "product_id": 19188,
-    "name": "HIMOUNTAIN Aluminiowe kije trekkingowe 66-135 cm",
+    "name": "HIMOUNTAIN Aluminiowe kije trekkingowe",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "66-135 cm",
     "main_price": 59.9,
     "old_price": 99.0,
     "discount_percentage": "-39%",
@@ -42268,7 +43110,7 @@
   },
   {
     "product_id": 19190,
-    "name": "HIMOUNTAIN Okulary przeciwsłoneczne UV400 czarno-niebieskie",
+    "name": "HIMOUNTAIN Okulary przeciwsłoneczne UV400",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 49.99,
@@ -42276,7 +43118,7 @@
     "discount_percentage": "-44%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 89.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -42292,9 +43134,9 @@
   },
   {
     "product_id": 19163,
-    "name": "Hoffen Czajnik elektryczny podwójne ścianki",
+    "name": "Hoffen Czajnik elektryczny podwójne ścianki, czarny",
     "category": "Artykuły domowe",
-    "weight_or_volume": "1.8 l",
+    "weight_or_volume": "1,8 l",
     "main_price": 69.9,
     "old_price": 139.0,
     "discount_percentage": "-49%",
@@ -42366,12 +43208,12 @@
     "product_id": 19165,
     "name": "Homla Zestaw szklanek Luno",
     "category": "Artykuły domowe",
-    "weight_or_volume": "280 ml",
+    "weight_or_volume": "4 szt., 280 ml",
     "main_price": 34.99,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "cena_regularna",
-    "promotion_condition": "trzeci zestaw szklanek Luno za 1 zł",
+    "promotion_condition": "TRZECI ZESTAW SZKLANEK LUNO ZA 1 ZŁ",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm.png",
     "date_label": "OD 11-07",
@@ -42387,31 +43229,7 @@
     "is_expired": true
   },
   {
-    "product_id": 19194,
-    "name": "JUMI Zestaw składanych mebli balkonowych 2 krzesła i stolik, czarne",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 229.0,
-    "old_price": 399.0,
-    "discount_percentage": "-42%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": 399.0,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
-    "date_label": "OD 11-07",
-    "date_labels": [
-      "OD 11-07"
-    ],
-    "leaflet_id": "izq8xf0z5",
-    "leaflet_ids": [
-      "izq8xf0z5"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-26",
-    "is_expired": true
-  },
-  {
-    "product_id": 19196,
+    "product_id": 19198,
     "name": "KARINGBEE Kostkarka do lodu ZB-12Z",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -42438,7 +43256,7 @@
     "product_id": 19161,
     "name": "Karingbee Kostkarka do lodu ZB-12Z biała",
     "category": "Artykuły domowe",
-    "weight_or_volume": "1.5 l",
+    "weight_or_volume": "1,5 l",
     "main_price": 259.0,
     "old_price": 599.0,
     "discount_percentage": "-55%",
@@ -42460,7 +43278,7 @@
   },
   {
     "product_id": 19178,
-    "name": "Lafe Odkurzacz pionowy PowerGlide bezprzewodowy 22 kPa",
+    "name": "Lafe Odkurzacz pionowy PowerGlide bezprzewodowy",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 339.0,
@@ -42507,6 +43325,30 @@
     "is_expired": true
   },
   {
+    "product_id": 19193,
+    "name": "Mata do ćwiczeń SPOKEY Bali Mat",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "0,4 cm",
+    "main_price": 49.99,
+    "old_price": 64.99,
+    "discount_percentage": "-15 zł",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 64.99,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
+    "date_label": "OD 11-07",
+    "date_labels": [
+      "OD 11-07"
+    ],
+    "leaflet_id": "izq8xf0z5",
+    "leaflet_ids": [
+      "izq8xf0z5"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-07-26",
+    "is_expired": true
+  },
+  {
     "product_id": 19177,
     "name": "Melink Punktowy odkurzacz piorący",
     "category": "Artykuły domowe",
@@ -42531,58 +43373,10 @@
     "is_expired": true
   },
   {
-    "product_id": 19195,
-    "name": "NAC Akumulatorowe nożyce do żywopłotu 3,6 V, 1,5 Ah",
-    "category": "Kwiaty i ogród",
-    "weight_or_volume": "3,6 V, 1,5 Ah",
-    "main_price": 75.9,
-    "old_price": 127.0,
-    "discount_percentage": "-40%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": 127.0,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
-    "date_label": "OD 11-07",
-    "date_labels": [
-      "OD 11-07"
-    ],
-    "leaflet_id": "izq8xf0z5",
-    "leaflet_ids": [
-      "izq8xf0z5"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-26",
-    "is_expired": true
-  },
-  {
-    "product_id": 19193,
-    "name": "SPOKEY Mata do ćwiczeń Bali Mat do fitnessu, pilatesu i jogi, 0,4 cm",
-    "category": "Artykuły domowe",
-    "weight_or_volume": "0,4 cm",
-    "main_price": 49.99,
-    "old_price": 64.99,
-    "discount_percentage": "-15zł",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": 64.99,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
-    "date_label": "OD 11-07",
-    "date_labels": [
-      "OD 11-07"
-    ],
-    "leaflet_id": "izq8xf0z5",
-    "leaflet_ids": [
-      "izq8xf0z5"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-26",
-    "is_expired": true
-  },
-  {
     "product_id": 19173,
     "name": "Sanico Zestaw 2 krzeseł tapicerowanych Goldlux Domaison Aria R lub Domaison Aria B",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "2 szt.",
     "main_price": 399.0,
     "old_price": 799.0,
     "discount_percentage": "-50%",
@@ -42610,8 +43404,8 @@
     "main_price": 54.9,
     "old_price": null,
     "discount_percentage": null,
-    "offer_type": "cena_regularna",
-    "promotion_condition": "DRUGI OBRUS TOGNANA ZA 1 ZŁ",
+    "offer_type": "promocja",
+    "promotion_condition": "Drugi obrus Tognana za 1 zł",
     "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
@@ -42628,15 +43422,15 @@
   },
   {
     "product_id": 19183,
-    "name": "Vileda Deska do prasowania Smart niebiesko-różowa",
+    "name": "Vileda Deska do prasowania Smart",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 149.0,
     "old_price": 179.0,
-    "discount_percentage": null,
+    "discount_percentage": "-30 zł",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 179.0,
+    "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -42660,7 +43454,7 @@
     "discount_percentage": "-20%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 149.0,
+    "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -42676,15 +43470,15 @@
   },
   {
     "product_id": 19181,
-    "name": "Vileda Suszarka na pranie King Ultimate 20 m",
+    "name": "Vileda Suszarka na pranie King Ultimate",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "20 m",
     "main_price": 149.0,
     "old_price": 179.0,
-    "discount_percentage": null,
+    "discount_percentage": "-30 zł",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 179.0,
+    "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -42700,7 +43494,7 @@
   },
   {
     "product_id": 19189,
-    "name": "WINGS Plecak górski Canastero 30l pomarańczowy",
+    "name": "WINGS Plecak górski Canastero 30 l",
     "category": "Artykuły domowe",
     "weight_or_volume": "30 l",
     "main_price": 119.0,
@@ -42723,8 +43517,32 @@
     "is_expired": true
   },
   {
+    "product_id": 19185,
+    "name": "WINGS Zestaw 3 walizek Merlin",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 399.0,
+    "old_price": 699.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 699.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
+    "date_label": "OD 11-07",
+    "date_labels": [
+      "OD 11-07"
+    ],
+    "leaflet_id": "izq8xf0z5",
+    "leaflet_ids": [
+      "izq8xf0z5"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-07-26",
+    "is_expired": true
+  },
+  {
     "product_id": 19192,
-    "name": "WINGS Walizka kabinowa z odpinanymi kółkami",
+    "name": "Walizka kabinowa WINGS z odpinanymi kółkami",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 99.0,
@@ -42747,17 +43565,41 @@
     "is_expired": true
   },
   {
-    "product_id": 19185,
-    "name": "WINGS Zestaw 3 walizek Merlin",
+    "product_id": 19194,
+    "name": "Zestaw składanych mebli balkonowych JUMI",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
-    "main_price": 399.0,
-    "old_price": 699.0,
-    "discount_percentage": "-40%",
+    "main_price": 229.0,
+    "old_price": 399.0,
+    "discount_percentage": "-42%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 659.0,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
+    "lowest_price_30d": 399.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
+    "date_label": "OD 11-07",
+    "date_labels": [
+      "OD 11-07"
+    ],
+    "leaflet_id": "izq8xf0z5",
+    "leaflet_ids": [
+      "izq8xf0z5"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-07-26",
+    "is_expired": true
+  },
+  {
+    "product_id": 19197,
+    "name": "Ładowarka Niteo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 1.0,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "Kup wybrane produkty Niteo za min. 199 zł",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
     "date_label": "OD 11-07",
     "date_labels": [
       "OD 11-07"
@@ -43779,30 +44621,6 @@
     "is_expired": false
   },
   {
-    "product_id": 18201,
-    "name": "Borówka amerykańska",
-    "category": "Owoce i Warzywa",
-    "weight_or_volume": "300 g",
-    "main_price": 7.49,
-    "old_price": 14.98,
-    "discount_percentage": "-50%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
-    "is_expired": false
-  },
-  {
     "product_id": 18156,
     "name": "Brit Mokra Karma dla psów Premium By Nature Fillets in Gravy, miks smaków",
     "category": "Artykuły dla zwierząt",
@@ -44403,54 +45221,6 @@
     "is_expired": false
   },
   {
-    "product_id": 18202,
-    "name": "Kawy Lavazza",
-    "category": "Napoje",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "drugi 60% taniej",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
-    "is_expired": false
-  },
-  {
-    "product_id": 18199,
-    "name": "Kiełbasa Śląska Kraina Wędlin, Mega Paka",
-    "category": "Mięso",
-    "weight_or_volume": "1 kg",
-    "main_price": 6.9,
-    "old_price": 22.9,
-    "discount_percentage": "-69%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
-    "is_expired": false
-  },
-  {
     "product_id": 18128,
     "name": "Klipsy lub opaski zaciskowe",
     "category": "Artykuły domowe",
@@ -44931,30 +45701,6 @@
     "is_expired": false
   },
   {
-    "product_id": 18198,
-    "name": "Nivea (wszystkie produkty)",
-    "category": "Chemia",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
-    "is_expired": false
-  },
-  {
     "product_id": 18087,
     "name": "Notes A5/80 Kayet",
     "category": "Artykuły domowe",
@@ -45027,30 +45773,6 @@
     "is_expired": false
   },
   {
-    "product_id": 18197,
-    "name": "Persil (wszystkie produkty)",
-    "category": "Chemia",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "1+1 gratis",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
-    "is_expired": false
-  },
-  {
     "product_id": 18133,
     "name": "Pilniki lub wkrętaki Nited",
     "category": "Artykuły domowe",
@@ -45072,30 +45794,6 @@
     ],
     "valid_from": "2026-07-27",
     "valid_to": "2026-07-30",
-    "is_expired": false
-  },
-  {
-    "product_id": 18203,
-    "name": "Piwo Tyskie Gronie",
-    "category": "Alkohol",
-    "weight_or_volume": "500 ml",
-    "main_price": 2.49,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "przy zakupie 8",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
     "is_expired": false
   },
   {
@@ -45480,30 +46178,6 @@
     ],
     "valid_from": "2026-07-27",
     "valid_to": "2026-07-30",
-    "is_expired": false
-  },
-  {
-    "product_id": 18200,
-    "name": "Schab wieprzowy bez kości pakowany próżniowo Kraina Mięs",
-    "category": "Mięso",
-    "weight_or_volume": "1 kg",
-    "main_price": 7.99,
-    "old_price": 15.95,
-    "discount_percentage": "-49%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
     "is_expired": false
   },
   {
@@ -46080,30 +46754,6 @@
     ],
     "valid_from": "2026-07-27",
     "valid_to": "2026-07-30",
-    "is_expired": false
-  },
-  {
-    "product_id": 18204,
-    "name": "Wszystkie sery żółte",
-    "category": "Nabiał",
-    "weight_or_volume": null,
-    "main_price": null,
-    "old_price": null,
-    "discount_percentage": null,
-    "offer_type": "promocja",
-    "promotion_condition": "drugi za 1 zł",
-    "lowest_price_30d": null,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T31/T31_SPECJALNIE_DLA_CIEBIE/T31_Folder_INS_169x275_ONLINE_PROMOCJE.png",
-    "date_label": "27-07",
-    "date_labels": [
-      "27-07"
-    ],
-    "leaflet_id": "1wc6lfcma",
-    "leaflet_ids": [
-      "1wc6lfcma"
-    ],
-    "valid_from": null,
-    "valid_to": "2026-07-27",
     "is_expired": false
   },
   {

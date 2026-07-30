@@ -1,6 +1,6 @@
 {
-  "products": 2036,
-  "promotions": 1178,
+  "products": 2010,
+  "promotions": 1154,
   "leaflets": 25,
   "categories": [
     "Alkohol",
@@ -19,5 +19,5 @@
     "Słodycze",
     "Żywność sucha"
   ],
-  "last_updated": "2026-07-29"
+  "last_updated": "2026-07-30"
 }

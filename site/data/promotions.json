@@ -10477,11 +10477,13 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_BTS_II/2026_BTS_2_P89_BJ7gd5Ty8f.png",
     "date_label": "OD 20-07",
     "date_labels": [
-      "OD 20-07"
+      "OD 20-07",
+      "10-08"
     ],
     "leaflet_id": "1wd1pd5c1",
     "leaflet_ids": [
-      "1wd1pd5c1"
+      "1wd1pd5c1",
+      "izzyhzpwp"
     ],
     "valid_from": "2026-07-30",
     "valid_to": "2026-08-31",
@@ -11077,11 +11079,13 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_BTS_II/2026_BTS_2_P07_BJ7gd5Ty8f.png",
     "date_label": "OD 20-07",
     "date_labels": [
-      "OD 20-07"
+      "OD 20-07",
+      "10-08"
     ],
     "leaflet_id": "1wd1pd5c1",
     "leaflet_ids": [
-      "1wd1pd5c1"
+      "1wd1pd5c1",
+      "izzyhzpwp"
     ],
     "valid_from": "2026-07-30",
     "valid_to": "2026-08-31",
@@ -11725,11 +11729,13 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_BTS_II/2026_BTS_2_P90_BJ7gd5Ty8f.png",
     "date_label": "OD 20-07",
     "date_labels": [
-      "OD 20-07"
+      "OD 20-07",
+      "10-08"
     ],
     "leaflet_id": "1wd1pd5c1",
     "leaflet_ids": [
-      "1wd1pd5c1"
+      "1wd1pd5c1",
+      "izzyhzpwp"
     ],
     "valid_from": "2026-07-30",
     "valid_to": "2026-08-31",
@@ -15124,7 +15130,7 @@
   {
     "product_id": 11215,
     "name": "BIC klej w płynie",
-    "category": "Inne",
+    "category": "Artykuły domowe",
     "weight_or_volume": "118 ml",
     "main_price": 7.99,
     "old_price": null,
@@ -15135,11 +15141,13 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_BTS1/2026_BTS_1_P19_AH6T8Yd5r6.png",
     "date_label": "OD 13-07",
     "date_labels": [
-      "OD 13-07"
+      "OD 13-07",
+      "10-08"
     ],
     "leaflet_id": "izdx8gikv",
     "leaflet_ids": [
-      "izdx8gikv"
+      "izdx8gikv",
+      "izzyhzpwp"
     ],
     "valid_from": "2026-07-06",
     "valid_to": "2026-08-31",
@@ -15148,7 +15156,7 @@
   {
     "product_id": 11216,
     "name": "BIC klej w sztyfcie",
-    "category": "Inne",
+    "category": "Artykuły domowe",
     "weight_or_volume": "36 g",
     "main_price": 7.99,
     "old_price": null,
@@ -15159,11 +15167,13 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_BTS1/2026_BTS_1_P19_AH6T8Yd5r6.png",
     "date_label": "OD 13-07",
     "date_labels": [
-      "OD 13-07"
+      "OD 13-07",
+      "10-08"
     ],
     "leaflet_id": "izdx8gikv",
     "leaflet_ids": [
-      "izdx8gikv"
+      "izdx8gikv",
+      "izzyhzpwp"
     ],
     "valid_from": "2026-07-06",
     "valid_to": "2026-08-31",
@@ -15196,7 +15206,7 @@
   {
     "product_id": 11217,
     "name": "BIC kredki ołówkowe",
-    "category": "Inne",
+    "category": "Artykuły domowe",
     "weight_or_volume": "12 szt.",
     "main_price": 12.99,
     "old_price": null,
@@ -19481,14 +19491,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_25/BH_2026_Gazetka_T25_strona-56_169x275mm.png",
     "date_label": "OD 13-06",
     "date_labels": [
-      "OD 13-06"
+      "OD 13-06",
+      "10-08"
     ],
     "leaflet_id": "iy4nd6sjq",
     "leaflet_ids": [
-      "iy4nd6sjq"
+      "iy4nd6sjq",
+      "izzyhzpwp"
     ],
     "valid_from": "2026-06-13",
-    "valid_to": "2026-08-16",
+    "valid_to": "2026-08-22",
     "is_expired": false
   },
   {
@@ -20140,7 +20152,7 @@
     "is_expired": false
   },
   {
-    "product_id": 21954,
+    "product_id": 22142,
     "name": "Ambition Patelnia głęboka 20 cm",
     "category": "Artykuły domowe",
     "weight_or_volume": "20 cm",
@@ -20164,7 +20176,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21955,
+    "product_id": 22143,
     "name": "Ambition Patelnia wok 28 cm",
     "category": "Artykuły domowe",
     "weight_or_volume": "28 cm",
@@ -20188,7 +20200,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21978,
+    "product_id": 22166,
     "name": "BIKFUN Rower elektryczny MTB AMAK00051",
     "category": "Artykuły domowe",
     "weight_or_volume": "koła 27,5\"",
@@ -20197,7 +20209,7 @@
     "discount_percentage": "-50%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 5999.0,
+    "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20212,7 +20224,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21967,
+    "product_id": 22155,
     "name": "DREAME Bezprzewodowy odkurzacz pionowy Z20 Station ze stacją, czarny",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20236,7 +20248,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21966,
+    "product_id": 22154,
     "name": "DREAME Robot sprzątający L40 Ultra A biały",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20260,8 +20272,8 @@
     "is_expired": true
   },
   {
-    "product_id": 21959,
-    "name": "Decoteam Miniroleta 45 x 150 cm",
+    "product_id": 22147,
+    "name": "Decoteam Miniroleta",
     "category": "Artykuły domowe",
     "weight_or_volume": "45 x 150 cm",
     "main_price": 27.99,
@@ -20269,7 +20281,7 @@
     "discount_percentage": "-49%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 55.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20284,8 +20296,8 @@
     "is_expired": true
   },
   {
-    "product_id": 21963,
-    "name": "Decoteam Żaluzja drewnopodobna 60 x 140 cm",
+    "product_id": 22151,
+    "name": "Decoteam Żaluzja drewnopodobna",
     "category": "Artykuły domowe",
     "weight_or_volume": "60 x 140 cm",
     "main_price": 99.0,
@@ -20293,7 +20305,7 @@
     "discount_percentage": "-44%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 179.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20308,8 +20320,8 @@
     "is_expired": true
   },
   {
-    "product_id": 21958,
-    "name": "Detexpol Pościel bawełniana z falbaną 160 x 200 cm",
+    "product_id": 22146,
+    "name": "Detexpol Pościel bawełniana z falbaną",
     "category": "Artykuły domowe",
     "weight_or_volume": "160 x 200 cm",
     "main_price": 109.0,
@@ -20317,7 +20329,7 @@
     "discount_percentage": "-50%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 219.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20332,7 +20344,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21956,
+    "product_id": 22144,
     "name": "Domaison Poduszka ergonomiczna Axis G lub Axis W",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20341,7 +20353,7 @@
     "discount_percentage": "-48%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 249.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20356,8 +20368,8 @@
     "is_expired": true
   },
   {
-    "product_id": 21953,
-    "name": "Dreame Ryżowar FK30 Pro",
+    "product_id": 22141,
+    "name": "Dreame Ryżowar FK30 Pro biały",
     "category": "Artykuły domowe",
     "weight_or_volume": "2 l",
     "main_price": 159.0,
@@ -20380,16 +20392,16 @@
     "is_expired": true
   },
   {
-    "product_id": 21962,
-    "name": "Goldlux Lampa wisząca LED Florentyna czarna 48 W, 4000 K",
+    "product_id": 22150,
+    "name": "Goldlux Lampa wisząca LED Florentyna",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "48 W, 4000 K",
     "main_price": 249.0,
     "old_price": 399.0,
     "discount_percentage": "-38%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 399.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20404,16 +20416,16 @@
     "is_expired": true
   },
   {
-    "product_id": 21961,
-    "name": "Goldlux Lampa ścienna LED Florentyna czarna 24 W, 4000 K",
+    "product_id": 22149,
+    "name": "Goldlux Lampa ścienna LED Florentyna",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "24 W, 4000 K",
     "main_price": 149.0,
     "old_price": 229.0,
     "discount_percentage": "-35%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 229.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20428,7 +20440,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21973,
+    "product_id": 22161,
     "name": "HI-TEC Karimata Tapis",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20452,8 +20464,8 @@
     "is_expired": true
   },
   {
-    "product_id": 21974,
-    "name": "HI-TEC Koc piknikowy Battani",
+    "product_id": 22162,
+    "name": "HI-TEC Koc piknikowy Battani wielokolorowy",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 59.0,
@@ -20476,10 +20488,10 @@
     "is_expired": true
   },
   {
-    "product_id": 21975,
-    "name": "HIMOUNTAIN Aluminiowe kije trekkingowe",
+    "product_id": 22163,
+    "name": "HIMOUNTAIN Aluminiowe kije trekkingowe 66-135 cm",
     "category": "Artykuły domowe",
-    "weight_or_volume": "66-135 cm",
+    "weight_or_volume": null,
     "main_price": 59.9,
     "old_price": 99.0,
     "discount_percentage": "-39%",
@@ -20500,16 +20512,16 @@
     "is_expired": true
   },
   {
-    "product_id": 21977,
+    "product_id": 22165,
     "name": "HIMOUNTAIN Okulary przeciwsłoneczne UV400",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 49.99,
-    "old_price": 89.0,
+    "old_price": 89.99,
     "discount_percentage": "-44%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 89.0,
+    "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20524,7 +20536,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21969,
+    "product_id": 22157,
     "name": "HOFFEN Żelazko bezprzewodowe",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20548,7 +20560,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21950,
+    "product_id": 22138,
     "name": "Hoffen Czajnik elektryczny podwójne ścianki",
     "category": "Artykuły domowe",
     "weight_or_volume": "1.8 l",
@@ -20572,7 +20584,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21949,
+    "product_id": 22137,
     "name": "Hoffen Opiekacz do kanapek 5 w 1",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20596,10 +20608,10 @@
     "is_expired": true
   },
   {
-    "product_id": 21952,
+    "product_id": 22140,
     "name": "Homla Zestaw szklanek Luno",
     "category": "Artykuły domowe",
-    "weight_or_volume": "280 ml",
+    "weight_or_volume": "4 szt.",
     "main_price": 34.99,
     "old_price": null,
     "discount_percentage": null,
@@ -20620,8 +20632,8 @@
     "is_expired": true
   },
   {
-    "product_id": 21981,
-    "name": "JUMI Zestaw składanych mebli balkonowych 2 krzesła i stolik, czarne",
+    "product_id": 22169,
+    "name": "JUMI Zestaw składanych mebli balkonowych 2 krzesła i stolik",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 229.0,
@@ -20644,7 +20656,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21983,
+    "product_id": 22172,
     "name": "KARINGBEE Kostkarka do lodu ZB-12Z",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20668,7 +20680,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21948,
+    "product_id": 22136,
     "name": "Karingbee Kostkarka do lodu ZB-12Z biała",
     "category": "Artykuły domowe",
     "weight_or_volume": "1.5 l",
@@ -20692,7 +20704,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21965,
+    "product_id": 22153,
     "name": "LAFE Odkurzacz pionowy PowerGlide bezprzewodowy",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20716,7 +20728,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21964,
+    "product_id": 22152,
     "name": "MELINK Punktowy odkurzacz piorący",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20740,7 +20752,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21951,
+    "product_id": 22139,
     "name": "MG Home Zestaw obiadowy z porcelany Antico lub Gemma",
     "category": "Artykuły domowe",
     "weight_or_volume": "12 elementów",
@@ -20764,10 +20776,10 @@
     "is_expired": true
   },
   {
-    "product_id": 21982,
+    "product_id": 22170,
     "name": "NAC Akumulatorowe nożyce do żywopłotu 3,6 V, 1,5 Ah",
     "category": "Kwiaty i ogród",
-    "weight_or_volume": null,
+    "weight_or_volume": "3,6 V, 1,5 Ah",
     "main_price": 75.9,
     "old_price": 127.0,
     "discount_percentage": "-40%",
@@ -20788,13 +20800,13 @@
     "is_expired": true
   },
   {
-    "product_id": 21980,
+    "product_id": 22168,
     "name": "SPOKEY Mata do ćwiczeń Bali Mat do fitnessu, pilatesu i jogi, 0,4 cm",
     "category": "Artykuły domowe",
     "weight_or_volume": "0,4 cm",
     "main_price": 49.99,
     "old_price": 64.99,
-    "discount_percentage": "-15zł",
+    "discount_percentage": "-15 zł",
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": 64.99,
@@ -20812,7 +20824,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21960,
+    "product_id": 22148,
     "name": "Sanico Zestaw 2 krzeseł tapicerowanych Goldlux Domaison Aria R lub Domaison Aria B",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20821,7 +20833,7 @@
     "discount_percentage": "-50%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 799.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20836,16 +20848,16 @@
     "is_expired": true
   },
   {
-    "product_id": 21957,
-    "name": "Tognana Obrus Florence 140 x 140 cm",
+    "product_id": 22145,
+    "name": "Tognana Obrus Florence",
     "category": "Artykuły domowe",
     "weight_or_volume": "140 x 140 cm",
     "main_price": 54.9,
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "cena_regularna",
-    "promotion_condition": null,
-    "lowest_price_30d": null,
+    "promotion_condition": "Drugi obrus Tognana za 1 zł",
+    "lowest_price_30d": 54.9,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20860,13 +20872,13 @@
     "is_expired": true
   },
   {
-    "product_id": 21970,
-    "name": "VILEDA Deska do prasowania Smart",
+    "product_id": 22158,
+    "name": "VILEDA Deska do prasowania Smart niebiesko-różowa",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 149.0,
     "old_price": 179.0,
-    "discount_percentage": "-30 zł",
+    "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": 179.0,
@@ -20884,7 +20896,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21971,
+    "product_id": 22159,
     "name": "VILEDA Mop obrotowy Turbo ze szczotką do zabrudzeń",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20908,13 +20920,13 @@
     "is_expired": true
   },
   {
-    "product_id": 21968,
+    "product_id": 22156,
     "name": "VILEDA Suszarka na pranie King Ultimate",
     "category": "Artykuły domowe",
     "weight_or_volume": "20 m",
     "main_price": 149.0,
     "old_price": 179.0,
-    "discount_percentage": "-30 zł",
+    "discount_percentage": null,
     "offer_type": "promocja",
     "promotion_condition": null,
     "lowest_price_30d": 179.0,
@@ -20932,8 +20944,8 @@
     "is_expired": true
   },
   {
-    "product_id": 21976,
-    "name": "WINGS Plecak górski Canastero",
+    "product_id": 22164,
+    "name": "WINGS Plecak górski Canastero 30 l",
     "category": "Artykuły domowe",
     "weight_or_volume": "30 l",
     "main_price": 119.0,
@@ -20956,7 +20968,7 @@
     "is_expired": true
   },
   {
-    "product_id": 21979,
+    "product_id": 22167,
     "name": "WINGS Walizka kabinowa z odpinanymi kółkami",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20980,8 +20992,32 @@
     "is_expired": true
   },
   {
-    "product_id": 21972,
+    "product_id": 22171,
     "name": "WINGS Zestaw 3 walizek Merlin",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 399.0,
+    "old_price": 659.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 659.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_TXX_ok%C5%82adka_new_169x275mm_v2.png",
+    "date_label": "OD 11-07",
+    "date_labels": [
+      "OD 11-07"
+    ],
+    "leaflet_id": "izq8xf0z5",
+    "leaflet_ids": [
+      "izq8xf0z5"
+    ],
+    "valid_from": "2026-07-04",
+    "valid_to": "2026-07-26",
+    "is_expired": true
+  },
+  {
+    "product_id": 22160,
+    "name": "WINGS Zestaw 3 walizek Merlin polikarbon",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 399.0,
@@ -20989,7 +21025,7 @@
     "discount_percentage": "-40%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 699.0,
+    "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -48062,6 +48098,4878 @@
     "is_expired": false
   },
   {
+    "product_id": 22128,
+    "name": "AIHO Domek narzędziowy",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": null,
+    "main_price": 599.0,
+    "old_price": 799.0,
+    "discount_percentage": "-25%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22118,
+    "name": "AIHO Fotel rozkładany 3 w 1",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 799.0,
+    "old_price": 1499.0,
+    "discount_percentage": "-45%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22104,
+    "name": "Akcesoria samoprzylepne Command - haczyki",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P38_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22103,
+    "name": "Akcesoria samoprzylepne Command - rzepy lub klipsy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P38_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22102,
+    "name": "Alarm osobisty lub myszka Setty",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P38_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22113,
+    "name": "Altom Design Zestaw 3 butelek szklanych z klipsem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 x 500 ml",
+    "main_price": 29.99,
+    "old_price": 39.99,
+    "discount_percentage": "-25%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P41_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22115,
+    "name": "Altom Design Zestaw garnków emaliowanych 6 elementów",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "16 cm - 1,3 l, 18 cm - 1,9 l, 20 cm - 2,7 l",
+    "main_price": 119.0,
+    "old_price": 189.0,
+    "discount_percentage": "-37%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P41_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21956,
+    "name": "BIC długopis Round Stic Clic",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 szt.",
+    "main_price": 5.49,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21954,
+    "name": "BIC długopisy Cristal Original",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 szt.",
+    "main_price": 4.49,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21959,
+    "name": "BIC długopisy Cristal Pastel",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 szt.",
+    "main_price": 6.49,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21960,
+    "name": "BIC długopisy Cristal Up",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "4 szt.",
+    "main_price": 6.49,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21955,
+    "name": "BIC długopisy Round Stic Classic",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "9 szt.",
+    "main_price": 4.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21957,
+    "name": "BIC korektor w piórze",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "8 ml",
+    "main_price": 5.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 11217,
+    "name": "BIC kredki ołówkowe",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt.",
+    "main_price": 4.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21953,
+    "name": "BIC marker permanentny z cienką lub ściętą końcówką",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 3.49,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21961,
+    "name": "BIC markery akrylowe",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "8 szt.",
+    "main_price": 21.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21958,
+    "name": "BIC temperówka z pojemniczkiem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 5.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P02_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22126,
+    "name": "BLAUPUNKT Irygator DIR301",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 99.0,
+    "old_price": 149.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22129,
+    "name": "BLOW Kamera zewnętrzna T-135",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 99.0,
+    "old_price": 199.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22080,
+    "name": "Bańki mydlane Epee",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 16.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P27_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22064,
+    "name": "Bezszwowe majtki damskie Pompea",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 14.99,
+    "old_price": 19.99,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "PRZY ZAKUPIE 2",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P20_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22073,
+    "name": "Bokserki męskie Head",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "2-pak",
+    "main_price": 34.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P23_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22096,
+    "name": "Bokserki męskie, 5-pak",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 39.95,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P35_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22079,
+    "name": "Breloczek Fuggler",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 17.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P26_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22065,
+    "name": "Buty damskie Clevé",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 49.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P21_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22052,
+    "name": "Buty halowe",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 79.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P15_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22094,
+    "name": "Buty męskie skórzane Clevé",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 79.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P35_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22033,
+    "name": "Chusteczki nawilżane",
+    "category": "Chemia",
+    "weight_or_volume": "30 szt.",
+    "main_price": 5.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P11_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21971,
+    "name": "Cienkopisy Bic, 6 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "6 szt.",
+    "main_price": 15.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22013,
+    "name": "Cienkopisy Muffinaart, 18 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22040,
+    "name": "Cienkopisy trójkątne FC Barcelona",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "18 szt.",
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22093,
+    "name": "Clevé Skarpety damskie, 5-pak",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5-pak",
+    "main_price": 14.95,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P34_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22071,
+    "name": "Czapka lub kapelusz Fila",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 49.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P23_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22117,
+    "name": "DOMAREX Pościel satynowa",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm",
+    "main_price": 49.99,
+    "old_price": 99.0,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22123,
+    "name": "DREAME Odkurzacz pionowy Z30 Station",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 1579.0,
+    "old_price": 2299.0,
+    "discount_percentage": "-30%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22124,
+    "name": "DREAME Urządzenie wielofunkcyjne do włosów Pocket Pro",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 329.0,
+    "old_price": 699.0,
+    "discount_percentage": "-52%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21995,
+    "name": "Deli artykuły szkolne i biurowe (długopisy kulkowe, 5 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 szt.",
+    "main_price": 4.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21998,
+    "name": "Deli artykuły szkolne i biurowe (długopisy żelowe, 3 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 szt.",
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22000,
+    "name": "Deli artykuły szkolne i biurowe (długopisy, 3 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 szt.",
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22001,
+    "name": "Deli artykuły szkolne i biurowe (flamastry, 12 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt.",
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21999,
+    "name": "Deli artykuły szkolne i biurowe (kredki ołówkowe, 12 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt.",
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21996,
+    "name": "Deli artykuły szkolne i biurowe (ołówki HB z gumkami, 3 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 szt.",
+    "main_price": 4.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21997,
+    "name": "Deli artykuły szkolne i biurowe (ołówki HB z gumkami, 4 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "4 szt.",
+    "main_price": 4.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22034,
+    "name": "Drukarka termiczna",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 69.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P11_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 15534,
+    "name": "Dywan",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "130 x 66 cm",
+    "main_price": 39.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P31_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22037,
+    "name": "Długopis 6- lub 10-kolorowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21966,
+    "name": "Długopis Round Stic Exact Bic, 8 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "8 szt.",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22038,
+    "name": "Długopis wymazywalny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "2 szt.",
+    "main_price": 11.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22012,
+    "name": "Długopis wymazywalny Oops Click o grub. linii 0,5 mm, 7 wkładów",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22011,
+    "name": "Długopis wymazywalny Oops o grub. linii 0,6 mm, 7 wkładów",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22006,
+    "name": "Długopis żelowy z zakreślaczem 2 w 1 Muffinaart",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21967,
+    "name": "Długopisy automatyczne Bu3 Grip Bic, 4 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "4 szt.",
+    "main_price": 12.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22010,
+    "name": "Długopisy automatyczne wymazywalne, 2 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21989,
+    "name": "Długopisy wymazywalne Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "2 szt.",
+    "main_price": 8.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21990,
+    "name": "Długopisy żelowe Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "2 szt.",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22120,
+    "name": "EXTRALINK Tablet CP31 Pro",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "10\" 128 GB",
+    "main_price": 499.0,
+    "old_price": 799.0,
+    "discount_percentage": "-37%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22077,
+    "name": "Ele Fun klocki, różne zestawy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 49.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P26_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21962,
+    "name": "Flamastry Bic, 12 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt.",
+    "main_price": 6.29,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21992,
+    "name": "Flamastry Jumbo Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt.",
+    "main_price": 11.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21993,
+    "name": "Flamastry Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt.",
+    "main_price": 11.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22114,
+    "name": "Florina Sokownik parowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "2 x butelka na sok, akcesoria",
+    "main_price": 179.0,
+    "old_price": 269.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P41_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22112,
+    "name": "Florina Zestaw słoików z nakrętką, 6 sztuk",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "165 ml albo 200 ml",
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": "KUP ZESTAW 6 SZTUK SŁOIKÓW I DOBIERZ DRUGI, TAŃSZY ZESTAW ZA 1 ZŁ",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P41_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22133,
+    "name": "Fotel ogrodowy z podnóżkiem Zero Gravity Meven",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 129.0,
+    "old_price": 259.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 259.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P44_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22083,
+    "name": "Fotelik Smukee",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 89.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P28_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22125,
+    "name": "GREENOTE Odkurzacz pionowy GSC55",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 389.0,
+    "old_price": 899.0,
+    "discount_percentage": "-55%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22132,
+    "name": "Grill ogrodowy węglowy Time for Grill",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 59.99,
+    "old_price": 89.0,
+    "discount_percentage": "-32%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 89.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P44_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22131,
+    "name": "Grill ogrodowy węglowy kulisty, z pokrywą Time for Grill",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "ruszt 36,5 cm",
+    "main_price": 49.99,
+    "old_price": 99.9,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 99.9,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P44_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22130,
+    "name": "Gry planszowe Trefl",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": "do -50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22005,
+    "name": "Gumka wysuwana Astrapan",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22002,
+    "name": "Herlitz karteczki w kostce (700 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "700 szt.",
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22003,
+    "name": "Herlitz karteczki w kostce (900 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "900 szt.",
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P07_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22110,
+    "name": "Hoffen Blender fitness",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "300 ml i 700 ml",
+    "main_price": 129.0,
+    "old_price": 249.0,
+    "discount_percentage": "-48%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22109,
+    "name": "Hoffen Expert Czajnik elektryczny albo Blender ręczny 3 w 1, albo Toster z funkcją rozmrażania",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 89.0,
+    "old_price": 179.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22100,
+    "name": "Hoffen Wentylator bezłopatkowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 129.0,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P37_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22106,
+    "name": "Hykker Akcesoria zasilające (przedłużacze lub stacja ładująca)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 34.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P39_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22105,
+    "name": "Kistenberg Skrzynka lub organizer na narzędzia i akcesoria warsztatowe",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P39_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22066,
+    "name": "Klapki damskie lub męskie Clevé",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P21_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21968,
+    "name": "Klej w sztyfcie Bic (zestaw 6 szt.)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "6 szt., 8 g",
+    "main_price": 12.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21964,
+    "name": "Klej w sztyfcie Bic, 21 g, 2 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "21 g, 2 szt.",
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21988,
+    "name": "Klej w sztyfcie Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "21 g, 2 szt.",
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22074,
+    "name": "Komplet pościeli bawełnianej (Pokémon, Kuromi, Hello Kitty, Minecraft)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm + 70 x 80 cm",
+    "main_price": 69.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P24_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 15444,
+    "name": "Komplet pościeli bawełnianej SMUKEE",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm + 2 x 70 x 80 cm",
+    "main_price": 54.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P29_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22090,
+    "name": "Komplet zasłon SMUKEE",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "135 x 250 cm",
+    "main_price": 99.0,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": "2-pak",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P33_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22108,
+    "name": "Konighoffer Gęsiarka żeliwna emaliowana 21 x 10,5 cm, okrągła, kremowa",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "2,8 l",
+    "main_price": 99.0,
+    "old_price": 149.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22107,
+    "name": "Konighoffer Gęsiarka żeliwna emaliowana 25 x 12,3 cm, okrągła",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 l",
+    "main_price": 149.0,
+    "old_price": 199.0,
+    "discount_percentage": "-25%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21972,
+    "name": "Korektor w taśmie z wymiennym wkładem Bic",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 15.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21983,
+    "name": "Kołozeszyt Oxford A4/80 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P05_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21984,
+    "name": "Kołozeszyt Oxford ProjectBook A4/80 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 34.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P05_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22041,
+    "name": "Kredki ołówkowe trójkątne Jumbo Luczek & Pimpek",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt.",
+    "main_price": 21.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22039,
+    "name": "Kredki ołówkowe trójkątne dwustronne Luczek & Pimpek",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 szt. = 24 kolory",
+    "main_price": 11.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22134,
+    "name": "Kwietnik Standy z wkładem doniczkowym Form Plastic",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": "24 cm",
+    "main_price": 49.99,
+    "old_price": 69.9,
+    "discount_percentage": "-28%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 69.9,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P44_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22119,
+    "name": "LAMPY SANICO GOLDLUX",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 74.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "od",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22059,
+    "name": "Lampka akumulatorowa LED Lethe",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 39.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P19_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22092,
+    "name": "Lotto Klapki damskie lub męskie",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 34.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P34_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22111,
+    "name": "MG Home Zestaw obiadowy z kamionki Arteña",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 elementów",
+    "main_price": 149.0,
+    "old_price": 249.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22098,
+    "name": "MG home Serwis obiadowy, 12 el.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 el.",
+    "main_price": 69.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P36_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22121,
+    "name": "MPM Suszarka do włosów MSW-26",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "1600 W",
+    "main_price": 249.0,
+    "old_price": 399.0,
+    "discount_percentage": "-37%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22063,
+    "name": "Majtki damskie 3-pak",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P20_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22088,
+    "name": "Majtki damskie, 5-pak, Clevé",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5-pak",
+    "main_price": 29.95,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P32_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22014,
+    "name": "Markery akrylowe dwustronne Muffinaart w walizeczce, 12 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22015,
+    "name": "Markery artystyczne dwustronne, 36 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 39.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21970,
+    "name": "Markery permanentne Bic, 5 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 szt.",
+    "main_price": 15.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22007,
+    "name": "Markery z brokatem i pędzelkowe Muffinaart, 6 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 8.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22061,
+    "name": "Mata ochronna Smukee",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "118 x 78 cm",
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P19_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22127,
+    "name": "NOVEEN Przepływowy podgrzewacz wody IWH160",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 79.0,
+    "old_price": 99.0,
+    "discount_percentage": "-20%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21976,
+    "name": "Oxford album ofertowy A4 i 20 koszulek",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 13.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P04_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21977,
+    "name": "Oxford brulion B5/96 w miękkiej oprawie, w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P04_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21975,
+    "name": "Oxford teczka A4 z narożnymi gumkami",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 11.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P04_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21974,
+    "name": "Oxford teczka kopertowa A4 na zatrzask",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P04_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21973,
+    "name": "Oxford teczka kopertowa A5, A6 lub DL na zatrzask",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 3.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P04_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22035,
+    "name": "Ołówki HB z gumkami",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "4 szt.",
+    "main_price": 5.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21985,
+    "name": "Ołówki HB z gumkami Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 szt.",
+    "main_price": 6.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21963,
+    "name": "Ołówki automatyczne z gumkami Bic, 5 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 szt.",
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22135,
+    "name": "Piaskownica łódka Palplay",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "130 x 74 x 42,5 cm",
+    "main_price": 69.0,
+    "old_price": 139.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 139.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P44_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22042,
+    "name": "Piórnik jednokomorowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 11155,
+    "name": "Piórnik-saszetka",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 22.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21991,
+    "name": "Pióro wymazywalne z nabojami i czyścikiem Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 11.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22087,
+    "name": "Piżama damska",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P32_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22082,
+    "name": "Piżama dziecięca",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "rozm. 98-128",
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P28_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22056,
+    "name": "Plecak Fila",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "40 x 30 x 15 cm",
+    "main_price": 69.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P18_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22060,
+    "name": "Plecak Lee Cooper",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "50 x 35 x 18 cm",
+    "main_price": 59.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P19_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22054,
+    "name": "Plecak chłopięcy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "43 x 31 x 24 cm",
+    "main_price": 89.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P17_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22049,
+    "name": "Plecak dziecięcy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "29,5 x 23 x 10 cm",
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P14_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22049,
+    "name": "Plecak dziecięcy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "29,5 x 23 x 10 cm",
+    "main_price": 34.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P15_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22049,
+    "name": "Plecak dziecięcy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "29,5 x 23 x 10 cm",
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P16_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22053,
+    "name": "Plecak dziewczęcy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "42 x 29 x 15 cm",
+    "main_price": 89.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P17_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21952,
+    "name": "Plecak lub tornister (Gabbys Dollhouse, Minecraft, Pokémon, Stitch, FC Barcelona, Fila)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P01_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22058,
+    "name": "Plecak młodzieżowy Premium Loozz",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "42 x 30 x 22 cm",
+    "main_price": 119.0,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P18_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 16361,
+    "name": "Plecak szkolny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "41 x 30 x 10 cm",
+    "main_price": 79.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P16_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22050,
+    "name": "Plecak szkolny (duży)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "39 x 28 x 15 cm",
+    "main_price": 59.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P14_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22050,
+    "name": "Plecak szkolny (duży)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "39 x 28 x 15 cm",
+    "main_price": 49.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P15_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22051,
+    "name": "Plecak szkolny (mały)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "37,5 x 30 x 12,5 cm",
+    "main_price": 39.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P14_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 19945,
+    "name": "Pluszak EleFun",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "wys. 38 cm",
+    "main_price": 39.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P25_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22032,
+    "name": "Pomoce dydaktyczne: gra edukacyjna do nauki matematyki z tabletem LCD i rysikiem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P11_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22029,
+    "name": "Pomoce dydaktyczne: karty edukacyjne Pisz i ścieraj",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P11_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22031,
+    "name": "Pomoce dydaktyczne: zestaw magnetyczny do nauki emocji lub języka angielskiego",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P11_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22030,
+    "name": "Pomoce dydaktyczne: zestaw magnetyczny do nauki matematyki lub języka polskiego",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P11_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22091,
+    "name": "Poszewka dekoracyjna",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "45 x 45 cm",
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P33_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22075,
+    "name": "Prześcieradło bawełniane",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "90 x 200 cm",
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P24_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22075,
+    "name": "Prześcieradło bawełniane",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "90 x 200 cm",
+    "main_price": 26.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P29_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22086,
+    "name": "Prześcieradło bawełniane jersey SMUKEE 160x200 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm",
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P31_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22036,
+    "name": "Przybory i akcesoria piśmiennicze",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "5 szt.",
+    "main_price": 8.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22009,
+    "name": "Przybory i akcesoria piśmiennicze Muffinaart, 5 el.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 8.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22099,
+    "name": "Remington Urządzenia do stylizacji włosów (Prostownica, Lokówka, Suszarka)",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 69.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P37_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22097,
+    "name": "SMUKEE Chlebak metalowo-bambusowy / bambusowy / metalowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 49.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P36_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22116,
+    "name": "SMUKEE Zestaw 2 poduszek Duo Soft Touch",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "70 x 80 cm",
+    "main_price": 39.99,
+    "old_price": 59.99,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22072,
+    "name": "Skarpety damskie lub męskie Head",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3-pak",
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P23_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22095,
+    "name": "Skarpety damskie lub męskie Puma, 3-pak",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P35_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22089,
+    "name": "Skarpety damskie lub męskie, 7-pak",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "7-pak",
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P32_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 19921,
+    "name": "Skarpety damskie, 3-pak",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3-pak",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P34_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22078,
+    "name": "Slime z 3 figurkami, różne kolory",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P26_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22084,
+    "name": "Smukee Komplet pościeli bawełnianej",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "160 x 200 cm + 2 x 70 x 80 cm",
+    "main_price": 59.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P30_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22085,
+    "name": "Smukee Poszewka na poduszkę, 2-pak",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "40 x 40 cm",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P30_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22070,
+    "name": "Spodenki męskie Pierre Cardin",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 54.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P22_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22062,
+    "name": "Spodnie damskie Clevé",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P20_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22101,
+    "name": "Stojak na smartfon, podkładka lub kalkulator Setty",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P38_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22069,
+    "name": "Szorty kąpielowe męskie Pierre Cardin",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 44.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P22_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22081,
+    "name": "Słomkołaki Wiejska Przygoda Epee",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P27_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22068,
+    "name": "T-shirt męski Pierre Cardin",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 34.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P22_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22122,
+    "name": "TRACER Powerbank EnerGen",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "20 000 mAh",
+    "main_price": 99.0,
+    "old_price": 119.0,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "-20 zł",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22004,
+    "name": "Temperówka z pojemniczkiem Astrapan",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 3.99,
+    "old_price": 4.99,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "PRZY ZAKUPIE 2",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21986,
+    "name": "Temperówka z pojemniczkiem Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21987,
+    "name": "Temperówka z pojemniczkiem i gumką Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22055,
+    "name": "Tornister szkolny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "36 x 27 x 17 cm",
+    "main_price": 89.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P17_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 16362,
+    "name": "Worek szkolny",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "42 x 35 cm",
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P17_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22057,
+    "name": "Workoplecak Loozz",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "43 x 34.5 cm",
+    "main_price": 24.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P18_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22067,
+    "name": "Wózek na zakupy Clevé",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "24 l",
+    "main_price": 39.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P21_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21969,
+    "name": "Zakreślacze Bic, 3 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 szt.",
+    "main_price": 13.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21965,
+    "name": "Zakreślacze Bic, 4 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "4 szt.",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P03_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22008,
+    "name": "Zakreślacze klasyczne lub ze stempelkami, 6 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 8.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P08_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21994,
+    "name": "Zakreślacze ze stempelkami Strigo",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "4 szt.",
+    "main_price": 11.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P06_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22076,
+    "name": "Zestaw 5 samochodzików Hot Wheels",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "skala 1:64",
+    "main_price": 34.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P25_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21978,
+    "name": "Zeszyt Oxford A5/80 w kratkę lub linie",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P05_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21979,
+    "name": "Zeszyt Oxford B5/60 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P05_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21982,
+    "name": "Zeszyt Oxford EasyBook A4/60 w kratkę lub linie",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 19.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P05_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21981,
+    "name": "Zeszyt Oxford EasyBook B5/60 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 17.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P05_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 16281,
+    "name": "Zeszyt tematyczny A5/60",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "A5/60",
+    "main_price": 3.49,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21980,
+    "name": "Zeszyt tematyczny Oxford A4/60 w kratkę lub linie",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 16.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P05_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22022,
+    "name": "dziurkacze dekoracyjne o śr. 1 cm, 10 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "10 szt.",
+    "main_price": 29.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22024,
+    "name": "edukacyjna kolorowanka z 12 kredkami lub edukacyjna książeczka z naklejkami wielokrotnego użytku",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P10_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22016,
+    "name": "gumka z temperówką",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 5.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 15424,
+    "name": "klej w sztyfcie",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "8 g",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P12_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22045,
+    "name": "kołobrulion A5/100 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22046,
+    "name": "kołonotes A6/96 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22047,
+    "name": "kołozeszyt A4/80 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22020,
+    "name": "kołozeszyt A5/100 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22021,
+    "name": "kołozeszyt B5/100 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 21.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22048,
+    "name": "kołozeszyt B5/96 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 14.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22028,
+    "name": "magiczna mata Ocean lub Farma",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 21.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P10_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22018,
+    "name": "minizszywacz ze zszywkami",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 7.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22025,
+    "name": "nożyczki i 4 dziurkacze dekoracyjne",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 16.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P10_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22017,
+    "name": "nożyczki z zaokrąglonymi ostrzami, dł. 13 cm lub 15 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 6.49,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22023,
+    "name": "piórnik-saszetka z tabletem LCD i rysikiem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 39.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22027,
+    "name": "stempelek z naklejkami wielokrotnego użytku i książeczką",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 21.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P10_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22026,
+    "name": "stempelki zapachowe, alfabet lub cyferki, 26 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "26 szt.",
+    "main_price": 17.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P10_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22019,
+    "name": "teczki A4, 3 szt.",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "3 szt.",
+    "main_price": 9.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P09_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 15415,
+    "name": "zeszyt A4/60 w kratkę",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "A4/60",
+    "main_price": 5.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22044,
+    "name": "zeszyt A5/80 w kratkę lub linie",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 3.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 22043,
+    "name": "zeszyt tematyczny A5/60, okładka z polipropylenu",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 3.99,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P13_nF5d4rFgd5.png",
+    "date_label": "10-08",
+    "date_labels": [
+      "10-08"
+    ],
+    "leaflet_id": "izzyhzpwp",
+    "leaflet_ids": [
+      "izzyhzpwp"
+    ],
+    "valid_from": "2026-08-10",
+    "valid_to": "2026-08-22",
+    "is_expired": false
+  },
+  {
+    "product_id": 21948,
+    "name": "Papryka słodka czerwona na wagę",
+    "category": "Owoce i Warzywa",
+    "weight_or_volume": "1 kg",
+    "main_price": 5.99,
+    "old_price": 12.99,
+    "discount_percentage": "-53%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T32/2026_FOOD_T32B/2026_FOOD_T32B_NAJTANSZA_SOBOTA/T32B_Folder_INS_169x275_online_NAJTANSZA_SOBOTA.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "izsifpk65",
+    "leaflet_ids": [
+      "izsifpk65"
+    ],
+    "valid_from": null,
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 21949,
+    "name": "Polędwica sopocka Kraina Wędlin",
+    "category": "Mięso",
+    "weight_or_volume": "140 g",
+    "main_price": 3.49,
+    "old_price": 6.99,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+2 GRATIS",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T32/2026_FOOD_T32B/2026_FOOD_T32B_NAJTANSZA_SOBOTA/T32B_Folder_INS_169x275_online_NAJTANSZA_SOBOTA.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "izsifpk65",
+    "leaflet_ids": [
+      "izsifpk65"
+    ],
+    "valid_from": null,
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 21951,
+    "name": "Wszystkie chipsy Lay's",
+    "category": "Słodycze",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "2+1 GRATIS",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T32/2026_FOOD_T32B/2026_FOOD_T32B_NAJTANSZA_SOBOTA/T32B_Folder_INS_169x275_online_NAJTANSZA_SOBOTA.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "izsifpk65",
+    "leaflet_ids": [
+      "izsifpk65"
+    ],
+    "valid_from": null,
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 21950,
+    "name": "Wszystkie mięsa mielone wieprzowe i wieprzowo-wołowe Kraina Mięs",
+    "category": "Mięso",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "promocja",
+    "promotion_condition": "1+1 GRATIS",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_FOOD/2026_FOOD_T32/2026_FOOD_T32B/2026_FOOD_T32B_NAJTANSZA_SOBOTA/T32B_Folder_INS_169x275_online_NAJTANSZA_SOBOTA.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "izsifpk65",
+    "leaflet_ids": [
+      "izsifpk65"
+    ],
+    "valid_from": null,
+    "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
     "product_id": 20012,
     "name": "AMBITION Zestaw sztućców 16 elementów / 24 elementy",
     "category": "Artykuły domowe",
@@ -50447,7 +55355,7 @@
     "product_id": 19945,
     "name": "Pluszak EleFun",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "wys. 38 cm",
     "main_price": 16.99,
     "old_price": null,
     "discount_percentage": null,

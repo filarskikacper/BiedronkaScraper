@@ -19492,15 +19492,17 @@
     "date_label": "OD 13-06",
     "date_labels": [
       "OD 13-06",
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "iy4nd6sjq",
     "leaflet_ids": [
       "iy4nd6sjq",
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
     "valid_from": "2026-06-13",
-    "valid_to": "2026-08-22",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -20152,8 +20154,8 @@
     "is_expired": false
   },
   {
-    "product_id": 22142,
-    "name": "Ambition Patelnia głęboka 20 cm",
+    "product_id": 22157,
+    "name": "Ambition Patelnia głęboka",
     "category": "Artykuły domowe",
     "weight_or_volume": "20 cm",
     "main_price": 39.99,
@@ -20176,8 +20178,8 @@
     "is_expired": true
   },
   {
-    "product_id": 22143,
-    "name": "Ambition Patelnia wok 28 cm",
+    "product_id": 22158,
+    "name": "Ambition Patelnia wok",
     "category": "Artykuły domowe",
     "weight_or_volume": "28 cm",
     "main_price": 59.0,
@@ -20200,7 +20202,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22166,
+    "product_id": 22181,
     "name": "BIKFUN Rower elektryczny MTB AMAK00051",
     "category": "Artykuły domowe",
     "weight_or_volume": "koła 27,5\"",
@@ -20224,7 +20226,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22155,
+    "product_id": 22170,
     "name": "DREAME Bezprzewodowy odkurzacz pionowy Z20 Station ze stacją, czarny",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20248,7 +20250,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22154,
+    "product_id": 22169,
     "name": "DREAME Robot sprzątający L40 Ultra A biały",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20272,8 +20274,8 @@
     "is_expired": true
   },
   {
-    "product_id": 22147,
-    "name": "Decoteam Miniroleta",
+    "product_id": 22162,
+    "name": "Decoteam Minirolety",
     "category": "Artykuły domowe",
     "weight_or_volume": "45 x 150 cm",
     "main_price": 27.99,
@@ -20296,7 +20298,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22151,
+    "product_id": 22166,
     "name": "Decoteam Żaluzja drewnopodobna",
     "category": "Artykuły domowe",
     "weight_or_volume": "60 x 140 cm",
@@ -20320,7 +20322,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22146,
+    "product_id": 22161,
     "name": "Detexpol Pościel bawełniana z falbaną",
     "category": "Artykuły domowe",
     "weight_or_volume": "160 x 200 cm",
@@ -20344,7 +20346,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22144,
+    "product_id": 22159,
     "name": "Domaison Poduszka ergonomiczna Axis G lub Axis W",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20368,7 +20370,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22141,
+    "product_id": 22156,
     "name": "Dreame Ryżowar FK30 Pro biały",
     "category": "Artykuły domowe",
     "weight_or_volume": "2 l",
@@ -20392,8 +20394,8 @@
     "is_expired": true
   },
   {
-    "product_id": 22150,
-    "name": "Goldlux Lampa wisząca LED Florentyna",
+    "product_id": 22165,
+    "name": "Goldlux Lampa wisząca LED Florentyna czarna",
     "category": "Artykuły domowe",
     "weight_or_volume": "48 W, 4000 K",
     "main_price": 249.0,
@@ -20416,8 +20418,8 @@
     "is_expired": true
   },
   {
-    "product_id": 22149,
-    "name": "Goldlux Lampa ścienna LED Florentyna",
+    "product_id": 22164,
+    "name": "Goldlux Lampa ścienna LED Florentyna czarna",
     "category": "Artykuły domowe",
     "weight_or_volume": "24 W, 4000 K",
     "main_price": 149.0,
@@ -20440,7 +20442,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22161,
+    "product_id": 22176,
     "name": "HI-TEC Karimata Tapis",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20464,7 +20466,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22162,
+    "product_id": 22177,
     "name": "HI-TEC Koc piknikowy Battani wielokolorowy",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20488,10 +20490,10 @@
     "is_expired": true
   },
   {
-    "product_id": 22163,
-    "name": "HIMOUNTAIN Aluminiowe kije trekkingowe 66-135 cm",
+    "product_id": 22178,
+    "name": "HIMOUNTAIN Aluminiowe kije trekkingowe",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "66-135 cm",
     "main_price": 59.9,
     "old_price": 99.0,
     "discount_percentage": "-39%",
@@ -20512,12 +20514,12 @@
     "is_expired": true
   },
   {
-    "product_id": 22165,
+    "product_id": 22180,
     "name": "HIMOUNTAIN Okulary przeciwsłoneczne UV400",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 49.99,
-    "old_price": 89.99,
+    "old_price": 89.0,
     "discount_percentage": "-44%",
     "offer_type": "promocja",
     "promotion_condition": null,
@@ -20536,7 +20538,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22157,
+    "product_id": 22172,
     "name": "HOFFEN Żelazko bezprzewodowe",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20560,10 +20562,10 @@
     "is_expired": true
   },
   {
-    "product_id": 22138,
-    "name": "Hoffen Czajnik elektryczny podwójne ścianki",
+    "product_id": 22153,
+    "name": "Hoffen Czajnik elektryczny podwójne ścianki, czarny",
     "category": "Artykuły domowe",
-    "weight_or_volume": "1.8 l",
+    "weight_or_volume": "1,8 l",
     "main_price": 69.9,
     "old_price": 139.0,
     "discount_percentage": "-49%",
@@ -20584,7 +20586,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22137,
+    "product_id": 22152,
     "name": "Hoffen Opiekacz do kanapek 5 w 1",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20608,7 +20610,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22140,
+    "product_id": 22155,
     "name": "Homla Zestaw szklanek Luno",
     "category": "Artykuły domowe",
     "weight_or_volume": "4 szt.",
@@ -20632,8 +20634,8 @@
     "is_expired": true
   },
   {
-    "product_id": 22169,
-    "name": "JUMI Zestaw składanych mebli balkonowych 2 krzesła i stolik",
+    "product_id": 22184,
+    "name": "JUMI Zestaw składanych mebli balkonowych (2 krzesła i stolik)",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 229.0,
@@ -20656,34 +20658,10 @@
     "is_expired": true
   },
   {
-    "product_id": 22172,
-    "name": "KARINGBEE Kostkarka do lodu ZB-12Z",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 259.0,
-    "old_price": 599.0,
-    "discount_percentage": "-55%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": 599.0,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_TXX_ok%C5%82adka_new_169x275mm_v2.png",
-    "date_label": "OD 11-07",
-    "date_labels": [
-      "OD 11-07"
-    ],
-    "leaflet_id": "izq8xf0z5",
-    "leaflet_ids": [
-      "izq8xf0z5"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-26",
-    "is_expired": true
-  },
-  {
-    "product_id": 22136,
+    "product_id": 22151,
     "name": "Karingbee Kostkarka do lodu ZB-12Z biała",
     "category": "Artykuły domowe",
-    "weight_or_volume": "1.5 l",
+    "weight_or_volume": "1,5 l",
     "main_price": 259.0,
     "old_price": 599.0,
     "discount_percentage": "-55%",
@@ -20704,7 +20682,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22153,
+    "product_id": 22168,
     "name": "LAFE Odkurzacz pionowy PowerGlide bezprzewodowy",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20728,7 +20706,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22152,
+    "product_id": 22167,
     "name": "MELINK Punktowy odkurzacz piorący",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20752,7 +20730,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22139,
+    "product_id": 22154,
     "name": "MG Home Zestaw obiadowy z porcelany Antico lub Gemma",
     "category": "Artykuły domowe",
     "weight_or_volume": "12 elementów",
@@ -20776,7 +20754,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22170,
+    "product_id": 22185,
     "name": "NAC Akumulatorowe nożyce do żywopłotu 3,6 V, 1,5 Ah",
     "category": "Kwiaty i ogród",
     "weight_or_volume": "3,6 V, 1,5 Ah",
@@ -20800,8 +20778,8 @@
     "is_expired": true
   },
   {
-    "product_id": 22168,
-    "name": "SPOKEY Mata do ćwiczeń Bali Mat do fitnessu, pilatesu i jogi, 0,4 cm",
+    "product_id": 22183,
+    "name": "SPOKEY Mata do ćwiczeń Bali Mat do fitnessu, pilatesu i jogi 0,4 cm",
     "category": "Artykuły domowe",
     "weight_or_volume": "0,4 cm",
     "main_price": 49.99,
@@ -20824,7 +20802,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22148,
+    "product_id": 22163,
     "name": "Sanico Zestaw 2 krzeseł tapicerowanych Goldlux Domaison Aria R lub Domaison Aria B",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20848,7 +20826,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22145,
+    "product_id": 22160,
     "name": "Tognana Obrus Florence",
     "category": "Artykuły domowe",
     "weight_or_volume": "140 x 140 cm",
@@ -20856,8 +20834,8 @@
     "old_price": null,
     "discount_percentage": null,
     "offer_type": "cena_regularna",
-    "promotion_condition": "Drugi obrus Tognana za 1 zł",
-    "lowest_price_30d": 54.9,
+    "promotion_condition": null,
+    "lowest_price_30d": null,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_52-53_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20872,7 +20850,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22158,
+    "product_id": 22173,
     "name": "VILEDA Deska do prasowania Smart niebiesko-różowa",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20896,7 +20874,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22159,
+    "product_id": 22174,
     "name": "VILEDA Mop obrotowy Turbo ze szczotką do zabrudzeń",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
@@ -20920,7 +20898,7 @@
     "is_expired": true
   },
   {
-    "product_id": 22156,
+    "product_id": 22171,
     "name": "VILEDA Suszarka na pranie King Ultimate",
     "category": "Artykuły domowe",
     "weight_or_volume": "20 m",
@@ -20944,10 +20922,10 @@
     "is_expired": true
   },
   {
-    "product_id": 22164,
-    "name": "WINGS Plecak górski Canastero 30 l",
+    "product_id": 22179,
+    "name": "WINGS Plecak górski Canastero",
     "category": "Artykuły domowe",
-    "weight_or_volume": "30 l",
+    "weight_or_volume": "30 L",
     "main_price": 119.0,
     "old_price": 149.0,
     "discount_percentage": "-20%",
@@ -20968,16 +20946,16 @@
     "is_expired": true
   },
   {
-    "product_id": 22167,
+    "product_id": 22182,
     "name": "WINGS Walizka kabinowa z odpinanymi kółkami",
     "category": "Artykuły domowe",
     "weight_or_volume": null,
     "main_price": 99.0,
-    "old_price": 197.0,
+    "old_price": 199.0,
     "discount_percentage": "-50%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": 197.0,
+    "lowest_price_30d": 199.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_ostatnia_str_169x275mm.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -20992,40 +20970,16 @@
     "is_expired": true
   },
   {
-    "product_id": 22171,
+    "product_id": 22175,
     "name": "WINGS Zestaw 3 walizek Merlin",
     "category": "Artykuły domowe",
-    "weight_or_volume": null,
-    "main_price": 399.0,
-    "old_price": 659.0,
-    "discount_percentage": "-40%",
-    "offer_type": "promocja",
-    "promotion_condition": null,
-    "lowest_price_30d": 659.0,
-    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_TXX_ok%C5%82adka_new_169x275mm_v2.png",
-    "date_label": "OD 11-07",
-    "date_labels": [
-      "OD 11-07"
-    ],
-    "leaflet_id": "izq8xf0z5",
-    "leaflet_ids": [
-      "izq8xf0z5"
-    ],
-    "valid_from": "2026-07-04",
-    "valid_to": "2026-07-26",
-    "is_expired": true
-  },
-  {
-    "product_id": 22160,
-    "name": "WINGS Zestaw 3 walizek Merlin polikarbon",
-    "category": "Artykuły domowe",
-    "weight_or_volume": null,
+    "weight_or_volume": "3 szt.",
     "main_price": 399.0,
     "old_price": 699.0,
     "discount_percentage": "-40%",
     "offer_type": "promocja",
     "promotion_condition": null,
-    "lowest_price_30d": null,
+    "lowest_price_30d": 659.0,
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_29/BH_2026_Gazetka_T29_54-55_169x275mm2.png",
     "date_label": "OD 11-07",
     "date_labels": [
@@ -48111,14 +48065,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -48135,14 +48091,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P42_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -48231,14 +48189,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P41_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -48255,14 +48215,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P41_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -48519,14 +48481,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -48543,14 +48507,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -48927,14 +48893,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -48951,14 +48919,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -49575,14 +49545,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P41_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -49815,14 +49787,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -50103,14 +50077,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -50127,14 +50103,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P40_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -50607,14 +50585,16 @@
     "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_NONFOOD/2026_NONFOOD_T33/2026_NONFOOD_T33_P43_nF5d4rFgd5.png",
     "date_label": "10-08",
     "date_labels": [
-      "10-08"
+      "10-08",
+      "08-08"
     ],
     "leaflet_id": "izzyhzpwp",
     "leaflet_ids": [
-      "izzyhzpwp"
+      "izzyhzpwp",
+      "j01o8e181"
     ],
-    "valid_from": "2026-08-10",
-    "valid_to": "2026-08-22",
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
@@ -52874,6 +52854,270 @@
     "is_expired": false
   },
   {
+    "product_id": 22145,
+    "name": "DOMAREX Pościel satynowa 160 x 200 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 49.99,
+    "old_price": 99.0,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str54_169x275mm_v3.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22146,
+    "name": "EXTRALINK Tablet CP31 Pro, 10\" 128 GB, z etui, klawiaturą, myszą i rysikiem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 499.0,
+    "old_price": 799.0,
+    "discount_percentage": "-37%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str54_169x275mm_v3.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22143,
+    "name": "Florina Sokownik parowy 2 x butelka na sok, akcesoria",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 179.0,
+    "old_price": 269.0,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str53_169x275mm_v12.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22139,
+    "name": "Form Plastic kwietnik Standy z wkładem doniczkowym, czarny",
+    "category": "Kwiaty i ogród",
+    "weight_or_volume": "24 cm",
+    "main_price": 49.99,
+    "old_price": 69.9,
+    "discount_percentage": "-28%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_ostatnia_169x275mm_v5.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22149,
+    "name": "GREENOTE Odkurzacz pionowy bezprzewodowy GSC55",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 389.0,
+    "old_price": 899.0,
+    "discount_percentage": "-55%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": 899.0,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str55_169x275mm_v32.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22141,
+    "name": "Hoffen Expert Czajnik elektryczny albo Blender ręczny albo Toster z funkcją rozmrażania, urządzenia z wyświetlaczem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 89.0,
+    "old_price": 179.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str52_169x275mm_v1.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22119,
+    "name": "LAMPY SANICO GOLDLUX",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 74.9,
+    "old_price": null,
+    "discount_percentage": null,
+    "offer_type": "cena_regularna",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str54_169x275mm_v3.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22142,
+    "name": "MG Home Zestaw obiadowy z kamionki Artena na 4 osoby",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "12 elementów",
+    "main_price": 149.0,
+    "old_price": 249.0,
+    "discount_percentage": "-40%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str52_169x275mm_v1.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22147,
+    "name": "MPM Suszarka do włosów MSW-26 z jonizacją, perłowa",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 249.0,
+    "old_price": 399.0,
+    "discount_percentage": "-37%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str54_169x275mm_v3.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22138,
+    "name": "Meven fotel ogrodowy z podnóżkiem Zero Gravity",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 129.0,
+    "old_price": 259.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_ostatnia_169x275mm_v5.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22140,
+    "name": "PalPlay piaskownica łódka z pokrywem",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "130 x 74 x 42,5 cm",
+    "main_price": 69.0,
+    "old_price": 139.0,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_ostatnia_169x275mm_v5.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
     "product_id": 21948,
     "name": "Papryka słodka czerwona na wagę",
     "category": "Owoce i Warzywa",
@@ -52919,6 +53163,126 @@
     ],
     "valid_from": null,
     "valid_to": "2026-08-08",
+    "is_expired": false
+  },
+  {
+    "product_id": 22144,
+    "name": "SMUKEE Zestaw 2 poduszek Duo Soft Touch 70 x 80 cm",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 39.99,
+    "old_price": 59.99,
+    "discount_percentage": "-33%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str54_169x275mm_v3.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22148,
+    "name": "TRACER Powerbank EnerGen 20 000 mAh",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "20 000 mAh",
+    "main_price": 99.0,
+    "old_price": 119.0,
+    "discount_percentage": "-20 zł",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str54_169x275mm_v3.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22137,
+    "name": "Time For Grill grill ogrodowy węglowy",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": 59.99,
+    "old_price": 89.0,
+    "discount_percentage": "-32%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_ostatnia_169x275mm_v5.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22136,
+    "name": "Time For Grill grill ogrodowy węglowy kulisty z pokrywą",
+    "category": "Artykuły domowe",
+    "weight_or_volume": "36,5 cm",
+    "main_price": 49.99,
+    "old_price": 99.9,
+    "discount_percentage": "-49%",
+    "offer_type": "promocja",
+    "promotion_condition": null,
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_ostatnia_169x275mm_v5.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
+    "is_expired": false
+  },
+  {
+    "product_id": 22150,
+    "name": "Trefl Gry planszowe",
+    "category": "Artykuły domowe",
+    "weight_or_volume": null,
+    "main_price": null,
+    "old_price": null,
+    "discount_percentage": "-50%",
+    "offer_type": "promocja",
+    "promotion_condition": "DO -50%",
+    "lowest_price_30d": null,
+    "image_url": "https://images.biedronka.cloud/api/v1/cdn-cgi/r2/leaflet-prod/images/2026_ROK/2026_BIEDRONKAHOME/T_33/BH_2026_Gazetka_T33_str55_169x275mm_v32.png",
+    "date_label": "08-08",
+    "date_labels": [
+      "08-08"
+    ],
+    "leaflet_id": "j01o8e181",
+    "leaflet_ids": [
+      "j01o8e181"
+    ],
+    "valid_from": "2026-08-01",
+    "valid_to": "2026-09-30",
     "is_expired": false
   },
   {
